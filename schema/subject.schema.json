@@ -1,0 +1,336 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/antoniorani/uned-study-content/schema/subject.schema.json",
+  "title": "UNED Study subject",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "title",
+    "type",
+    "content_version",
+    "topics",
+    "items"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9_-]*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "degree": {
+      "type": "string",
+      "minLength": 1
+    },
+    "course": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "type": {
+      "enum": ["test", "flashcards"]
+    },
+    "content_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "exam": {
+      "$ref": "#/$defs/exam"
+    },
+    "topics": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/topic"
+      }
+    },
+    "items": {
+      "type": "array"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "test"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/$defs/testQuestion"
+            }
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/$defs/flashcard"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "topic": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]*$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "type": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "page": {
+          "type": ["integer", "string"]
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "commonItem": {
+      "type": "object",
+      "required": ["id", "topic", "importance"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_-]*$"
+        },
+        "topic": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]*$"
+        },
+        "importance": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "tags": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "source": {
+          "$ref": "#/$defs/source"
+        },
+        "exam_history": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "answer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "text_md"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "text_md": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "testQuestion": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/commonItem"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "id",
+            "topic",
+            "importance",
+            "question_md",
+            "answers",
+            "correct_answer"
+          ],
+          "properties": {
+            "id": {
+              "type": "string",
+              "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_-]*$"
+            },
+            "topic": {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9_-]*$"
+            },
+            "importance": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 5
+            },
+            "question_md": {
+              "type": "string",
+              "minLength": 1
+            },
+            "answers": {
+              "type": "array",
+              "minItems": 2,
+              "items": {
+                "$ref": "#/$defs/answer"
+              }
+            },
+            "correct_answer": {
+              "type": "string",
+              "minLength": 1
+            },
+            "explanation_md": {
+              "type": "string"
+            },
+            "tags": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "source": {
+              "$ref": "#/$defs/source"
+            },
+            "exam_history": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "flashcard": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/commonItem"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "id",
+            "topic",
+            "importance",
+            "front_md",
+            "back_md"
+          ],
+          "properties": {
+            "id": {
+              "type": "string",
+              "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_-]*$"
+            },
+            "topic": {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9_-]*$"
+            },
+            "importance": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 5
+            },
+            "front_md": {
+              "type": "string",
+              "minLength": 1
+            },
+            "back_md": {
+              "type": "string",
+              "minLength": 1
+            },
+            "hint_md": {
+              "type": "string"
+            },
+            "mnemonic_md": {
+              "type": "string"
+            },
+            "tags": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "source": {
+              "$ref": "#/$defs/source"
+            },
+            "exam_history": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "exam": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "questions": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "reserve_questions": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "duration_minutes": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "wrong_answer_penalty": {
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    }
+  }
+}

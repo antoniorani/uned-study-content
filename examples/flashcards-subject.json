@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "example_flashcards",
+  "title": "Asignatura de ejemplo — Desarrollo",
+  "degree": "Ejemplo",
+  "course": 1,
+  "type": "flashcards",
+  "content_version": "2026.09.1",
+  "topics": [
+    {
+      "id": "tema_01",
+      "title": "Conceptos fundamentales"
+    }
+  ],
+  "items": [
+    {
+      "id": "ex-card-t01-c001",
+      "topic": "tema_01",
+      "importance": 4,
+      "front_md": "## ¿Qué debe recordar el estudiante sobre el concepto A?",
+      "back_md": "La respuesta puede usar **Markdown** y organizarse para facilitar el recuerdo.\n\n- Idea principal\n- Distinción relevante\n- Consecuencia",
+      "hint_md": "Piensa en la idea principal antes de revelar la respuesta.",
+      "mnemonic_md": "**A-B-C** puede utilizarse como mnemotecnia cuando tenga valor real.",
+      "tags": [
+        "ejemplo"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio"
+      }
+    }
+  ]
+}

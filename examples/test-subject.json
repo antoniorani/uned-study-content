@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "example_test",
+  "title": "Asignatura de ejemplo — Test",
+  "degree": "Ejemplo",
+  "course": 1,
+  "type": "test",
+  "content_version": "2026.09.1",
+  "exam": {
+    "questions": 20,
+    "duration_minutes": 60,
+    "wrong_answer_penalty": 0.25
+  },
+  "topics": [
+    {
+      "id": "tema_01",
+      "title": "Conceptos fundamentales"
+    }
+  ],
+  "items": [
+    {
+      "id": "ex-test-t01-q001",
+      "topic": "tema_01",
+      "importance": 3,
+      "question_md": "¿Cuál de las siguientes opciones representa el **concepto A** en este ejemplo ficticio?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Definición A"
+        },
+        {
+          "id": "b",
+          "text_md": "Definición B"
+        },
+        {
+          "id": "c",
+          "text_md": "Definición C"
+        }
+      ],
+      "correct_answer": "a",
+      "explanation_md": "**A** es la respuesta definida como correcta únicamente para demostrar la estructura del JSON.",
+      "tags": [
+        "ejemplo"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio"
+      }
+    }
+  ]
+}
