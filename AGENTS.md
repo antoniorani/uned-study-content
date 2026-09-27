@@ -153,6 +153,16 @@ Store subject-specific media under:
 
 Use stable filenames and relative paths.
 
+The application currently serves these image types from `assets/`:
+
+- `.png`
+- `.jpg` / `.jpeg`
+- `.webp`
+- `.gif`
+- `.svg`
+
+Do not reference HTML, JavaScript or other active files as study assets. The application deliberately refuses to serve them.
+
 Do not rename an asset without updating every reference. Prefer SVG/PNG/WebP for diagrams and images when appropriate. Do not add copyrighted material unless the user has the right to store it.
 
 ## Topics and tags
