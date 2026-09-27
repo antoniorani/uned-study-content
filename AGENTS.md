@@ -76,6 +76,39 @@ When source material is supplied:
 
 If the source is ambiguous or internally inconsistent, prefer a review note in the pull request over fabricated certainty.
 
+## Exam metadata
+
+Test subjects may include an `exam` object describing the real examination format.
+
+Only populate values that are supported by official guidance, a reliable syllabus, documented exam instructions or source material supplied by the user. **Do not invent an exam format just so the application can offer a mock exam.**
+
+Supported fields in schema v1 include:
+
+```json
+{
+  "exam": {
+    "questions": 20,
+    "reserve_questions": 2,
+    "duration_minutes": 60,
+    "wrong_answer_penalty": 0.25
+  }
+}
+```
+
+Semantics:
+
+- `questions`: number of ordinary questions in the real exam.
+- `reserve_questions`: documented reserve questions, if the exam uses them.
+- `duration_minutes`: official exam duration.
+- `wrong_answer_penalty`: points deducted from the raw correct-answer count for each incorrect answer. For example, `0.25` means four incorrect answers deduct the equivalent of one correct answer.
+- Omit a field when it is not known reliably.
+
+The current application alpha uses `questions`, `duration_minutes` and `wrong_answer_penalty` for mock exams. It caps a mock exam to the number of questions actually present in the bank. `reserve_questions` is retained as academic metadata but is not yet injected into the mock-exam flow.
+
+Do not infer a passing threshold. The application reports the calculated score but does not assume that 5/10, or any other value, is the applicable pass mark unless a future content contract explicitly represents that rule.
+
+Mock-exam selection is intentionally different from adaptive study: personal errors do not influence the sample. Academic `importance` can influence sampling, so importance must remain evidence-based rather than being inflated to manipulate mock exams.
+
 ## Test-question quality
 
 A test item must have:
