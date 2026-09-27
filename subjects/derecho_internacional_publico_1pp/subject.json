@@ -4,309 +4,659 @@
   "title": "Derecho Internacional Público — Primer parcial",
   "degree": "UNED",
   "type": "flashcards",
-  "content_version": "2026.09.1",
+  "content_version": "2026.09.2",
   "topics": [
-    {"id":"tema_01","title":"Lección 1 — Ius cogens"},
-    {"id":"tema_02","title":"Lección 2 — Fuentes y artículo 38 del Estatuto del TIJ"},
-    {"id":"tema_03","title":"Lección 3 — Costumbre y actos unilaterales"},
-    {"id":"tema_04","title":"Lección 4 — Celebración y reservas de los tratados"},
-    {"id":"tema_05","title":"Lecciones 5–6 — Suspensión, terminación y nulidad de los tratados"},
-    {"id":"tema_09","title":"Lección 9 — Estado y reconocimiento"},
-    {"id":"tema_11","title":"Lección 11 — Inmunidad jurisdiccional del Estado"},
-    {"id":"tema_12","title":"Lección 12 — Sucesión de Estados en materia de tratados"},
-    {"id":"tema_14","title":"Lección 14 — Agentes consulares"},
-    {"id":"tema_16","title":"Lección 16 — Mar territorial"},
-    {"id":"tema_18","title":"Lección 18 — ZEE y plataforma continental"},
-    {"id":"tema_19","title":"Lección 19 — Alta mar"},
-    {"id":"tema_21","title":"Lección 21 — Asilo, nacionalidad y protección diplomática"}
+    {
+      "id": "tema_01",
+      "title": "Lección 1 — Ius cogens"
+    },
+    {
+      "id": "tema_02",
+      "title": "Lección 2 — Fuentes y artículo 38 del Estatuto del TIJ"
+    },
+    {
+      "id": "tema_03",
+      "title": "Lección 3 — Costumbre y actos unilaterales"
+    },
+    {
+      "id": "tema_04",
+      "title": "Lección 4 — Celebración y reservas de los tratados"
+    },
+    {
+      "id": "tema_05",
+      "title": "Lecciones 5–6 — Efectos, nulidad, suspensión y terminación de tratados"
+    },
+    {
+      "id": "tema_08",
+      "title": "Lección 8 — Tratados en el Derecho español"
+    },
+    {
+      "id": "tema_09",
+      "title": "Lección 9 — Estado y reconocimiento"
+    },
+    {
+      "id": "tema_10",
+      "title": "Lección 10 — El individuo y otros sujetos"
+    },
+    {
+      "id": "tema_11",
+      "title": "Lección 11 — Inmunidad jurisdiccional del Estado"
+    },
+    {
+      "id": "tema_12",
+      "title": "Lección 12 — Sucesión de Estados en materia de tratados"
+    },
+    {
+      "id": "tema_14",
+      "title": "Lección 14 — Agentes consulares"
+    },
+    {
+      "id": "tema_15",
+      "title": "Lección 15 — Soberanía territorial"
+    },
+    {
+      "id": "tema_16",
+      "title": "Lección 16 — Mar territorial"
+    },
+    {
+      "id": "tema_18",
+      "title": "Lección 18 — ZEE y plataforma continental"
+    },
+    {
+      "id": "tema_19",
+      "title": "Lección 19 — Alta mar"
+    },
+    {
+      "id": "tema_21",
+      "title": "Lección 21 — Asilo, nacionalidad y nacionales en el extranjero"
+    },
+    {
+      "id": "casos",
+      "title": "Casos prácticos — Algoritmos de resolución"
+    }
   ],
   "items": [
     {
-      "id":"dip1pp-t01-c001","topic":"tema_01","importance":4,
-      "front_md":"## ¿Qué caracteriza a una norma de *ius cogens*?",
-      "back_md":"Es una norma **imperativa de Derecho internacional general** que:\n\n- no admite acuerdo en contrario;\n- no puede excluirse ni modificarse por la voluntad de los Estados;\n- prevalece jerárquicamente sobre las normas dispositivas;\n- hace nulo el tratado contrario a ella.",
-      "tags":["ius-cogens","fuentes"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Lección 1"}
+      "id": "dip1pp-f01-zee",
+      "topic": "tema_18",
+      "importance": 5,
+      "front_md": "## La Zona Económica Exclusiva (ZEE)\nDesarrolle **concepto y anchura**, **derechos del Estado ribereño** y **derechos de los demás Estados**.",
+      "hint_md": "**IDEA ANCLA:** ZEE = hasta 200 millas; recursos para el ribereño, navegación para los demás.",
+      "back_md": "### Concepto y anchura\n- Área situada **fuera del mar territorial y adyacente a él**, sometida a un régimen jurídico específico.\n- Se mide desde las líneas de base del mar territorial y su anchura máxima es de **200 millas marinas**.\n- Es una zona **sui generis**: no es mar territorial, alta mar ni plataforma continental.\n\n### Derechos del Estado ribereño\n- Derechos de soberanía para explorar, explotar, conservar y administrar los recursos naturales vivos y no vivos de las aguas, lecho y subsuelo.\n- Puede reglamentar la pesca y adoptar medidas de **visita, inspección, apresamiento e iniciación de procedimientos** para hacer cumplir sus leyes.\n- Tiene jurisdicción sobre islas artificiales e instalaciones, investigación científica marina y protección del medio marino.\n\n### Derechos de los demás Estados\n- Libertades de **navegación, sobrevuelo y tendido de cables y tuberías**.\n- Deben respetar los derechos del ribereño y sus leyes aplicables en la zona.\n\n**En examen:** empiece definiendo la ZEE y las 200 millas; después separe derechos del ribereño y libertades de terceros. Si aparece pesca, mencione visita, inspección y apresamiento.",
+      "mnemonic_md": "**200 millas → recursos → pesca/inspección → jurisdicción → navegación de terceros.**",
+      "tags": [
+        "zee",
+        "derecho-del-mar",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 01"
+      }
     },
     {
-      "id":"dip1pp-t01-c002","topic":"tema_01","importance":4,
-      "front_md":"## ¿Qué establecen los arts. 53 y 64 de la Convención de Viena de 1969 sobre el *ius cogens*?",
-      "back_md":"- **Art. 53:** es nulo el tratado que, al celebrarse, sea contrario a una norma imperativa de Derecho internacional general.\n- **Art. 64:** si aparece después una nueva norma de *ius cogens*, todo tratado existente incompatible con ella se vuelve nulo y termina.",
-      "tags":["ius-cogens","tratados","convencion-de-viena"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Lección 1"}
+      "id": "dip1pp-f02-art38",
+      "topic": "tema_02",
+      "importance": 5,
+      "front_md": "## Examen de las fuentes: artículo 38 del Estatuto del TIJ\nExponga las **fuentes que aplica la Corte**, distinga fuentes y medios auxiliares y explique si existe jerarquía.",
+      "hint_md": "**IDEA ANCLA:** tres fuentes principales + decisiones judiciales/doctrina como medios auxiliares; no hay jerarquía general.",
+      "back_md": "### Fuentes que aplica la Corte\n- **Convenciones internacionales**, generales o particulares, reconocidas por los Estados litigantes.\n- **Costumbre internacional**: práctica generalmente aceptada como Derecho.\n- **Principios generales del Derecho**.\n- **Decisiones judiciales y doctrina de los publicistas**: medios auxiliares, no fuentes de producción en sentido estricto.\n\n### Jerarquía\n- El orden del art. 38 no establece jerarquía entre tratado, costumbre y principios generales.\n- En caso de conflicto operan criterios generales: **norma posterior** frente a anterior de igual rango y **norma especial** frente a general.\n- El **ius cogens** es la gran excepción por su carácter imperativo.\n\n**En examen:** enumere a), b), c), d); aclare qué es fuente y qué es auxiliar; cierre con ausencia de jerarquía y criterios de conflicto.",
+      "mnemonic_md": "**Tratado – Costumbre – Principios – Jurisprudencia/doctrina auxiliares – sin jerarquía – ius cogens manda.**",
+      "tags": [
+        "articulo-38",
+        "fuentes",
+        "tij",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 02"
+      }
     },
     {
-      "id":"dip1pp-t02-c001","topic":"tema_02","importance":5,
-      "front_md":"## ¿Qué fuentes enumera el art. 38.1 del Estatuto del Tribunal Internacional de Justicia?",
-      "back_md":"La Corte aplica:\n\n1. **Convenciones internacionales** generales o particulares.\n2. **Costumbre internacional**, como práctica generalmente aceptada como Derecho.\n3. **Principios generales del Derecho**.\n4. **Decisiones judiciales y doctrina** de los publicistas más cualificados, como **medios auxiliares**, no como fuentes creadoras en sentido estricto.",
-      "tags":["articulo-38","fuentes","tij"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Art. 38 del Estatuto del TIJ"}
+      "id": "dip1pp-f03-sucesion",
+      "topic": "tema_12",
+      "importance": 5,
+      "front_md": "## La sucesión de Estados en materia de tratados internacionales\nExponga el régimen para **parte del territorio**, **Estados de reciente independencia** y **unificación/separación**.",
+      "hint_md": "**IDEA ANCLA:** territorio pasa a otro Estado; independencia = tabla rasa; unificación/separación = continuidad.",
+      "back_md": "### Régimen básico\n- Los apuntes lo estudian a partir del **Convenio de Viena de 1978**.\n- Si una parte del territorio pasa a otro Estado, dejan de aplicarse allí los tratados del Estado predecesor y entran los del Estado sucesor.\n\n### Estado de reciente independencia\n- Rige la **tabla rasa**: no queda obligado por un tratado solo porque estuviera vigente respecto del territorio antes de la independencia.\n- En tratados multilaterales puede llegar a ser parte mediante **notificación de sucesión**.\n- En tratados bilaterales necesita el **consentimiento del tercer Estado**.\n\n### Unificación y separación\n- Rige el principio de **continuidad**: transmisión de derechos y obligaciones de los tratados en vigor del predecesor al sucesor.\n- Su finalidad es preservar la estabilidad de las relaciones convencionales.\n\n**En examen:** estructure la respuesta en tres bloques: territorio / independencia / unión-separación.",
+      "mnemonic_md": "**Territorio: cambian tratados → independencia: tabla rasa → unión/separación: continuidad.**",
+      "tags": [
+        "sucesion",
+        "tratados",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 03"
+      }
     },
     {
-      "id":"dip1pp-t02-c002","topic":"tema_02","importance":4,
-      "front_md":"## ¿Existe jerarquía entre tratado, costumbre y principios generales por el orden del art. 38 del Estatuto del TIJ?",
-      "back_md":"No. El orden del art. 38 **no establece una jerarquía general** entre esas fuentes. En caso de conflicto operan los criterios generales, como:\n\n- **lex posterior** entre normas del mismo rango;\n- **lex specialis** frente a la norma general;\n- y siempre prevalece una norma de **ius cogens**.",
-      "tags":["articulo-38","jerarquia","fuentes"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Art. 38 del Estatuto del TIJ"}
+      "id": "dip1pp-t04-c001",
+      "topic": "tema_04",
+      "importance": 5,
+      "front_md": "## Fases de celebración de los tratados\nExponga ordenadamente las fases desde los **plenos poderes** hasta la **entrada en vigor**.",
+      "hint_md": "**IDEA ANCLA:** poderes → negociación → consentimiento → entrada en vigor.",
+      "back_md": "### 1. Plenos poderes\nFase previa en la que las autoridades competentes designan representantes. La Convención de Viena determina quién puede representar internacionalmente al Estado.\n\n### 2. Negociación\nPropuestas y contrapropuestas hasta llegar a la **adopción del texto** y su **autenticación**. La autenticación da fe del texto adoptado.\n\n### 3. Manifestación del consentimiento\nEs la fase capital: sin consentimiento, el tratado no obliga. Puede expresarse por ratificación, firma, canje de instrumentos, aceptación, aprobación, adhesión u otra forma convenida. Las reservas permiten, en ciertos casos, excluir o precisar disposiciones.\n\n### 4. Entrada en vigor\nMomento en que el tratado comienza a producir vigencia conforme a lo previsto por el propio tratado o a lo acordado por los negociadores.\n\n**En examen:** si se bloquea, escriba estas cuatro fases como subtítulos y desarrolle 2–3 líneas de cada una.",
+      "mnemonic_md": "**PODERES → NEGOCIAR → CONSENTIR → VIGOR.**",
+      "tags": [
+        "tratados",
+        "celebracion",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 04"
+      }
     },
     {
-      "id":"dip1pp-t03-c001","topic":"tema_03","importance":4,
-      "front_md":"## ¿Cuáles son los dos elementos de la costumbre internacional?",
-      "back_md":"1. **Elemento material:** práctica estatal suficientemente uniforme, mediante actos u omisiones.\n2. **Elemento espiritual (*opinio iuris*):** convicción de que esa práctica es jurídicamente obligatoria.",
-      "tags":["costumbre","opinio-iuris"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Costumbre internacional"}
+      "id": "dip1pp-f05-ius-cogens",
+      "topic": "tema_01",
+      "importance": 5,
+      "front_md": "## Ius cogens\nDefina las normas imperativas y explique el efecto de los **arts. 53 y 64 de la Convención de Viena**.",
+      "hint_md": "**IDEA ANCLA:** norma imperativa = no admite acuerdo en contrario y está por encima del consentimiento estatal.",
+      "back_md": "### Concepto\n- Normas perentorias o imperativas, escasas, que no admiten exclusión ni modificación por acuerdo contrario.\n- Protegen intereses colectivos esenciales y tienen superior jerarquía respecto del resto de normas.\n\n### Convención de Viena\n- **Art. 53:** es nulo el tratado que, al celebrarse, se oponga a una norma imperativa de Derecho internacional general.\n- La norma debe ser aceptada y reconocida por la comunidad internacional de Estados en su conjunto y solo puede modificarse por otra norma posterior del mismo carácter.\n- **Art. 64:** si surge una nueva norma imperativa, el tratado existente incompatible se convierte en nulo y termina.\n\n### Función\nLimita el consentimiento estatal y los caracteres dispositivo, relativo y recíproco del Derecho internacional.\n\n**En examen:** memorice la fórmula esencial y, sobre todo, la diferencia entre art. 53 y art. 64.",
+      "mnemonic_md": "**Imperativa → no acuerdo contrario → art. 53 nulidad → art. 64 nueva norma = termina → límite al consentimiento.**",
+      "tags": [
+        "ius-cogens",
+        "tratados",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 05"
+      }
     },
     {
-      "id":"dip1pp-t03-c002","topic":"tema_03","importance":4,
-      "front_md":"## ¿Qué efecto tiene la objeción persistente frente a una costumbre general?",
-      "back_md":"Un Estado puede quedar fuera de la obligatoriedad de una costumbre general si **se opuso de forma inequívoca y expresa durante su formación**. Debe poder probar esa oposición persistente.",
-      "tags":["costumbre","objecion-persistente"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Costumbre internacional"}
+      "id": "dip1pp-f06-inmunidad-jurisdiccion",
+      "topic": "tema_11",
+      "importance": 5,
+      "front_md": "## Inmunidad jurisdiccional del Estado\nExplique el concepto, las doctrinas **absoluta y restringida** y la distinción **iure imperii / iure gestionis**.",
+      "hint_md": "**IDEA ANCLA:** imperii sí; gestionis no: la inmunidad contemporánea estudiada es restringida.",
+      "back_md": "### Concepto\nLa inmunidad de jurisdicción impide, en principio, que un Estado extranjero sea demandado o sometido a juicio ante tribunales de otro Estado. Se vincula al principio de soberanía.\n\n### Dos doctrinas\n- **Inmunidad absoluta:** el Estado extranjero no puede ser sometido a tribunales de otro Estado incluso en asuntos civiles o mercantiles.\n- **Inmunidad restringida:** se reconoce para actuaciones soberanas, pero no cuando el Estado actúa como podría hacerlo un particular.\n\n### Distinción clave\n- **Acta iure imperii:** actos realizados en ejercicio de soberanía → inmunidad.\n- **Acta iure gestionis:** actos de gestión o administración comparables a los de un particular → no quedan amparados de la misma manera.\n- No existe un criterio universalmente válido para calificar todos los actos.\n\n**En examen/caso:** ante un contrato o relación laboral, lo primero es calificar la naturaleza del acto.",
+      "mnemonic_md": "**Jurisdicción → absoluta/restringida → IMPERII sí → GESTIONIS no.**",
+      "tags": [
+        "inmunidad",
+        "jurisdiccion",
+        "iure-imperii",
+        "iure-gestionis",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 06"
+      }
     },
     {
-      "id":"dip1pp-t03-c003","topic":"tema_03","importance":4,
-      "front_md":"## ¿Qué es un acto unilateral del Estado y qué elementos básicos debe reunir?",
-      "back_md":"Es una **manifestación de voluntad de un solo sujeto de Derecho internacional** cuya validez no depende de otro acto jurídico y que puede producir efectos jurídicos.\n\nDebe:\n- emanar de una autoridad competente para obligar al Estado;\n- proceder de un solo sujeto internacional;\n- ser jurídicamente autónomo;\n- tender a producir efectos jurídicos.",
-      "tags":["actos-unilaterales"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Actos unilaterales del Estado"}
+      "id": "dip1pp-f07-inmunidad-ejecucion",
+      "topic": "tema_11",
+      "importance": 5,
+      "front_md": "## Inmunidad de ejecución\nExplique su autonomía respecto de la inmunidad de jurisdicción y el régimen básico de las medidas sobre bienes estatales.",
+      "hint_md": "**IDEA ANCLA:** que un tribunal pueda juzgar no significa que pueda embargar.",
+      "back_md": "### Concepto\nProtege al Estado extranjero y sus bienes frente a medidas coercitivas o de ejecución adoptadas por órganos del Estado territorial.\n\n### Regla decisiva\n- Inmunidad de jurisdicción e inmunidad de ejecución son **distintas**.\n- La sumisión o renuncia a la inmunidad de jurisdicción **no implica por sí sola** renuncia a la inmunidad de ejecución.\n\n### Medidas y bienes\n- **Antes del fallo:** medidas cautelares o embargo preventivo exigen, según los apuntes, consentimiento expreso o afectación de bienes a la satisfacción de la demanda.\n- **Después del fallo:** además, pueden entrar bienes destinados a fines distintos de los oficiales no comerciales, con los requisitos señalados.\n- Los bienes de representaciones diplomáticas y oficinas consulares están especialmente protegidos; los apuntes consideran inembargables las cuentas corrientes de embajadas y consulados.\n\n**En examen/caso:** responda por separado «¿puede juzgar?» y «¿puede embargar?».",
+      "mnemonic_md": "**Juzgar ≠ ejecutar → renuncia jurisdicción ≠ renuncia ejecución → bienes oficiales protegidos → cuentas de embajada, no.**",
+      "tags": [
+        "inmunidad",
+        "ejecucion",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 07"
+      }
     },
     {
-      "id":"dip1pp-t03-c004","topic":"tema_03","importance":3,
-      "front_md":"## ¿Qué actos unilaterales clásicos conviene distinguir?",
-      "back_md":"- **Reconocimiento:** constata una situación y expresa voluntad de considerarla legítima.\n- **Renuncia:** abandono de un derecho o poder propio.\n- **Notificación:** comunicación jurídicamente relevante de un hecho, situación, acción o documento.\n- **Promesa:** asunción unilateral de una conducta de hacer o no hacer.",
-      "tags":["actos-unilaterales","reconocimiento","renuncia","notificacion","promesa"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Actos unilaterales del Estado"}
+      "id": "dip1pp-f08-elementos-estado",
+      "topic": "tema_09",
+      "importance": 5,
+      "front_md": "## Elementos constitutivos del Estado\nExponga **población, territorio, gobierno e independencia/soberanía**.",
+      "hint_md": "**IDEA ANCLA:** Estado = población + territorio + gobierno + independencia.",
+      "back_md": "### Estado como sujeto\nEl Estado es el sujeto originario del Derecho internacional. Su poder presenta una dimensión interna —poder autónomo supremo— y otra externa —libertad de conducta respecto de otros Estados dentro del Derecho internacional—.\n\n### Elementos\n- **Población:** personas que habitan permanentemente el territorio y se vinculan al Estado por la nacionalidad.\n- **Territorio:** espacio físico donde el Estado ejerce su potestad; comprende superficie terrestre, espacios marítimos correspondientes y espacio aéreo. No exige una delimitación absolutamente precisa.\n- **Gobierno:** organización política y órganos que desarrollan la actividad estatal interna y externa.\n- **Independencia:** no sujeción a la autoridad de otro Estado; el Estado depende jurídicamente del Derecho internacional, no de otro orden estatal.\n\n**En examen:** definición inicial + cuatro apartados muy claros.",
+      "mnemonic_md": "**P-T-G-I: población, territorio, gobierno, independencia.**",
+      "tags": [
+        "estado",
+        "elementos-constitutivos",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 08"
+      }
     },
     {
-      "id":"dip1pp-t04-c001","topic":"tema_04","importance":4,
-      "front_md":"## ¿Cuáles son las fases básicas de celebración de un tratado?",
-      "back_md":"1. **Otorgamiento de plenos poderes**.\n2. **Negociación**, adopción y autenticación del texto.\n3. **Manifestación del consentimiento** en obligarse.\n4. **Entrada en vigor**, en la forma y fecha acordadas por los Estados negociadores.",
-      "tags":["tratados","celebracion"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Fases de celebración de tratados"}
+      "id": "dip1pp-f09-actos-unilaterales",
+      "topic": "tema_03",
+      "importance": 4,
+      "front_md": "## Actos unilaterales del Estado\nDefina el acto unilateral, exponga sus elementos y distinga **reconocimiento, renuncia, notificación y promesa**.",
+      "hint_md": "**IDEA ANCLA:** una sola voluntad puede producir efectos jurídicos si procede de autoridad competente y se formula con intención jurídica.",
+      "back_md": "### Concepto\nManifestación de voluntad de un solo sujeto de Derecho internacional cuya validez no depende de otros actos y que puede crear, modificar, extinguir o conservar derechos y obligaciones.\n\n### Elementos\n- Voluntad emanada de autoridad competente para obligar al Estado.\n- Procede de un solo sujeto internacional.\n- Su validez no depende de otro acto jurídico.\n- Produce efectos jurídicos para su autor conforme al principio de buena fe.\n\n### Tipos\n- **Reconocimiento:** constata una situación y la considera legítima.\n- **Renuncia:** abandono de un derecho o poder propio.\n- **Notificación:** comunica jurídicamente un hecho, situación, acción o documento.\n- **Promesa:** asunción unilateral de una conducta de hacer o no hacer.\n\n**En examen:** definición + elementos + los cuatro tipos.",
+      "mnemonic_md": "**Voluntad única + competencia + autonomía + buena fe → R-R-N-P.**",
+      "tags": [
+        "actos-unilaterales",
+        "reconocimiento",
+        "renuncia",
+        "notificacion",
+        "promesa",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 09"
+      }
     },
     {
-      "id":"dip1pp-t04-c002","topic":"tema_04","importance":3,
-      "front_md":"## ¿Quiénes pueden actuar sin presentar plenos poderes para ciertos actos de celebración de tratados?",
-      "back_md":"Por sus funciones, sin presentar plenos poderes:\n\n- **Jefe del Estado, Jefe del Gobierno y Ministro de Asuntos Exteriores:** para todo acto relativo a la celebración de tratados.\n- **Jefes de misión diplomática:** para adoptar el texto de tratados con el Estado ante el que están acreditados.\n- **Representantes ante una conferencia internacional:** para adoptar el texto en esa conferencia.",
-      "tags":["tratados","plenos-poderes"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Órganos competentes y plenos poderes"}
+      "id": "dip1pp-f10-costumbre",
+      "topic": "tema_03",
+      "importance": 4,
+      "front_md": "## Costumbre internacional\nExplique sus dos elementos, sus clases y la figura de la **objeción persistente**.",
+      "hint_md": "**IDEA ANCLA:** costumbre = práctica uniforme + opinio iuris.",
+      "back_md": "### Dos elementos\n- **Elemento material:** repetición de actos o precedentes; puede incluir omisiones. La práctica debe ser suficientemente uniforme.\n- **Elemento espiritual:** *opinio iuris necessitatis*, convicción de que la conducta responde a una obligación jurídica.\n\n### No confundir\nLa cortesía internacional puede repetirse, pero su incumplimiento no genera responsabilidad jurídica. Para que el uso se convierta en costumbre hace falta *opinio iuris*.\n\n### Clases\n- **Costumbre general:** vocación universal; la objeción persistente exige oposición inequívoca durante su formación.\n- **Costumbre particular:** obliga a quienes participaron en su creación; puede ser regional o local/bilateral.\n\n**En examen:** la definición y los dos elementos son lo esencial; después añada clases y diferencia con cortesía.",
+      "mnemonic_md": "**PRÁCTICA + OPINIO → general/particular → objeción persistente.**",
+      "tags": [
+        "costumbre",
+        "opinio-iuris",
+        "objecion-persistente",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 10"
+      }
     },
     {
-      "id":"dip1pp-t04-c003","topic":"tema_04","importance":4,
-      "front_md":"## ¿Qué es una reserva a un tratado y para qué sirve?",
-      "back_md":"Es una declaración unilateral mediante la cual un Estado pretende **excluir o modificar los efectos jurídicos de una o varias disposiciones del tratado** respecto de sí mismo.\n\nSu función práctica es facilitar la participación en tratados multilaterales sin exigir aceptación íntegra de todas sus cláusulas.",
-      "tags":["tratados","reservas"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Manifestación del consentimiento con reservas"}
+      "id": "dip1pp-f11-plataforma",
+      "topic": "tema_18",
+      "importance": 4,
+      "front_md": "## Plataforma continental\nExponga su concepto, los derechos del Estado ribereño y sus límites.",
+      "hint_md": "**IDEA ANCLA:** lecho y subsuelo; recursos del fondo para el ribereño.",
+      "back_md": "### Concepto\nComprende el **lecho y subsuelo** de áreas submarinas más allá del mar territorial, a lo largo de la prolongación natural hasta el borde exterior del margen continental o hasta **200 millas** cuando ese borde no alcance esa distancia.\n\n### Derechos del ribereño\n- Derechos soberanos, exclusivos e inherentes para exploración y explotación de recursos naturales.\n- Incluye minerales, recursos no vivos y especies sedentarias.\n- Puede construir y reglamentar instalaciones, establecer zonas de seguridad y autorizar perforaciones.\n\n### Límites\n- No altera el régimen jurídico de las aguas suprayacentes ni del espacio aéreo.\n- No debe entorpecer injustificadamente la navegación u otros derechos.\n- Debe respetarse el tendido y conservación de cables y tuberías en los términos indicados.\n\n**En examen:** no confunda plataforma con ZEE: plataforma = lecho/subsuelo; ZEE = también recursos de las aguas suprayacentes.",
+      "mnemonic_md": "**LECHO/SUBSUELO → 200 → recursos → derechos exclusivos → aguas de arriba siguen con su régimen.**",
+      "tags": [
+        "plataforma-continental",
+        "derecho-del-mar",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 11"
+      }
     },
     {
-      "id":"dip1pp-t04-c004","topic":"tema_04","importance":3,
-      "front_md":"## ¿Qué tipos de reservas se distinguen por su objeto?",
-      "back_md":"- **De exclusión:** eliminan para el reservante los efectos de una cláusula.\n- **De modificación:** pretenden cumplir la obligación de forma diferente pero equivalente.\n- **Interpretativas:** condicionan el consentimiento a una determinada interpretación de la cláusula.",
-      "tags":["tratados","reservas"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Reservas a los tratados"}
+      "id": "dip1pp-f12-mar-territorial",
+      "topic": "tema_16",
+      "importance": 4,
+      "front_md": "## Mar territorial\nExponga anchura, soberanía del Estado ribereño y régimen del **paso inocente**.",
+      "hint_md": "**IDEA ANCLA:** 12 millas de soberanía, pero con paso inocente.",
+      "back_md": "### Anchura y soberanía\n- Franja de mar adyacente al territorio y aguas interiores sobre la que se extiende la soberanía del Estado ribereño.\n- Anchura máxima: **12 millas marinas** desde las líneas de base.\n- Entre costas adyacentes o enfrentadas opera, salvo circunstancias o acuerdo, la lógica de línea media/equidistancia descrita en los apuntes.\n\n### Paso inocente\n- La soberanía está limitada por el derecho de paso inocente.\n- El paso debe ser rápido e ininterrumpido; puede incluir detención o fondeo por incidentes normales o fuerza mayor.\n- Es inocente mientras no perjudique la paz, el buen orden o la seguridad del ribereño.\n- Los submarinos deben navegar en superficie y mostrar pabellón.\n\n**En examen:** empiece siempre con «12 millas»; después soberanía y, como contrapeso, paso inocente.",
+      "mnemonic_md": "**12 millas → soberanía → paso inocente → rápido/no perjudicial → submarino en superficie.**",
+      "tags": [
+        "mar-territorial",
+        "paso-inocente",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 12"
+      }
     },
     {
-      "id":"dip1pp-t05-c001","topic":"tema_05","importance":4,
-      "front_md":"## ¿Qué diferencia hay entre nulidad absoluta y nulidad relativa de un tratado?",
-      "back_md":"- **Nulidad absoluta:** el tratado no puede confirmarse ni convalidarse.\n- **Nulidad relativa o anulabilidad:** la causa puede ser convalidada por acuerdo expreso o por conducta equivalente a aquiescencia.",
-      "tags":["tratados","nulidad"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Nulidad de los tratados"}
+      "id": "dip1pp-t09-c003",
+      "topic": "tema_09",
+      "importance": 4,
+      "front_md": "## Reconocimiento del Estado\nExplique su naturaleza, efectos y formas.",
+      "hint_md": "**IDEA ANCLA:** el Estado existe por reunir sus elementos; el reconocimiento es declarativo y libre.",
+      "back_md": "### Nacimiento y reconocimiento\nUn Estado puede surgir *ex novo* o a partir de Estados preexistentes por secesión, integración o desintegración. Una vez reúne los elementos estatales existe como sujeto de Derecho internacional.\n\n### Naturaleza\nEl reconocimiento es un acto **declarativo y libre** por el que uno o varios Estados constatan la existencia de una sociedad humana políticamente organizada e independiente sobre un territorio.\n\n### Efectos y formas\n- Aunque el nuevo Estado es sujeto desde que nace, el reconocimiento facilita el ejercicio pleno de determinadas relaciones y derechos.\n- Puede ser **individual o colectivo** y **expreso o tácito/implícito**.\n- La forma frecuente señalada en los apuntes es individual y expresa.\n\n**En examen:** no diga que el reconocimiento «crea» al Estado; los apuntes lo presentan como declarativo.",
+      "mnemonic_md": "**Existe primero → reconocimiento DECLARATIVO y LIBRE → individual/colectivo → expreso/tácito.**",
+      "tags": [
+        "reconocimiento",
+        "estado",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 13"
+      }
     },
     {
-      "id":"dip1pp-t05-c002","topic":"tema_05","importance":4,
-      "front_md":"## ¿Cuáles son las causas de nulidad absoluta de los tratados?",
-      "back_md":"1. Coacción sobre el representante del Estado.\n2. Amenaza o uso de la fuerza para obtener la celebración del tratado.\n3. Oposición del tratado, en el momento de celebrarse, a una norma de **ius cogens**.",
-      "tags":["tratados","nulidad-absoluta"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Nulidad de los tratados"}
+      "id": "dip1pp-t09-c004",
+      "topic": "tema_09",
+      "importance": 4,
+      "front_md": "## Reconocimiento de gobiernos\nExplique qué se reconoce, el criterio de efectividad y las formas de reconocimiento.",
+      "hint_md": "**IDEA ANCLA:** cambiar de gobierno no cambia al Estado ni borra sus obligaciones.",
+      "back_md": "### Punto de partida\nLas alteraciones internas del gobierno no afectan, en principio, a la condición internacional del Estado. Por seguridad jurídica, sus obligaciones internacionales permanecen.\n\n### Qué se reconoce\nAnte un gobierno surgido irregularmente —golpe, revolución—, el reconocimiento expresa la voluntad de mantener relaciones y verifica que quienes gobiernan pueden obligar al Estado que pretenden representar.\n\n### Efectividad y formas\n- La doctrina de efectividad se orienta al gobierno que ejerce poder efectivo.\n- Los apuntes subrayan que no existe una regla general que obligue a reconocer todo gobierno efectivo ni una regla general que imponga no reconocer gobiernos ilegales.\n- Puede ser expreso o implícito; el intercambio de agentes diplomáticos puede revelar reconocimiento implícito.\n\n**En examen:** diferencie reconocimiento de Estado —existencia del sujeto— y de gobierno —quién lo representa—.",
+      "mnemonic_md": "**Estado sigue → obligaciones siguen → gobierno nuevo → efectividad → reconocimiento libre → expreso/tácito.**",
+      "tags": [
+        "reconocimiento",
+        "gobiernos",
+        "nucleo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 14"
+      }
     },
     {
-      "id":"dip1pp-t05-c003","topic":"tema_05","importance":4,
-      "front_md":"## ¿Cuáles son las causas de nulidad relativa o anulabilidad?",
-      "back_md":"- Violación manifiesta de una norma interna fundamental sobre competencia para celebrar tratados.\n- Restricción específica y notificada de los poderes del representante.\n- Error sobre una situación esencial para el consentimiento.\n- Dolo de otro Estado negociador.\n- Corrupción del representante por otro Estado negociador.",
-      "tags":["tratados","nulidad-relativa"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Nulidad de los tratados"}
+      "id": "dip1pp-f15-costumbre-tratado",
+      "topic": "tema_03",
+      "importance": 3,
+      "front_md": "## Interacción entre costumbre y tratado\nExplique los efectos **declarativo, cristalizador y constitutivo/generador**.",
+      "hint_md": "**IDEA ANCLA:** declarativo, cristalizador, constitutivo: D-C-C.",
+      "back_md": "### Idea general\nTratado y costumbre pueden contener reglas idénticas y conservar existencia autónoma. La codificación puede influir en la formación o constatación de costumbre.\n\n### Tres efectos\n- **Declarativo:** el tratado enuncia una costumbre preexistente y sirve como evidencia o codificación de ella.\n- **Cristalizador:** una costumbre en formación cristaliza con un acto normativo relevante y aceptación general.\n- **Constitutivo o generador:** una disposición convencional impulsa, mediante práctica posterior general, uniforme y constante, una nueva regla consuetudinaria.\n\n**En examen:** si recuerda D-C-C y explica una frase de cada efecto, tiene el núcleo de la respuesta.",
+      "mnemonic_md": "**DECLARA lo que ya existe → CRISTALIZA lo que se forma → CONSTITUYE lo que nace después.**",
+      "tags": [
+        "costumbre",
+        "tratados",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 15"
+      }
     },
     {
-      "id":"dip1pp-t05-c004","topic":"tema_05","importance":3,
-      "front_md":"## ¿Qué significa suspender un tratado?",
-      "back_md":"La suspensión es **temporal**: el tratado sigue siendo válido y en vigor, pero durante un tiempo deja de producir algunos o todos sus efectos, entre todas o algunas de las partes.",
-      "tags":["tratados","suspension"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Suspensión y terminación de los tratados"}
+      "id": "dip1pp-f16-individuo",
+      "topic": "tema_10",
+      "importance": 3,
+      "front_md": "## El individuo y su subjetividad internacional\nExplique por qué tener derechos internacionales no equivale necesariamente a ser sujeto pleno de Derecho internacional.",
+      "hint_md": "**IDEA ANCLA:** tener derechos no basta; subjetividad exige capacidad de hacerlos valer internacionalmente.",
+      "back_md": "### Regla\nLos apuntes consideran que el individuo no es sujeto pleno del Derecho internacional general solo por ser beneficiario de derechos u obligaciones; se requiere aptitud para hacer valer derechos ante instancias internacionales.\n\n### Protección internacional\n- Existen normas internacionales que protegen vida, libertad, salud y otros intereses del individuo.\n- Como regla clásica, frente a un ilícito de un Estado extranjero el individuo acude al Derecho interno y, en su caso, a su Estado nacional para protección diplomática.\n\n### Aperturas\nEn regímenes particulares existen vías de acceso directo de particulares a órganos internacionales, incluidos tribunales como el TEDH, lo que permite hablar de una subjetividad limitada o particular.\n\n**En examen:** no responda con un sí/no absoluto; distinga Derecho internacional general y regímenes particulares.",
+      "mnemonic_md": "**Derechos ≠ subjetividad plena → protección diplomática clásica → acceso directo en regímenes particulares.**",
+      "tags": [
+        "individuo",
+        "subjetividad",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 16"
+      }
     },
     {
-      "id":"dip1pp-t09-c001","topic":"tema_09","importance":4,
-      "front_md":"## ¿Cuáles son los elementos constitutivos del Estado como sujeto de Derecho internacional?",
-      "back_md":"Tres elementos básicos:\n\n1. **Población:** conjunto estable de personas vinculadas al Estado.\n2. **Territorio:** espacio físico sobre el que ejerce plenamente su potestad.\n3. **Gobierno u organización política:** estructura que dirige la actividad estatal interna y externa.\n\nTodo ello bajo la idea de **soberanía e independencia**.",
-      "tags":["estado","elementos-constitutivos"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Estado como sujeto de Derecho internacional"}
+      "id": "dip1pp-f17-alta-mar",
+      "topic": "tema_19",
+      "importance": 3,
+      "front_md": "## Alta mar\nExponga concepto, principios, libertades y regla general de jurisdicción.",
+      "hint_md": "**IDEA ANCLA:** alta mar = libertad + jurisdicción del pabellón + obligaciones comunes.",
+      "back_md": "### Concepto\nPartes del mar fuera de aguas interiores, mar territorial, ZEE y aguas archipelágicas según la formulación recogida en los apuntes.\n\n### Principios y libertades\n- Libertad de los mares, igualdad de uso, no apropiación/interferencia y sumisión al Derecho internacional.\n- Libertades de **navegación, pesca, sobrevuelo y tendido de cables/tuberías**.\n- Los buques quedan, como regla, bajo jurisdicción del **Estado del pabellón**.\n\n### Contrapartidas\nSeguridad de buques, asistencia en el mar, protección de cables, lucha contra contaminación y otras obligaciones internacionales.\n\n**En examen:** no la confunda con ZEE: en alta mar no hay derechos soberanos del ribereño sobre recursos por razón de proximidad.",
+      "mnemonic_md": "**LIBERTAD → navegación/pesca/vuelo/cables → PABELLÓN → obligaciones.**",
+      "tags": [
+        "alta-mar",
+        "derecho-del-mar",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 17"
+      }
     },
     {
-      "id":"dip1pp-t09-c002","topic":"tema_09","importance":3,
-      "front_md":"## ¿Qué significa la independencia del Estado en Derecho internacional?",
-      "back_md":"Que el Estado **no está sometido a la autoridad de otro Estado o grupo de Estados** y depende jurídicamente del Derecho internacional, no de otro ordenamiento estatal.",
-      "tags":["estado","soberania","independencia"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Estado como sujeto de Derecho internacional"}
+      "id": "dip1pp-t21-c001",
+      "topic": "tema_21",
+      "importance": 3,
+      "front_md": "## Asilo territorial\nExplique concepto, fundamento y líneas generales del régimen estudiado.",
+      "hint_md": "**IDEA ANCLA:** protección en el territorio del Estado a perseguidos; deriva de la soberanía estatal.",
+      "back_md": "### Concepto\nProtección que un Estado presta **en su territorio** a personas perseguidas, especialmente por motivos políticos, que se encuentran en peligro en el Estado de procedencia.\n\n### Líneas generales\n- La DUDH reconoce el derecho a buscar y disfrutar asilo en caso de persecución.\n- Los apuntes presentan el asilo como derecho del Estado derivado de su soberanía; la calificación corresponde al Estado territorial.\n- Debe ser respetado por otros Estados y puede haber excepciones por seguridad nacional.\n- Se excluye a autores de delitos contra la paz, crímenes de guerra o contra la humanidad.\n\n### España\nLos apuntes incluyen entre los motivos de persecución los políticos, raza, etnia, religión o ideología.\n\n**En examen:** distinga «derecho a buscar asilo» de la potestad soberana del Estado para concederlo.",
+      "mnemonic_md": "**TERRITORIO → persecución → soberanía del Estado → exclusión de crímenes internacionales.**",
+      "tags": [
+        "asilo",
+        "asilo-territorial",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 18"
+      }
     },
     {
-      "id":"dip1pp-t09-c003","topic":"tema_09","importance":4,
-      "front_md":"## ¿Qué es el reconocimiento de Estados y qué carácter tiene?",
-      "back_md":"Es un acto **declarativo y libre** por el que uno o varios Estados constatan la existencia de una sociedad humana políticamente organizada, independiente y asentada en un territorio.\n\nPuede ser **individual o colectivo** y **expreso o tácito**.",
-      "tags":["reconocimiento","estado"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Reconocimiento de Estados"}
+      "id": "dip1pp-f19-asilo-diplomatico",
+      "topic": "tema_21",
+      "importance": 3,
+      "front_md": "## Asilo diplomático\nExponga su carácter, los elementos clave de la **Convención de Caracas de 1954**, el requisito de urgencia y su duración.",
+      "hint_md": "**IDEA ANCLA:** institución regional latinoamericana: misión diplomática + persecución política + urgencia.",
+      "back_md": "### Concepto y ámbito\nProtección en determinados locales o medios vinculados a la misión frente a persecución política. Los apuntes destacan su carácter típico latinoamericano y la **Convención de Caracas de 1954**.\n\n### Elementos clave\n- Lugares: legación y otros espacios contemplados por la Convención, con las precisiones de los apuntes.\n- Corresponde al Estado asilante calificar la naturaleza del delito o los motivos de persecución.\n- Debe existir **urgencia**: peligro para vida o libertad por persecución política o imposibilidad de ponerse a salvo de otro modo.\n- Se concede por el tiempo estrictamente indispensable para la salida segura.\n\n### Límite\nLos beneficios se orientan a perseguidos por delitos políticos, no a proteger delitos comunes en los términos expuestos en la Convención.\n\n**En examen:** si aparece una embajada, no presuponga que todo refugio equivale a un derecho general de asilo diplomático; recuerde su carácter regional.",
+      "mnemonic_md": "**CARACAS 1954 → legación → delito político → urgencia → salida segura.**",
+      "tags": [
+        "asilo",
+        "asilo-diplomatico",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 19"
+      }
     },
     {
-      "id":"dip1pp-t09-c004","topic":"tema_09","importance":3,
-      "front_md":"## ¿Qué es el reconocimiento de gobiernos?",
-      "back_md":"Es el acto libre por el que uno o varios Estados verifican que quienes han sustituido irregularmente al gobierno anterior **pueden obligar al Estado** y expresan su voluntad de mantener relaciones con ellos.\n\nNo existe una regla general que obligue a reconocer todo gobierno efectivo.",
-      "tags":["reconocimiento","gobiernos"],
-      "source":{"type":"notes","reference":"HOT IDP 1-10 — Reconocimiento de gobiernos"}
+      "id": "dip1pp-f20-reservas",
+      "topic": "tema_04",
+      "importance": 3,
+      "front_md": "## Reservas a los tratados\nExplique concepto, admisibilidad, tipos y efectos básicos de aceptación/objeción.",
+      "hint_md": "**IDEA ANCLA:** reserva = consentimiento «sí, pero esta cláusula no / así la interpreto».",
+      "back_md": "### Concepto\nDeclaración unilateral formulada al firmar, ratificar, aceptar, aprobar o adherirse, destinada a excluir o modificar el efecto jurídico de determinadas disposiciones o precisar su alcance.\n\n### Admisibilidad\n- No procede si el tratado **prohíbe** la reserva.\n- Tampoco si resulta incompatible con el **objeto y fin** del tratado, según la formulación recogida en los apuntes.\n\n### Tipos y forma\n- Reservas de exclusión, modificación o interpretativas.\n- Aceptación y objeción producen efectos distintos entre Estados.\n- Formulación y retirada deben constar por escrito; reservas y objeciones pueden retirarse.\n\n**En examen:** concepto + admisibilidad + tipos + aceptación/retirada permiten defender bien la pregunta.",
+      "mnemonic_md": "**RESERVA = consentimiento condicionado → prohibición/objeto-fin → aceptación/objeción → escrito.**",
+      "tags": [
+        "tratados",
+        "reservas",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 20"
+      }
     },
     {
-      "id":"dip1pp-t11-c001","topic":"tema_11","importance":5,
-      "front_md":"## ¿Qué diferencia hay entre inmunidad de jurisdicción e inmunidad de ejecución del Estado?",
-      "back_md":"- **Inmunidad de jurisdicción:** el Estado extranjero no puede ser demandado ni sometido a juicio ante tribunales de otro Estado en los supuestos protegidos.\n- **Inmunidad de ejecución:** sus bienes no pueden ser objeto de medidas coercitivas o de ejecución en los supuestos protegidos.\n\nLa renuncia a una **no implica** renunciar a la otra.",
-      "tags":["inmunidad","jurisdiccion","ejecucion"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Inmunidad del Estado"}
+      "id": "dip1pp-f21-efectos-tratados",
+      "topic": "tema_05",
+      "importance": 3,
+      "front_md": "## Efectos de los tratados\nExponga **pacta sunt servanda**, la prohibición de invocar el Derecho interno y los principales ámbitos de efectos.",
+      "hint_md": "**IDEA ANCLA:** pacta sunt servanda + no puede excusarse el incumplimiento en el Derecho interno.",
+      "back_md": "### Regla central\n- **Art. 26 CV:** todo tratado en vigor obliga a las partes y debe cumplirse de buena fe (*pacta sunt servanda*).\n- **Art. 27 CV:** una parte no puede invocar su Derecho interno como justificación del incumplimiento.\n\n### Ámbitos de efectos\n- **Tiempo:** desde entrada en vigor hasta terminación, suspensión o nulidad según proceda.\n- **Espacio:** regla general de aplicación al territorio de la parte, salvo disposición distinta.\n- **Respecto de otros tratados:** debe analizarse compatibilidad entre normas convencionales.\n- **Terceros:** regla general *pacta tertiis*: el tratado no crea obligaciones para un tercer Estado sin su consentimiento; los apuntes contemplan derechos con consentimiento.\n\n### Efecto especial\nUna disposición convencional puede contribuir a la formación de costumbre internacional.\n\n**En examen:** los arts. 26 y 27 son una apertura clara y fácil de memorizar.",
+      "mnemonic_md": "**26 buena fe → 27 no excusa interna → tiempo → espacio → otros tratados → terceros.**",
+      "tags": [
+        "tratados",
+        "efectos",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 21"
+      }
     },
     {
-      "id":"dip1pp-t11-c002","topic":"tema_11","importance":5,
-      "front_md":"## ¿En qué consiste la doctrina de la inmunidad restringida?",
-      "back_md":"Distingue entre:\n\n- **acta iure imperii:** actos de soberanía → gozan de inmunidad;\n- **acta iure gestionis:** actos de gestión o administración que podría realizar un particular → no quedan amparados por la inmunidad en los mismos términos.",
-      "tags":["inmunidad","iure-imperii","iure-gestionis"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Inmunidad jurisdiccional"}
+      "id": "dip1pp-f22-nulidad",
+      "topic": "tema_05",
+      "importance": 3,
+      "front_md": "## Nulidad de los tratados\nDistinga **nulidad absoluta** y **nulidad relativa/anulabilidad** y enumere sus causas.",
+      "hint_md": "**IDEA ANCLA:** absoluta no se convalida; relativa sí.",
+      "back_md": "### Nulidad absoluta\n- Coacción sobre el representante.\n- Amenaza o uso de la fuerza contrario al Derecho internacional para conseguir la celebración.\n- Oposición, al tiempo de celebrarse, a una norma imperativa de **ius cogens**.\n\n### Nulidad relativa / anulabilidad\n- Violación manifiesta de norma interna fundamental sobre competencia para celebrar tratados.\n- Restricción específica y notificada de poderes del representante.\n- Error sobre situación esencial para el consentimiento.\n- Dolo de otro Estado negociador.\n- Corrupción del representante por otro Estado negociador.\n\n### Diferencia\nLa nulidad relativa admite confirmación o convalidación; la absoluta no.\n\n**En examen:** piense en dos columnas: absoluta / relativa.",
+      "mnemonic_md": "**ABSOLUTA: coacción – fuerza – ius cogens. RELATIVA: competencia – restricción – error – dolo – corrupción.**",
+      "tags": [
+        "tratados",
+        "nulidad",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 22"
+      }
     },
     {
-      "id":"dip1pp-t11-c003","topic":"tema_11","importance":4,
-      "front_md":"## ¿Qué regla esencial conviene recordar sobre la inmunidad de ejecución?",
-      "back_md":"La ejecución depende del **destino del bien**. Los bienes afectos a funciones públicas tienen mayor protección. En particular, los bienes de representaciones diplomáticas y oficinas consulares quedan excluidos de medidas de ejecución.",
-      "tags":["inmunidad","ejecucion"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Inmunidad de ejecución"}
+      "id": "dip1pp-f23-suspension-terminacion",
+      "topic": "tema_05",
+      "importance": 3,
+      "front_md": "## Suspensión y terminación de los tratados\nDiferencie ambas figuras y exponga sus causas principales.",
+      "hint_md": "**IDEA ANCLA:** suspender = sigue válido pero deja temporalmente de producir efectos; terminar = deja de regir.",
+      "back_md": "### Suspensión\n- Puede ser alternativa a la terminación por violación grave, imposibilidad temporal o cambio fundamental de circunstancias.\n- También puede derivar de previsión del tratado, consentimiento de las partes o acuerdos permitidos entre algunas partes.\n\n### Terminación\n- Según el propio tratado o consentimiento de las partes.\n- Denuncia en los términos procedentes.\n- Tratado posterior sobre la misma materia con voluntad de sustituir al anterior.\n- Violación grave, imposibilidad subsiguiente o cambio fundamental de circunstancias.\n- Nueva norma de **ius cogens** incompatible: el tratado termina.\n\n### No confundir\nLa ruptura de relaciones diplomáticas o consulares no extingue automáticamente los tratados, según el esquema de los apuntes.\n\n**En examen:** memorice primero la diferencia conceptual y después cinco causas comunes.",
+      "mnemonic_md": "**SUSPENDER = pausa. TERMINAR = fin. Causas: acuerdo, violación, imposibilidad, cambio, ius cogens.**",
+      "tags": [
+        "tratados",
+        "suspension",
+        "terminacion",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 23"
+      }
     },
     {
-      "id":"dip1pp-t12-c001","topic":"tema_12","importance":5,
-      "front_md":"## ¿Qué reglas básicas rigen la sucesión de Estados en materia de tratados?",
-      "back_md":"Según los apuntes basados en el Convenio de Viena de 1978:\n\n- **Parte de territorio:** dejan de aplicarse los tratados del predecesor y pasan a aplicarse los del sucesor.\n- **Estado de reciente independencia:** regla de **tabla rasa**.\n- **Unificación o separación de Estados:** principio de **continuidad** de derechos y obligaciones convencionales.",
-      "tags":["sucesion","tratados"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Sucesión en materia de tratados"}
+      "id": "dip1pp-f24-agentes-consulares",
+      "topic": "tema_14",
+      "importance": 3,
+      "front_md": "## Los agentes consulares\nDefina la figura, exponga sus funciones, clases y requisitos básicos de las relaciones consulares.",
+      "hint_md": "**IDEA ANCLA:** el cónsul protege intereses y nacionales y realiza funciones administrativas; no es agente diplomático.",
+      "back_md": "### Concepto y funciones\n- Agentes oficiales establecidos por un Estado en ciudades de otro para proteger intereses propios y de sus nacionales.\n- Funciones de protección, información, administrativas, notariales, colaboración judicial, estado civil, navegación y comercio.\n\n### Clases\n- **Cónsules de carrera:** funcionarios públicos del Estado que los nombra.\n- **Cónsules honorarios:** pueden ejercer otras profesiones y presentan un estatuto distinto.\n- Categorías: cónsules generales, cónsules, vicecónsules y agentes consulares.\n\n### Relaciones consulares\nRequieren consentimiento mutuo y son independientes del establecimiento de relaciones diplomáticas. El jefe de oficina necesita admisión o **exequátur** del Estado receptor.\n\n**En examen:** frase que no debe olvidar: «los cónsules no son agentes diplomáticos».",
+      "mnemonic_md": "**PROTEGER → carrera/honorario → categorías → consentimiento → exequátur.**",
+      "tags": [
+        "consulares",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 24"
+      }
     },
     {
-      "id":"dip1pp-t12-c002","topic":"tema_12","importance":4,
-      "front_md":"## ¿Qué significa la regla de la tabla rasa para un Estado de reciente independencia?",
-      "back_md":"Que el nuevo Estado **no queda obligado automáticamente** por los tratados que se aplicaban al territorio antes de la independencia.\n\n- En tratados multilaterales puede convertirse en parte mediante notificación de sucesión.\n- En tratados bilaterales necesita el consentimiento del tercer Estado.",
-      "tags":["sucesion","tabla-rasa"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Sucesión en materia de tratados"}
+      "id": "dip1pp-f25-soberania-territorial",
+      "topic": "tema_15",
+      "importance": 3,
+      "front_md": "## Modos de adquisición del título de soberanía sobre el territorio\nClasifique y explique los modos **originarios** y **derivativos**.",
+      "hint_md": "**IDEA ANCLA:** originarios sobre *terra nullius*; derivativos sobre territorio ya sometido a otro Estado.",
+      "back_md": "### Modos originarios\n- **Ocupación:** toma de posesión efectiva de *terra nullius* con intención de adquirir soberanía; exige *animus occupandi* y efectividad.\n- **Accesión:** extensión a formaciones terrestres acrecidas al territorio por causas naturales o actividad humana.\n\n### Modos derivativos\n- **Cesión:** transferencia territorial por acuerdo y renuncia del cedente.\n- **Conquista:** figura histórica vinculada a transferencia tras guerra, tal como aparece en los apuntes.\n- **Prescripción adquisitiva:** ejercicio prolongado de autoridad sobre territorio ajeno sin protesta del titular.\n- **Efectividad:** en ausencia de otros títulos, el ejercicio efectivo de poderes estatales puede ser relevante para el título.\n\n**En examen:** clasifique primero y explique después.",
+      "mnemonic_md": "**ORIGINARIOS: ocupación + accesión. DERIVATIVOS: cesión + conquista + prescripción + efectividad.**",
+      "tags": [
+        "territorio",
+        "soberania",
+        "segunda-prioridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 25"
+      }
     },
     {
-      "id":"dip1pp-t14-c001","topic":"tema_14","importance":4,
-      "front_md":"## ¿Qué son los agentes consulares y cuáles son sus funciones principales?",
-      "back_md":"Son agentes oficiales que un Estado establece en ciudades de otro Estado para **proteger sus intereses y los de sus nacionales**.\n\nSus funciones incluyen:\n- protección de nacionales e información al Estado;\n- funciones administrativas y notariales;\n- colaboración con tribunales;\n- estado civil y sucesiones;\n- navegación marítima, comercio y profesiones.",
-      "tags":["consulares","funciones"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Agentes consulares"}
+      "id": "dip1pp-f26-jerarquia-espana",
+      "topic": "tema_08",
+      "importance": 2,
+      "front_md": "## Jerarquía de los tratados en el Derecho español\nExplique la posición del tratado frente a la **ley** y frente a la **Constitución**.",
+      "hint_md": "**IDEA ANCLA:** el tratado incorporado conserva naturaleza internacional y resiste frente a la ley interna contraria.",
+      "back_md": "### Primacía\nLos apuntes fundamentan la primacía en el propio Derecho internacional: el Estado debe respetar sus compromisos internacionales y no puede modificar unilateralmente un tratado.\n\n### Frente a la ley\nLa fuerza de resistencia del tratado impide que una ley interna anterior o posterior lo modifique o derogue unilateralmente.\n\n### Frente a la Constitución\n- Puede intentarse evitar el conflicto mediante reservas cuando procedan.\n- Existe control de constitucionalidad; ante incompatibilidad puede ser necesaria adaptación constitucional o del tratado mediante los cauces correspondientes.\n- Los apuntes citan como ejemplo la reforma constitucional de 1992 vinculada al sufragio.\n\n**En examen:** no afirme sin matices que el tratado «está por encima de la Constitución»; explique resistencia frente a la ley y el tratamiento del conflicto constitucional.",
+      "mnemonic_md": "**TRATADO > ley contraria por resistencia; CONSTITUCIÓN: control y adaptación.**",
+      "tags": [
+        "tratados",
+        "derecho-espanol",
+        "red-seguridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 26"
+      }
     },
     {
-      "id":"dip1pp-t14-c002","topic":"tema_14","importance":3,
-      "front_md":"## ¿Qué diferencia hay entre cónsules de carrera y honorarios?",
-      "back_md":"- **De carrera:** funcionarios públicos del Estado que los nombra, normalmente nacionales suyos, pagados por ese Estado y dedicados profesionalmente a sus funciones.\n- **Honorarios:** pueden ser nacionales del Estado que los designa o extranjeros y pueden ejercer comercio u otras profesiones.",
-      "tags":["consulares","carrera","honorarios"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Agentes consulares"}
+      "id": "dip1pp-f27-nacionalidad",
+      "topic": "tema_21",
+      "importance": 2,
+      "front_md": "## Nacionalidad y nacionales en el extranjero\nDefina la nacionalidad y explique los límites del Estado respecto de sus nacionales fuera del territorio.",
+      "hint_md": "**IDEA ANCLA:** nacionalidad = vínculo jurídico persona-Estado; fuera del territorio, el Estado no puede ejecutar coercitivamente sin consentimiento del territorial.",
+      "back_md": "### Nacionalidad\nVínculo que liga a una persona con un Estado y determina su pertenencia jurídica a la población estatal. Corresponde a cada Estado determinar por su Derecho interno quiénes son sus nacionales, dentro de los límites del Derecho internacional.\n\n### Límite internacional\nUn Estado no debe determinar quiénes son nacionales de terceros Estados, pues invadiría su competencia.\n\n### Nacionales en el extranjero\n- El Estado de nacionalidad no puede ejercer competencia de **ejecución** en territorio extranjero sin consentimiento del Estado territorial.\n- El Derecho internacional busca un estándar mínimo de trato y pueden existir garantías convencionales.\n- Si el nacional sufre un perjuicio internacionalmente relevante, puede entrar en juego la **protección diplomática** en los términos estudiados.\n\n**En examen:** concepto claro + dos límites + protección diplomática.",
+      "mnemonic_md": "**VÍNCULO → competencia interna → límite DI → extranjero: no ejecución → estándar mínimo → protección diplomática.**",
+      "tags": [
+        "nacionalidad",
+        "proteccion-diplomatica",
+        "red-seguridad"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Ficha 27"
+      }
     },
     {
-      "id":"dip1pp-t14-c003","topic":"tema_14","importance":3,
-      "front_md":"## ¿Qué es el *exequátur* consular?",
-      "back_md":"Es la autorización del **Estado receptor** para que el jefe de oficina consular nombrado por el Estado que envía pueda ejercer sus funciones. El Estado receptor puede negarlo sin tener que expresar los motivos.",
-      "tags":["consulares","exequatur"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Agentes consulares"}
+      "id": "dip1pp-caso01-mar",
+      "topic": "casos",
+      "importance": 5,
+      "front_md": "## Caso práctico: ZEE + pesca + persecución\nUn buque pesca a unas 150 millas, una patrullera intenta inspeccionarlo y el buque huye hacia alta mar. ¿Cómo ordena la respuesta?",
+      "hint_md": "**DISPARADOR:** «150 millas + pesca + patrullera + huye» = active ZEE y persecución.",
+      "back_md": "### 1. Localice la zona\nA 150 millas, el dato conduce a la **ZEE**: máximo 200 millas. El ribereño tiene derechos soberanos sobre recursos y potestades de control pesquero.\n\n### 2. Control pesquero\nSegún los apuntes, el Estado ribereño puede adoptar visita, inspección, apresamiento e iniciar procedimientos para garantizar sus leyes pesqueras.\n\n### 3. Si el buque huye\nCompruebe que la persecución se inicia cuando el buque está en una zona donde el ribereño tiene competencia, que existe señal de detención y que la persecución es ininterrumpida. Alcanzar al buque más allá de 200 millas no resuelve por sí solo el caso.\n\n### 4. Fuerza\nLos HOT remarcan que no debe afirmarse libremente la licitud del uso de la fuerza para imponer la reglamentación pesquera; razone con cautela y proporcionalidad.\n\n**Frase final:** «La clave no es dónde termina la persecución, sino dónde y cómo comenzó y si se mantuvo ininterrumpida».",
+      "mnemonic_md": "**Zona → regla de control → persecución iniciada correctamente → continuidad → fuerza con cautela.**",
+      "tags": [
+        "caso-practico",
+        "zee",
+        "persecucion"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Caso práctico 1/5"
+      }
     },
     {
-      "id":"dip1pp-t16-c001","topic":"tema_16","importance":4,
-      "front_md":"## ¿Cuál es la anchura máxima del mar territorial y qué poder ejerce el Estado ribereño?",
-      "back_md":"La Convención de 1982 admite un máximo de **12 millas marinas** desde las líneas de base. El Estado ribereño ejerce **soberanía**, aunque sometida a límites como el **derecho de paso inocente**.",
-      "tags":["mar-territorial","derecho-del-mar"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Mar territorial"}
+      "id": "dip1pp-caso02-inmunidad",
+      "topic": "casos",
+      "importance": 5,
+      "front_md": "## Caso práctico: contrato de embajada e inmunidad\nUna embajada despide a un trabajador local y este demanda y pretende embargar. ¿Qué tres planos debe separar?",
+      "hint_md": "**DISPARADOR:** embajada + trabajador local = naturaleza del acto, jurisdicción y ejecución.",
+      "back_md": "### 1. Califique el acto\nPregunte si el Estado actuó soberanamente (**iure imperii**) o como empleador/gestor comparable a un particular (**iure gestionis**). La inmunidad estudiada es restringida.\n\n### 2. Jurisdicción\nNo responda «embajada = inmunidad» automáticamente. Razone desde la naturaleza del acto.\n\n### 3. Ejecución\nAunque exista sentencia, vuelva a empezar: la inmunidad de ejecución es autónoma. Renunciar o no tener inmunidad de jurisdicción no equivale a poder embargar cualquier bien.\n\n### 4. Cuentas de embajada\nLos apuntes señalan expresamente que las cuentas corrientes de embajadas y oficinas consulares son inembargables.\n\n**Frase final:** «Jurisdicción y ejecución son planos distintos; una sentencia favorable no convierte automáticamente los bienes diplomáticos en embargables».",
+      "mnemonic_md": "**Calificar acto → jurisdicción → ejecución separada → cuentas de embajada protegidas.**",
+      "tags": [
+        "caso-practico",
+        "inmunidad",
+        "embajada"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Caso práctico 2/5"
+      }
     },
     {
-      "id":"dip1pp-t16-c002","topic":"tema_16","importance":4,
-      "front_md":"## ¿Qué requisitos básicos tiene el paso inocente por el mar territorial?",
-      "back_md":"Debe consistir en navegación de paso o tránsito **rápida e ininterrumpida**. Se admite detenerse o fondear por causas justificadas como fuerza mayor. Los submarinos deben navegar en superficie y mostrar su pabellón para beneficiarse del paso inocente.",
-      "tags":["mar-territorial","paso-inocente"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Mar territorial"}
+      "id": "dip1pp-caso03-tratados",
+      "topic": "casos",
+      "importance": 5,
+      "front_md": "## Caso práctico: ¿quién puede obligar al Estado por un tratado?\nAparece una persona que negocia, adopta o firma un tratado. ¿Qué debe comprobar?",
+      "hint_md": "**DISPARADOR:** persona que firma tratado = plenos poderes + función + posible confirmación posterior.",
+      "back_md": "### 1. Regla general\nPara adoptar/autenticar el texto o manifestar consentimiento se exige representación válida: plenos poderes o circunstancias que permitan considerar a la persona representante.\n\n### 2. Sin plenos poderes\nJefe de Estado, jefe de Gobierno y ministro de Asuntos Exteriores pueden realizar actos relativos a la celebración sin presentarlos; jefes de misión y representantes en conferencia tienen habilitaciones más limitadas según su función.\n\n### 3. Persona no autorizada\nLos apuntes contemplan que un acto realizado sin autorización pueda surtir efectos si posteriormente es confirmado por el Estado.\n\n### 4. Si es una Comunidad Autónoma\nLos casos recuerdan que la conclusión de tratados internacionales corresponde al Estado en el marco constitucional español; no confunda cooperación exterior con *ius ad tractatum* estatal.\n\n**Frase final:** «Primero identifico quién actúa; después qué acto del tratado realiza; por último, si necesita plenos poderes o puede ser confirmado».",
+      "mnemonic_md": "**Quién actúa → qué acto realiza → plenos poderes o habilitación → confirmación.**",
+      "tags": [
+        "caso-practico",
+        "tratados",
+        "plenos-poderes"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Caso práctico 3/5"
+      }
     },
     {
-      "id":"dip1pp-t18-c001","topic":"tema_18","importance":5,
-      "front_md":"## ¿Qué es la Zona Económica Exclusiva y hasta dónde puede extenderse?",
-      "back_md":"Es un área situada **fuera del mar territorial y adyacente a él**, sometida a un régimen jurídico propio. Su anchura máxima aceptada es de **200 millas marinas medidas desde las líneas de base**.",
-      "tags":["zee","derecho-del-mar"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Zona Económica Exclusiva"}
+      "id": "dip1pp-caso04-reconocimiento",
+      "topic": "casos",
+      "importance": 4,
+      "front_md": "## Caso práctico: Estado, gobierno y reconocimiento\nTras un golpe o revolución cambia el gobierno. ¿Qué debe analizar antes de hablar de un «nuevo Estado»?",
+      "hint_md": "**DISPARADOR:** golpe o revolución ≠ nacimiento automático de un Estado nuevo.",
+      "back_md": "### 1. ¿Sigue existiendo el Estado?\nCompruebe población, territorio, gobierno e independencia. Un cambio de autoridades no elimina por sí solo la personalidad estatal.\n\n### 2. Obligaciones\nPor seguridad jurídica, el cambio de gobierno deja en principio inalteradas las obligaciones internacionales del Estado.\n\n### 3. Reconocimiento de gobierno\nEs un acto libre por el que otros Estados verifican la capacidad de las nuevas autoridades para obligar al Estado y manifiestan voluntad de mantener relaciones.\n\n### 4. No mezclar\nReconocimiento del Estado = constatación de existencia del sujeto. Reconocimiento del gobierno = aceptación de quién lo representa tras un cambio irregular.\n\n**Frase final:** «El sujeto internacional permanece; lo discutido es la representación del mismo».",
+      "mnemonic_md": "**Estado sigue → obligaciones siguen → reconocer gobierno ≠ reconocer Estado.**",
+      "tags": [
+        "caso-practico",
+        "estado",
+        "reconocimiento"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Caso práctico 4/5"
+      }
     },
     {
-      "id":"dip1pp-t18-c002","topic":"tema_18","importance":5,
-      "front_md":"## ¿Qué derechos tiene el Estado ribereño en la ZEE?",
-      "back_md":"- **Derechos de soberanía:** exploración, explotación, conservación y administración de recursos naturales vivos y no vivos.\n- **Jurisdicción:** islas artificiales e instalaciones, investigación científica marina y protección del medio marino.\n\nOtros Estados conservan libertades como navegación, sobrevuelo y tendido de cables y tuberías, respetando el régimen de la zona.",
-      "tags":["zee","recursos","jurisdiccion"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Zona Económica Exclusiva"}
-    },
-    {
-      "id":"dip1pp-t18-c003","topic":"tema_18","importance":5,
-      "front_md":"## ¿Qué comprende la plataforma continental?",
-      "back_md":"Comprende el **lecho y subsuelo** de las áreas submarinas que se prolongan más allá del mar territorial hasta el borde exterior del margen continental o, cuando éste no llegue tan lejos, hasta **200 millas marinas** desde las líneas de base.",
-      "tags":["plataforma-continental","derecho-del-mar"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Plataforma continental"}
-    },
-    {
-      "id":"dip1pp-t18-c004","topic":"tema_18","importance":4,
-      "front_md":"## ¿Qué carácter tienen los derechos del Estado ribereño sobre la plataforma continental?",
-      "back_md":"Son derechos de soberanía para explorar y explotar los recursos naturales y tienen carácter:\n\n- **exclusivo:** nadie puede ejercerlos sin consentimiento del Estado ribereño;\n- **inherente:** no dependen de ocupación real o ficticia.",
-      "tags":["plataforma-continental","soberania"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Plataforma continental"}
-    },
-    {
-      "id":"dip1pp-t19-c001","topic":"tema_19","importance":4,
-      "front_md":"## ¿Qué se entiende por alta mar?",
-      "back_md":"Son las partes del mar que no forman parte del mar territorial ni de las aguas interiores; en el régimen actual se excluyen también la ZEE y las aguas archipelágicas.",
-      "tags":["alta-mar","derecho-del-mar"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Alta mar"}
-    },
-    {
-      "id":"dip1pp-t19-c002","topic":"tema_19","importance":4,
-      "front_md":"## ¿Qué libertades clásicas rigen en alta mar?",
-      "back_md":"Entre las libertades clásicas destacan:\n\n- **navegación**;\n- **pesca**;\n- **sobrevuelo**;\n- **tendido de cables y tuberías submarinas**.\n\nEl régimen se apoya en la libertad de los mares, la igualdad de uso, la no interferencia y la sumisión al Derecho internacional.",
-      "tags":["alta-mar","libertades"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Alta mar"}
-    },
-    {
-      "id":"dip1pp-t21-c001","topic":"tema_21","importance":4,
-      "front_md":"## ¿Qué es el asilo territorial?",
-      "back_md":"Es la protección que un Estado presta **en su territorio** a personas perseguidas, normalmente por motivos políticos, cuya vida o libertad están en peligro en el Estado de procedencia. Se fundamenta en la competencia territorial del Estado asilante.",
-      "tags":["asilo","asilo-territorial"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Asilo territorial"}
-    },
-    {
-      "id":"dip1pp-t21-c002","topic":"tema_21","importance":4,
-      "front_md":"## ¿Qué es el asilo diplomático y en qué se diferencia del territorial?",
-      "back_md":"El **asilo diplomático** es la protección dispensada en lugares protegidos por la inviolabilidad diplomática a personas perseguidas, negándose a entregarlas a las autoridades locales.\n\nEl **asilo territorial** se concede dentro del territorio soberano del Estado asilante.",
-      "tags":["asilo","asilo-diplomatico","asilo-territorial"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Asilo diplomático"}
-    },
-    {
-      "id":"dip1pp-t21-c003","topic":"tema_21","importance":3,
-      "front_md":"## ¿Qué papel tiene la Convención de Caracas de 1954 en el asilo diplomático?",
-      "back_md":"Es la referencia convencional destacada en los apuntes para el asilo diplomático latinoamericano. Reconoce, entre otros aspectos, que el **Estado asilante califica la naturaleza del delito o persecución y aprecia la urgencia**, y que el asilo dura el tiempo estrictamente indispensable para permitir la salida segura del asilado.",
-      "tags":["asilo-diplomatico","caracas-1954"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Asilo diplomático"}
-    },
-    {
-      "id":"dip1pp-t21-c004","topic":"tema_21","importance":3,
-      "front_md":"## ¿Qué es la nacionalidad en Derecho internacional según los apuntes?",
-      "back_md":"Es el **vínculo jurídico** que une a un individuo con una organización política estatal y determina su pertenencia jurídica a la población del Estado.",
-      "tags":["nacionalidad"],
-      "source":{"type":"notes","reference":"HOT IDP Tema 11-21 — Nacionalidad"}
-    },
-    {
-      "id":"dip1pp-t21-c005","topic":"tema_21","importance":4,
-      "front_md":"## ¿Qué es la protección diplomática y cuáles son sus requisitos básicos?",
-      "back_md":"Es el derecho del Estado a hacer suya la reclamación de un nacional lesionado por un hecho internacionalmente ilícito de otro Estado.\n\nLos requisitos básicos son:\n- vínculo de **nacionalidad**;\n- **agotamiento de los recursos internos** del Estado responsable, salvo excepciones.\n\nLos apuntes también tratan la llamada regla de las **manos limpias** como cuestión controvertida.",
-      "tags":["proteccion-diplomatica","nacionalidad","recursos-internos"],
-      "source":{"type":"notes","reference":"1ppJuanBueno — Protección diplomática"}
+      "id": "dip1pp-caso05-asilo",
+      "topic": "casos",
+      "importance": 4,
+      "front_md": "## Caso práctico: ¿asilo territorial o diplomático?\nUna persona perseguida busca protección. ¿Qué dato debe mirar primero y cómo estructura el análisis?",
+      "hint_md": "**DISPARADOR:** la primera pregunta es «¿dónde se refugia?». Territorio del Estado ≠ embajada.",
+      "back_md": "### 1. Territorial\nSi entra en el territorio de otro Estado buscando protección: **asilo territorial**. Conecte persecución, soberanía del Estado asilante y exclusiones por crímenes internacionales.\n\n### 2. Diplomático\nSi entra en una misión diplomática: analice **asilo diplomático**, su carácter regional latinoamericano, Convención de Caracas de 1954, delito político y urgencia.\n\n### 3. Urgencia\nEn asilo diplomático, recuerde peligro para vida/libertad o imposibilidad de ponerse a salvo de otro modo.\n\n### 4. Salida\nLa protección se concibe por el tiempo indispensable para posibilitar una salida segura en el régimen estudiado.\n\n**Frase final:** «Lugar + motivo de persecución + urgencia + régimen aplicable: esas cuatro variables ordenan el caso».",
+      "mnemonic_md": "**Lugar → motivo → urgencia → régimen → salida segura.**",
+      "tags": [
+        "caso-practico",
+        "asilo"
+      ],
+      "source": {
+        "type": "notes",
+        "reference": "Apuntes_DIP_Primer_Parcial_Minimo_Esfuerzo — Caso práctico 5/5"
+      }
     }
   ]
 }
