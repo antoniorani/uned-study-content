@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "id": "demo_test",
+  "title": "DEMO — Test (contenido ficticio)",
+  "degree": "Demo técnica",
+  "course": 1,
+  "type": "test",
+  "content_version": "2026.09.1",
+  "exam": {
+    "questions": 4,
+    "duration_minutes": 5,
+    "wrong_answer_penalty": 0.25
+  },
+  "topics": [
+    {
+      "id": "tema_01",
+      "title": "Conceptos Alfa y Beta"
+    },
+    {
+      "id": "tema_02",
+      "title": "Reglas Gamma"
+    }
+  ],
+  "items": [
+    {
+      "id": "demo-test-t01-q001",
+      "topic": "tema_01",
+      "importance": 5,
+      "question_md": "En este contenido **ficticio**, ¿qué etiqueta se define como la categoría principal?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Alfa"
+        },
+        {
+          "id": "b",
+          "text_md": "Beta"
+        },
+        {
+          "id": "c",
+          "text_md": "Gamma"
+        },
+        {
+          "id": "d",
+          "text_md": "Delta"
+        }
+      ],
+      "correct_answer": "a",
+      "explanation_md": "Para esta demo se define **Alfa** como la categoría principal. No representa ninguna regla jurídica real.",
+      "tags": [
+        "demo",
+        "alfa"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-test-t01-q002",
+      "topic": "tema_01",
+      "importance": 2,
+      "question_md": "Según las reglas internas de esta demo, ¿qué categoría es secundaria respecto de Alfa?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Épsilon"
+        },
+        {
+          "id": "b",
+          "text_md": "Beta"
+        },
+        {
+          "id": "c",
+          "text_md": "Omega"
+        },
+        {
+          "id": "d",
+          "text_md": "Sigma"
+        }
+      ],
+      "correct_answer": "b",
+      "explanation_md": "**Beta** se usa como categoría secundaria únicamente dentro de este ejemplo ficticio.",
+      "tags": [
+        "demo",
+        "beta"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-test-t01-q003",
+      "topic": "tema_01",
+      "importance": 4,
+      "question_md": "Si una ficha de la demo indica `A > B`, ¿qué relación representa?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "A tiene prioridad sobre B"
+        },
+        {
+          "id": "b",
+          "text_md": "A y B son idénticos"
+        },
+        {
+          "id": "c",
+          "text_md": "B elimina siempre a A"
+        },
+        {
+          "id": "d",
+          "text_md": "No existe relación entre A y B"
+        }
+      ],
+      "correct_answer": "a",
+      "explanation_md": "En la notación de esta demo, `>` significa exclusivamente **prioridad**.",
+      "tags": [
+        "demo",
+        "notacion"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-test-t02-q001",
+      "topic": "tema_02",
+      "importance": 3,
+      "question_md": "La regla Gamma-1 de esta demo establece que una secuencia válida debe comenzar por:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Gamma"
+        },
+        {
+          "id": "b",
+          "text_md": "Beta"
+        },
+        {
+          "id": "c",
+          "text_md": "Alfa"
+        },
+        {
+          "id": "d",
+          "text_md": "Delta"
+        }
+      ],
+      "correct_answer": "c",
+      "explanation_md": "La secuencia ficticia definida para las pruebas comienza por **Alfa**.",
+      "tags": [
+        "demo",
+        "gamma"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-test-t02-q002",
+      "topic": "tema_02",
+      "importance": 5,
+      "question_md": "¿Cuál es la secuencia completa definida por Gamma-2 en esta demo?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Alfa → Beta → Gamma"
+        },
+        {
+          "id": "b",
+          "text_md": "Gamma → Alfa → Beta"
+        },
+        {
+          "id": "c",
+          "text_md": "Beta → Gamma → Alfa"
+        },
+        {
+          "id": "d",
+          "text_md": "Alfa → Gamma → Beta"
+        }
+      ],
+      "correct_answer": "a",
+      "explanation_md": "La secuencia de prueba es **Alfa → Beta → Gamma**.",
+      "tags": [
+        "demo",
+        "gamma",
+        "secuencia"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-test-t02-q003",
+      "topic": "tema_02",
+      "importance": 1,
+      "question_md": "En Gamma-3, ¿qué símbolo se utiliza para indicar una revisión pendiente?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "`!`"
+        },
+        {
+          "id": "b",
+          "text_md": "`?`"
+        },
+        {
+          "id": "c",
+          "text_md": "`#`"
+        },
+        {
+          "id": "d",
+          "text_md": "`@`"
+        }
+      ],
+      "correct_answer": "b",
+      "explanation_md": "La demo reserva el símbolo `?` para una revisión pendiente.",
+      "tags": [
+        "demo",
+        "gamma",
+        "simbolo"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    }
+  ]
+}
