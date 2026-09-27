@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "id": "demo_flashcards",
+  "title": "DEMO — Tarjetas (contenido ficticio)",
+  "degree": "Demo técnica",
+  "course": 1,
+  "type": "flashcards",
+  "content_version": "2026.09.1",
+  "topics": [
+    {
+      "id": "tema_01",
+      "title": "Memoria básica"
+    },
+    {
+      "id": "tema_02",
+      "title": "Secuencias"
+    }
+  ],
+  "items": [
+    {
+      "id": "demo-cards-t01-c001",
+      "topic": "tema_01",
+      "importance": 5,
+      "front_md": "En esta demo, ¿qué representa **Alfa**?",
+      "back_md": "**Alfa** representa la categoría principal del ejemplo ficticio.",
+      "hint_md": "Es la categoría con mayor importancia en la demo.",
+      "mnemonic_md": "**A**lfa = **A**rriba.",
+      "tags": [
+        "demo",
+        "alfa"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-cards-t01-c002",
+      "topic": "tema_01",
+      "importance": 3,
+      "front_md": "¿Qué papel tiene **Beta** en el ejemplo ficticio?",
+      "back_md": "Es la categoría secundaria respecto de Alfa.",
+      "hint_md": "Va después de Alfa.",
+      "tags": [
+        "demo",
+        "beta"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-cards-t01-c003",
+      "topic": "tema_01",
+      "importance": 2,
+      "front_md": "¿Qué significa la notación `A > B` en esta demo?",
+      "back_md": "Que **A tiene prioridad sobre B**.",
+      "tags": [
+        "demo",
+        "notacion"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-cards-t02-c001",
+      "topic": "tema_02",
+      "importance": 4,
+      "front_md": "Recuerda la secuencia Gamma-2.",
+      "back_md": "1. Alfa\n2. Beta\n3. Gamma",
+      "hint_md": "Empieza por la categoría principal.",
+      "tags": [
+        "demo",
+        "gamma",
+        "secuencia"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-cards-t02-c002",
+      "topic": "tema_02",
+      "importance": 1,
+      "front_md": "¿Qué símbolo indica una revisión pendiente en Gamma-3?",
+      "back_md": "El símbolo `?`.",
+      "tags": [
+        "demo",
+        "gamma"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    },
+    {
+      "id": "demo-cards-t02-c003",
+      "topic": "tema_02",
+      "importance": 3,
+      "front_md": "Completa: **Alfa → ____ → Gamma**.",
+      "back_md": "**Beta**.",
+      "hint_md": "Es la categoría secundaria.",
+      "mnemonic_md": "A-B-G: Alfa, Beta, Gamma.",
+      "tags": [
+        "demo",
+        "secuencia"
+      ],
+      "source": {
+        "type": "example",
+        "reference": "Contenido ficticio para pruebas de la aplicación"
+      }
+    }
+  ]
+}
