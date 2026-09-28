@@ -5,7 +5,7 @@
   "degree": "Demo técnica",
   "course": 1,
   "type": "test",
-  "content_version": "2026.09.1",
+  "content_version": "2026.09.2",
   "exam": {
     "questions": 4,
     "duration_minutes": 5,
@@ -54,7 +54,10 @@
       "source": {
         "type": "example",
         "reference": "Contenido ficticio para pruebas de la aplicación"
-      }
+      },
+      "exam_history": [
+        "DEMO-2025-02"
+      ]
     },
     {
       "id": "demo-test-t01-q002",
@@ -156,7 +159,11 @@
       "source": {
         "type": "example",
         "reference": "Contenido ficticio para pruebas de la aplicación"
-      }
+      },
+      "exam_history": [
+        "DEMO-2024-06",
+        "DEMO-2025-06"
+      ]
     },
     {
       "id": "demo-test-t02-q002",
@@ -226,7 +233,10 @@
       "source": {
         "type": "example",
         "reference": "Contenido ficticio para pruebas de la aplicación"
-      }
+      },
+      "exam_history": [
+        "DEMO-2026-02"
+      ]
     }
   ]
 }
