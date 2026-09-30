@@ -6348,15 +6348,15 @@
         },
         {
           "id": "b",
-          "text_md": "Que se lleve a efecto la acción de poner fin a su vida por el suicida..."
+          "text_md": "Que se lleve a efecto la acción de poner fin a su vida por el suicida, siendo intrascendente que éste consiga finalmente su objetivo."
         },
         {
           "id": "c",
-          "text_md": "Que el suicida dé inicio al acto..."
+          "text_md": "Que el suicida de inicio al acto de poner fin a su vida."
         },
         {
           "id": "d",
-          "text_md": "Que se realicen actos dirigidos a convencer..."
+          "text_md": "Que se realicen actos dirigidos a convencer a una persona para que ponga fin a su vida."
         }
       ],
       "correct_answer": "a",
@@ -6458,11 +6458,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Que se realice la amenaza exigiendo una cantidad de dinero... siempre que ésta sea lícita."
+          "text_md": "Que se realice la amenaza exigiendo una cantidad de dinero o cualquier otra condición, siempre que ésta sea lícita."
         },
         {
           "id": "b",
-          "text_md": "Que se realice... siempre que esta sea ilícita."
+          "text_md": "Que se realice la amenaza exigiendo una cantidad de dinero o cualquier otra condición, siempre que esta sea ilícita."
         },
         {
           "id": "c",
@@ -6500,7 +6500,7 @@
         },
         {
           "id": "b",
-          "text_md": "Únicamente como actos preparatorios la conspiración y la provocación..."
+          "text_md": "Únicamente como actos preparatorios la conspiración y la provocación para delinquir."
         },
         {
           "id": "c",
@@ -6530,11 +6530,11 @@
       "id": "dp2-25f1-q08",
       "topic": "libertad",
       "importance": 4,
-      "question_md": "Juan Manuel denuncia ante la Guardia Civil que Susana lo está chantajeando, exigiéndole 10.000 euros a cambio de no revelar que él cometió un hurto de un bolso... Juan Manuel reconoce su responsabilidad en el hurto:",
+      "question_md": "Juan Manuel denuncia ante la Guardia Civil que Susana lo está chantajeando, exigiéndole 10.000 euros a cambio de no revelar que él cometió un hurto de un bolso valorado en 450 euros seis meses atrás. En su denuncia, Juan Manuel reconoce su responsabilidad en el hurto:",
       "answers": [
         {
           "id": "a",
-          "text_md": "Juan Manuel tiene que ser declarado autor del delito de hurto..."
+          "text_md": "Juan Manuel tiene que ser declarado autor del delito de hurto, y condenado de forma obligada, al haber reconocido dicho delito."
         },
         {
           "id": "b",
@@ -6542,11 +6542,11 @@
         },
         {
           "id": "c",
-          "text_md": "Juan Manuel no puede ser condenado..."
+          "text_md": "Juan Manuel no puede ser condenado por delito alguno, al ser quien procede a denunciar la comisión de otro delito."
         },
         {
           "id": "d",
-          "text_md": "La acción de Juan Manuel no constituye ilícito alguno..."
+          "text_md": "La acción de Juan Manuel no constituye ilícito alguno, al concurrir la atenuante de estado de necesidad."
         }
       ],
       "correct_answer": "b",
@@ -6572,7 +6572,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Se integrará en el delito de matrimonios forzados del art. 172 bis.1 CP..."
+          "text_md": "Se integrará en el delito de matrimonios forzados del art.172 bis.1. CP, pues concurre intimidación, y se ataca a la libertad personal de decisión de contraer matrimonio con la persona con la que desea casarse."
         },
         {
           "id": "b",
@@ -6606,15 +6606,15 @@
       "id": "dp2-25f1-q10",
       "topic": "libertad_sexual",
       "importance": 4,
-      "question_md": "Antonio, Juan y Pedro coinciden en un pub con María, intoxicada alcohólicamente... Encontrándose María inmóvil y sin consciencia, proceden a penetrarla vaginalmente uno a uno. Indique la responsabilidad penal:",
+      "question_md": "Antonio, Juan y Pedro coinciden en un pub con María, que se encuentra bajo una fuerte intoxicación alcohólica, y la acompañan a su casa. Una vez acceden al hall de la finca, deciden agredir sexualmente a la misma, lo que hacen contra su voluntad. Encontrándose María inmóvil y sin consciencia, proceden a penetrarla vaginalmente uno a uno. Indique la responsabilidad penal de Antonio, Juan y Pedro:",
       "answers": [
         {
           "id": "a",
-          "text_md": "Cada uno responde exclusivamente como autor de un delito de violación agravada..."
+          "text_md": "Cada uno responde exclusivamente como autor de un delito de violación agravada del art.180.1.CP."
         },
         {
           "id": "b",
-          "text_md": "Cada uno responde exclusivamente como autor de un delito de violación..."
+          "text_md": "Cada uno responde exclusivamente como autor de un delito de violación del art. 179 CP."
         },
         {
           "id": "c",
@@ -6622,7 +6622,7 @@
         },
         {
           "id": "d",
-          "text_md": "Cada uno responde como autor..."
+          "text_md": "Cada uno responde como autor de un delito de violación del art.179 CP y como cómplice de dos delitos de violación agravada del art.180.1 CP."
         }
       ],
       "correct_answer": "c",
@@ -6652,15 +6652,15 @@
         },
         {
           "id": "b",
-          "text_md": "Es un delito especial..."
+          "text_md": "Es un delito especial, mixto alternativo, de mera actividad y de peligro abstracto."
         },
         {
           "id": "c",
-          "text_md": "Es un delito común... de resultado..."
+          "text_md": "Es un delito común, mixto alternativo, de resultado y de peligro concreto."
         },
         {
           "id": "d",
-          "text_md": "Es un delito común... de resultado y peligro abstracto."
+          "text_md": "Es un delito común, mixto alternativo, de resultado y de peligro abstracto."
         }
       ],
       "correct_answer": "a",
@@ -6690,15 +6690,15 @@
         },
         {
           "id": "b",
-          "text_md": "El acceso a un sistema... siempre que dicha conducta posibilite el conocimiento de información de carácter íntimo..."
+          "text_md": "El acceso a un sistema vulnerando las medidas de seguridad, siempre que dicha conducta posibilite el conocimiento de información de carácter íntimo o reservado."
         },
         {
           "id": "c",
-          "text_md": "El acceso autorizado..."
+          "text_md": "El acceso autorizado a un sistema, pero siempre que se difunda sin autorización la información obtenida de carácter íntimo o reservado."
         },
         {
           "id": "d",
-          "text_md": "El acceso a un sistema por persona no autorizada..."
+          "text_md": "El acceso a un sistema por persona no autorizada, accediendo a información, de carácter íntimo, pero de naturaleza exclusivamente sexual."
         }
       ],
       "correct_answer": "a",
@@ -6724,7 +6724,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Se realicen conductas con la finalidad de la explotación sexual, empleando violencia, intimidación, pero no con engaño..."
+          "text_md": "Se realicen conductas con la finalidad de la explotación sexual, empleando violencia, intimidación, pero no con engaño, de la víctima nacional o extranjera."
         },
         {
           "id": "b",
@@ -6732,11 +6732,11 @@
         },
         {
           "id": "c",
-          "text_md": "Se realicen conductas sin finalidad determinada..."
+          "text_md": "Se realicen conductas sin finalidad determinada, empleando violencia, intimidación o engaño de la víctima nacional o extranjera."
         },
         {
           "id": "d",
-          "text_md": "Se realicen conductas..."
+          "text_md": "Se realicen conductas con la finalidad de explotación laboral, empleando violencia, intimidación o engaño, exclusivamente sobre víctima extranjera."
         }
       ],
       "correct_answer": "b",
@@ -6758,15 +6758,15 @@
       "id": "dp2-25f1-q14",
       "topic": "relaciones_familiares",
       "importance": 4,
-      "question_md": "Se incurre en delito de impago de prestaciones económicas en supuestos de divorcio del art. 227 CP... y:",
+      "question_md": "Se incurre en delito de impago de prestaciones económicas en supuestos de divorcio del art. 227 CP, dejando de pagar cualquier tipo de prestación económica a favor de su cónyuge o sus hijos, aprobada en sentencia judicial y:",
       "answers": [
         {
           "id": "a",
-          "text_md": "Dejando de pagar durante dos meses consecutivos o seis meses no consecutivos..."
+          "text_md": "Dejando de pagar durante dos meses consecutivos o seis meses no consecutivos la pensión establecida a favor de cónyuge o de sus hijos."
         },
         {
           "id": "b",
-          "text_md": "Dejando de pagar durante tres meses no consecutivos..."
+          "text_md": "Dejando de pagar durante tres meses no consecutivos la pensión establecida a favor de su cónyuge."
         },
         {
           "id": "c",
@@ -6774,7 +6774,7 @@
         },
         {
           "id": "d",
-          "text_md": "Dejando de pagar durante dos meses no consecutivos..."
+          "text_md": "Dejando de pagar durante dos meses no consecutivos la pensión establecida, a favor de su cónyuge."
         }
       ],
       "correct_answer": "c",
@@ -6800,7 +6800,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "No se comunica a los restantes partícipes..."
+          "text_md": "No se comunica a los restantes partícipes, respondiendo cada uno por la acción realizada personalmente."
         },
         {
           "id": "b",
@@ -6846,7 +6846,7 @@
         },
         {
           "id": "c",
-          "text_md": "Que una cosa debe reputarse perdida cuando no es reclamada..."
+          "text_md": "Que una cosa debe reputarse perdida cuando no es reclamada por su dueño."
         },
         {
           "id": "d",
@@ -6872,11 +6872,11 @@
       "id": "dp2-25f1-q17",
       "topic": "estafas_defraudaciones",
       "importance": 4,
-      "question_md": "Esperanza, abogada de profesión, es designada como depositaria judicial de un vehículo embargado... Durante cuatro años... ha utilizado el vehículo para uso personal y familiar... entregando el vehículo en perfecto estado al ser requerida para la subasta:",
+      "question_md": "Esperanza, abogada de profesión, es designada como depositaria judicial de un vehículo embargado en el procedimiento de reclamación de cantidad en el que intervenía profesionalmente. Durante cuatro años, Esperanza ha utilizado el vehículo para uso personal y familiar, sin estar autorizada a ello, aunque en el momento en el que es requerida para la subasta judicial, entrega el vehículo en perfecto estado, sin defecto ni alteración alguna:",
       "answers": [
         {
           "id": "a",
-          "text_md": "La acción de Esperanza es atípica..."
+          "text_md": "La acción de Esperanza es atípica, pues tras su cometido como depositaria, entrega el vehículo sin defecto y alteración alguna."
         },
         {
           "id": "b",
@@ -6884,11 +6884,11 @@
         },
         {
           "id": "c",
-          "text_md": "La acción de Esperanza no constituye ilícito alguno..."
+          "text_md": "La acción de Esperanza no constituye ilícito alguno, pues como depositaria puede ceder el uso del bien depositado."
         },
         {
           "id": "d",
-          "text_md": "La acción de Esperanza constituye un delito de hurto de uso..."
+          "text_md": "La acción de Esperanza constituye un delito de hurto de uso de vehículo a motor."
         }
       ],
       "correct_answer": "b",
@@ -6918,15 +6918,15 @@
         },
         {
           "id": "b",
-          "text_md": "Que se puede condenar por delito de calumnias, únicamente si se ha presentado querella..."
+          "text_md": "Que se puede condenar por delito de calumnias, únicamente si se ha presentado querella por parte de la persona ofendida."
         },
         {
           "id": "c",
-          "text_md": "Que solo se puede condenar por delito de injurias si se ha presentado denuncia..."
+          "text_md": "Que solo se puede condenar por delito de injurias si se ha presentado denuncia por parte de la persona ofendida."
         },
         {
           "id": "d",
-          "text_md": "Que únicamente se puede dar curso procesal..."
+          "text_md": "Que únicamente se puede dar curso procesal por delito de injurias o calumnias, si se ratifica por el perjudicado ante la autoridad judicial la denuncia presentada ante la policía judicial."
         }
       ],
       "correct_answer": "a",
@@ -6956,15 +6956,15 @@
         },
         {
           "id": "b",
-          "text_md": "El delito de facturación fraudulenta es un delito de resultado..."
+          "text_md": "El delito de facturación fraudulenta es un delito de resultado y el delito de estafa de mera actividad."
         },
         {
           "id": "c",
-          "text_md": "El delito de facturación fraudulenta admite actos preparatorios..."
+          "text_md": "El delito de facturación fraudulenta admite los actos preparatorios como punibles, no siendo posible en el delito de estafa."
         },
         {
           "id": "d",
-          "text_md": "En el delito de facturación fraudulenta no cabe la coautoría..."
+          "text_md": "En el delito de facturación fraudulenta no cabe la coautoría, siendo posible ésta en el delito de estafa."
         }
       ],
       "correct_answer": "a",
@@ -6998,11 +6998,11 @@
         },
         {
           "id": "c",
-          "text_md": "Puede ser cómplice..."
+          "text_md": "Puede ser cómplice del delito de receptación."
         },
         {
           "id": "d",
-          "text_md": "Puede ser inductor..."
+          "text_md": "Puede ser inductor del delito de receptación."
         }
       ],
       "correct_answer": "b",
@@ -7040,7 +7040,7 @@
         },
         {
           "id": "d",
-          "text_md": "Únicamente por bienes muebles..."
+          "text_md": "Únicamente por bienes muebles que proceden de una actividad ilícita."
         }
       ],
       "correct_answer": "a",
@@ -7074,7 +7074,7 @@
         },
         {
           "id": "c",
-          "text_md": "Engaño, acto de disposición patrimonial y relación de causalidad..."
+          "text_md": "Engaño, acto de disposición patrimonial y relación de causalidad entre el engaño y el acto de disposición patrimonial."
         },
         {
           "id": "d",
@@ -7154,7 +7154,7 @@
         },
         {
           "id": "d",
-          "text_md": "Debe duplicar la deuda tributaria..."
+          "text_md": "Debe duplicar la deuda tributaria, en concepto de penalización."
         }
       ],
       "correct_answer": "a",
@@ -7226,7 +7226,7 @@
         },
         {
           "id": "c",
-          "text_md": "Resulta aplicable la suspensión... únicamente condicionado a la obligación de pago..."
+          "text_md": "Resulta aplicable la suspensión de condena sin concurrencia de los requisitos del art.80CP, únicamente condicionado a la obligación de pago o compromiso de pago de la deuda tributaria o con la Seguridad Social."
         },
         {
           "id": "d",
@@ -7366,7 +7366,7 @@
       "id": "dp2-25s1-q03",
       "topic": "lesiones_organos",
       "importance": 4,
-      "question_md": "El art. 152 bis CP recoge los supuestos agravados del delito de lesiones por imprudencia grave. Conforme a este precepto, ¿qué tipo de imprudencia se tiene que dar...?:",
+      "question_md": "El art. 152 bis CP recoge los supuestos agravados del delito de lesiones por imprudencia grave. Conforme a este precepto, ¿qué tipo de imprudencia se tiene que dar para que resulten de aplicación alguno de estos supuestos agravados?",
       "answers": [
         {
           "id": "a",
@@ -7412,15 +7412,15 @@
         },
         {
           "id": "b",
-          "text_md": "Prevé la exención de la pena..."
+          "text_md": "Prevé la exención de la pena correspondiente a la lesión causada."
         },
         {
           "id": "c",
-          "text_md": "El actual Código penal no otorga validez alguna..."
+          "text_md": "El actual Código penal no otorga validez alguna al consentimiento en los delitos de lesiones."
         },
         {
           "id": "d",
-          "text_md": "Prevé la aplicación de lesiones por imprudencia..."
+          "text_md": "Prevé la aplicación de lesiones por imprudencia en función de la lesión causada."
         }
       ],
       "correct_answer": "a",
@@ -7648,7 +7648,7 @@
         },
         {
           "id": "d",
-          "text_md": "En ningún caso..."
+          "text_md": "En ningún caso, con independencia de que se mantuviera en tal domicilio dentro o fuera de sus horas de apertura."
         }
       ],
       "correct_answer": "a",
@@ -7944,11 +7944,11 @@
         },
         {
           "id": "b",
-          "text_md": "El deudor haya contraído nuevas obligaciones..."
+          "text_md": "El deudor haya contraído nuevas obligaciones sin justificación."
         },
         {
           "id": "c",
-          "text_md": "El deudor haya obstaculizado la actividad..."
+          "text_md": "El deudor haya obstaculizado la actividad de la administración."
         },
         {
           "id": "d",
@@ -7986,7 +7986,7 @@
         },
         {
           "id": "c",
-          "text_md": "Solo en los delitos de daños a bienes afectos a las fuerzas armadas..."
+          "text_md": "Solo en los delitos de daños a bienes afectos a las fuerzas armadas y cuerpos de seguridad."
         },
         {
           "id": "d",
@@ -8012,7 +8012,7 @@
       "id": "dp2-25s1-q20",
       "topic": "propiedad_intelectual",
       "importance": 4,
-      "question_md": "Conforme a lo señalado en el Manual de la asignatura, ¿cuál sería el bien jurídico protegido en el delito de fabricación y comercialización de marcas y otros signos distintivos... (art. 274 CP)?:",
+      "question_md": "Conforme a lo señalado en el Manual de la asignatura, ¿cuál sería el bien jurídico protegido en el delito de fabricación y comercialización de marcas y otros signos distintivos registrados previsto en el art. 274 CP?",
       "answers": [
         {
           "id": "a",
@@ -8028,7 +8028,7 @@
         },
         {
           "id": "d",
-          "text_md": "El derecho a utilizar de forma exclusiva patentes..."
+          "text_md": "El derecho a utilizar de forma exclusiva y excluyente cualquier patente y modelo de utilidad."
         }
       ],
       "correct_answer": "c",
@@ -8050,7 +8050,7 @@
       "id": "dp2-25s1-q21",
       "topic": "propiedad_intelectual",
       "importance": 4,
-      "question_md": "El artículo 270.1 CP castiga al que, con ánimo de obtener beneficio económico y en perjuicio de tercero, distribuya una obra artística... ¿Qué prevé este mismo artículo, en su apartado 4, para los supuestos de distribución ambulante?:",
+      "question_md": "El artículo 270.1 CP castiga al que, con ánimo de obtener un beneficio económico, y en perjuicio de tercero, distribuya una obra artística, sin la autorización de los titulares de los correspondientes derechos de propiedad intelectual o de sus cesionarios. ¿Qué prevé este mismo artículo, en su apartado 4, para los supuestos de distribución ambulante?",
       "answers": [
         {
           "id": "a",
@@ -8126,7 +8126,7 @@
       "id": "dp2-25s1-q23",
       "topic": "hacienda_seguridad_social",
       "importance": 4,
-      "question_md": "¿Cuál de las siguientes conductas NO constituye una de las modalidades comisivas previstas en el tipo básico del delito de defraudación tributaria...",
+      "question_md": "¿Cuál de las siguientes conductas NO constituye una de las modalidades comisivas previstas en el tipo básico del delito de defraudación tributaria recogido en el art. 305.1 CP?",
       "answers": [
         {
           "id": "a",
@@ -8202,15 +8202,15 @@
       "id": "dp2-25s1-q25",
       "topic": "receptacion_blanqueo",
       "importance": 4,
-      "question_md": "¿Qué contempla art. 301.1 CP, en su párrafo 2º, relativo al delito de blanqueo de capitales, para los supuestos en los que los bienes... estén relacionados con el delito de tráfico de drogas?:",
+      "question_md": "¿Qué contempla el art. 301.1 CP, en su párrafo 2.º, relativo al delito de blanqueo de capitales, para los supuestos en los que los bienes adquiridos a sabiendas de que tienen su origen en una actividad delictiva estén relacionados con el delito de tráfico de drogas?",
       "answers": [
         {
           "id": "a",
-          "text_md": "Una pena equivalente a la prevista en el tipo básico..."
+          "text_md": "Una pena equivalente a la prevista en el tipo básico del delito de blanqueo de capitales."
         },
         {
           "id": "b",
-          "text_md": "Una atenuación..."
+          "text_md": "Una atenuación de la pena a la prevista en el tipo básico del delito de blanqueo de capitales."
         },
         {
           "id": "c",
@@ -8218,7 +8218,7 @@
         },
         {
           "id": "d",
-          "text_md": "Una modalidad independiente..."
+          "text_md": "Una modalidad independiente del delito de blanqueo de capitales con pena propia."
         }
       ],
       "correct_answer": "c",
@@ -8278,7 +8278,7 @@
       "id": "dp2-25s1-q27",
       "topic": "propiedad_intelectual",
       "importance": 3,
-      "question_md": "El art. 273.1 CP castiga al que... sin consentimiento del titular de un modelo de utilidad y con conocimiento de su registro... fabrique objetos... ¿Qué duración tiene la protección de un modelo de utilidad?:",
+      "question_md": "El art. 273.1 CP castiga al que, con fines industriales o comerciales, sin consentimiento del titular de un modelo de utilidad y con conocimiento de su registro, fabrique objetos amparados por tales derechos. ¿Qué duración tiene la protección de un modelo de utilidad?",
       "answers": [
         {
           "id": "a",
@@ -8514,15 +8514,15 @@
         },
         {
           "id": "b",
-          "text_md": "Únicamente los directores de personal..."
+          "text_md": "Únicamente los directores de personal en el ámbito laboral o funcionarial."
         },
         {
           "id": "c",
-          "text_md": "Las personas que ocupen una posición de superioridad jerárquica..."
+          "text_md": "Las personas que ocupen una posición de superioridad jerárquica en el ámbito laboral o funcionarial."
         },
         {
           "id": "d",
-          "text_md": "Los representantes sindicales..."
+          "text_md": "Los representantes sindicales que realicen su actividad en el ámbito laboral o funcionarial."
         }
       ],
       "correct_answer": "a",
@@ -8662,7 +8662,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Cualquier profesional en el ejercicio de sus funciones..."
+          "text_md": "Cualquier profesional en el ejercicio de sus funciones que, por su cargo, tenga obligación a prestarlo (policía, bomberos, sanitarios, etc.)."
         },
         {
           "id": "b",
@@ -8674,7 +8674,7 @@
         },
         {
           "id": "d",
-          "text_md": "Cualquier profesional..."
+          "text_md": "Cualquier profesional, sanitario o de cualquier otro tipo, se encuentre o no en el ejercicio de sus funciones."
         }
       ],
       "correct_answer": "b",
@@ -8696,7 +8696,7 @@
       "id": "dp2-26f1-q11",
       "topic": "intimidad_morada",
       "importance": 4,
-      "question_md": "El art. 197.7 CP recoge el denominado sexting por el que se castiga al que difunda... imágenes o grabaciones audiovisuales de una persona, obtenidas con su anuencia. ¿Cómo opera en este delito el consentimiento...?",
+      "question_md": "El art. 197.7 CP recoge el denominado sexting por el que se castiga al que difunda, revele o ceda a terceros imágenes o grabaciones audiovisuales de una persona, que hubieran sido obtenidas previamente con su anuencia. ¿Cómo opera en este delito el consentimiento de la persona afectada?",
       "answers": [
         {
           "id": "a",
@@ -8750,7 +8750,7 @@
         },
         {
           "id": "d",
-          "text_md": "Todas las personas..."
+          "text_md": "Todas las personas, físicas o jurídicas, públicas o privadas, pueden ser titulares del derecho al honor."
         }
       ],
       "correct_answer": "b",
@@ -8776,7 +8776,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "No, en ningún caso..."
+          "text_md": "No, en ningún caso, ya que la carga de la prueba corresponde siempre al que acusa y no al acusado (principio acusatorio)."
         },
         {
           "id": "b",
@@ -8784,11 +8784,11 @@
         },
         {
           "id": "c",
-          "text_md": "Sí, pero solamente cuando las calumnias se dirijan contra funcionarios públicos..."
+          "text_md": "Sí, pero solamente cuando las calumnias se dirijan contra funcionarios públicos y versen sobre hechos concernientes al ejercicio de sus cargos."
         },
         {
           "id": "d",
-          "text_md": "No, aunque el Juez..."
+          "text_md": "No, aunque el Juez o Tribunal podrá imponer la pena inmediatamente inferior en grado a la prevista en el tipo básico."
         }
       ],
       "correct_answer": "b",
@@ -8886,7 +8886,7 @@
       "id": "dp2-26f1-q16",
       "topic": "estafas_defraudaciones",
       "importance": 4,
-      "question_md": "El art. 248 CP introduce en su primer párrafo el concepto de estafa... Para la fijación de la pena se tendrá en cuenta una serie de circunstancias, entre las que NO se encuentra expresamente...:",
+      "question_md": "El art. 248 CP introduce en su primer párrafo el concepto de estafa, mientras que en su párrafo segundo señala la pena a imponer. Según este precepto, para la fijación de la pena se tendrá en cuenta una serie de circunstancias, entre las que NO se encuentra expresamente...:",
       "answers": [
         {
           "id": "a",
@@ -8924,7 +8924,7 @@
       "id": "dp2-26f1-q17",
       "topic": "frustracion_insolvencias",
       "importance": 4,
-      "question_md": "¿En cuál de los siguientes delitos se prevé la posibilidad de imponer algunas de las consecuencias previstas en el art. 129 CP si el culpable perteneciere a alguna sociedad, organización o asociación...?:",
+      "question_md": "¿En cuál de los siguientes delitos se prevé la posibilidad de imponer algunas de las consecuencias previstas en el art. 129 CP si el culpable perteneciere a alguna sociedad, organización o asociación, incluso de carácter transitorio, que se dedicare a la realización de tales actividades?",
       "answers": [
         {
           "id": "a",
@@ -8940,7 +8940,7 @@
         },
         {
           "id": "d",
-          "text_md": "Alzamiento de bienes para dilatar o impedir un embargo..."
+          "text_md": "Alzamiento de bienes para dilatar o impedir un embargo, procedimiento ejecutivo o de apremio."
         }
       ],
       "correct_answer": "a",
@@ -8978,7 +8978,7 @@
         },
         {
           "id": "d",
-          "text_md": "Se destruya el soporte físico..."
+          "text_md": "Se destruya el soporte físico del ordenador, aunque los datos sean recuperables."
         }
       ],
       "correct_answer": "c",
@@ -9152,7 +9152,7 @@
       "id": "dp2-26f1-q23",
       "topic": "receptacion_blanqueo",
       "importance": 4,
-      "question_md": "Para que se entienda consumado el tipo básico del delito de receptación recogido en el art. 298.1 CP, es necesario que concurran una serie de requisitos, entre los que NO se encuentra....",
+      "question_md": "Para que se entienda consumado el tipo básico del delito de receptación recogido en el art. 298.1 CP, es necesario que concurran una serie de requisitos, entre los que NO se encuentra...:",
       "answers": [
         {
           "id": "a",
@@ -9228,7 +9228,7 @@
       "id": "dp2-26f1-q25",
       "topic": "hacienda_seguridad_social",
       "importance": 4,
-      "question_md": "En el delito de omisión de llevar contabilidad, libros o registros fiscales, tipificado en el art. 310 CP... para que la conducta sea típica se exige la concurrencia de unos determinados requisitos, entre los que no figura:",
+      "question_md": "En el delito de omisión de llevar contabilidad, libros o registros fiscales, tipificado en el art. 310 CP, de acuerdo con el contenido del Manual recomendado para el estudio de la asignatura, para que la conducta sea típica se exige la concurrencia de unos determinados requisitos, entre los que no figura:",
       "answers": [
         {
           "id": "a",
@@ -9236,7 +9236,7 @@
         },
         {
           "id": "b",
-          "text_md": "Que el sujeto activo tenga la obligación por la ley tributaria de llevar contabilidad mercantil..."
+          "text_md": "Que el sujeto activo tenga la obligación por la ley tributaria de llevar contabilidad mercantil, libros o registros fiscales."
         },
         {
           "id": "c",
@@ -9266,7 +9266,7 @@
       "id": "dp2-26f1-q26",
       "topic": "omision_socorro",
       "importance": 3,
-      "question_md": "Pedro circulaba por la carretera y observa que el vehículo que iba delante de él impacta contra la mediana y cae en un profundo barranco... zona escarpada y sin acceso. La conducta de Pedro sería constitutiva de:",
+      "question_md": "Pedro circulaba por la carretera y observa que el vehículo que iba delante de él impacta contra la mediana y cae en un profundo barranco. Pedro detiene su vehículo y se aproxima al lugar para ver dónde ha caído el vehículo, que se encuentra en el fondo del barranco a 100 metros de profundidad en una zona escarpada y sin acceso. La conducta de Pedro sería constitutiva de:",
       "answers": [
         {
           "id": "a",
