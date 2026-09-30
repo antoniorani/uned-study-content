@@ -65,20 +65,28 @@
       "title": "Tema 13 — Patrimonio y orden socioeconómico (II): defraudaciones"
     },
     {
-      "id": "danos_societarios_consumidores",
-      "title": "Temas 15, 17 y 18 — Daños, mercado/consumidores y delitos societarios"
-    },
-    {
       "id": "frustracion_insolvencias",
       "title": "Tema 14 — Frustración de la ejecución e insolvencias punibles"
+    },
+    {
+      "id": "danos_societarios_consumidores",
+      "title": "Temas 15, 17 y 18 — Daños, mercado/consumidores y delitos societarios"
     },
     {
       "id": "propiedad_intelectual",
       "title": "Tema 16 — Propiedad intelectual e industrial"
     },
     {
+      "id": "corrupcion_privada",
+      "title": "Tema 17 — Corrupción en los negocios"
+    },
+    {
       "id": "receptacion_blanqueo",
       "title": "Tema 19 — Receptación y blanqueo de capitales"
+    },
+    {
+      "id": "financiacion_politica",
+      "title": "Tema 19 — Financiación ilegal de partidos políticos"
     },
     {
       "id": "hacienda_seguridad_social",
@@ -87,14 +95,6 @@
     {
       "id": "falsedades",
       "title": "Tema 27 — Falsedades"
-    },
-    {
-      "id": "financiacion_politica",
-      "title": "Tema 19 — Financiación ilegal de partidos políticos"
-    },
-    {
-      "id": "corrupcion_privada",
-      "title": "Tema 17 — Corrupción en los negocios"
     }
   ],
   "items": [
