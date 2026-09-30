@@ -9342,7 +9342,7 @@
       "id": "dp2-26s1-q01",
       "topic": "vida_suicidio",
       "importance": 4,
-      "question_md": "Sergio conduce bajo la influencia de sustancias estupefacientes... no ve la señalización del paso de peatones... atropellándole y produciendo su muerte. Respecto al resultado de muerte de Carlos, ¿cuál es la calificación jurídica para este supuesto de hecho?",
+      "question_md": "Sergio conduce bajo la influencia de sustancias estupefacientes, circunstancia que merma sus reflejos y pericia al volante. Debido a ello, no ve la señalización del paso de peatones por el que está cruzando Carlos, atropellándole y produciendo su muerte. Respecto al resultado de muerte de Carlos, ¿cuál es la calificación jurídica para este supuesto de hecho?",
       "answers": [
         {
           "id": "a",
@@ -9380,7 +9380,7 @@
       "id": "dp2-26s1-q02",
       "topic": "aborto_feto",
       "importance": 4,
-      "question_md": "Marco, con intención de acabar con la vida del feto, golpea fuertemente en el vientre a María Dolores (embarazada de 8 meses)... parto de urgencia. El recién nacido vive, pero fallece a las pocas horas... como consecuencia del traumatismo... Calificación jurídica respecto a la muerte del recién nacido:",
+      "question_md": "Marco, con intención de acabar con la vida del feto, golpea fuertemente en el vientre a María Dolores, quien está embarazada de 8 meses. Como resultado de la agresión, se provoca un parto de urgencia. El recién nacido vive, pero fallece a las pocas horas de haber sido expulsado del cuerpo de la madre, como consecuencia del traumatismo causado por Marco. Según el Manual recomendado para el estudio de la asignatura, ¿cuál es la calificación jurídica para este supuesto de hecho respecto a la muerte del recién nacido?",
       "answers": [
         {
           "id": "a",
@@ -9434,7 +9434,7 @@
         },
         {
           "id": "d",
-          "text_md": "Se trata de una conducta impune..."
+          "text_md": "Se trata de una conducta impune desde la óptica del Derecho penal por su escasa relevancia."
         }
       ],
       "correct_answer": "c",
@@ -9498,7 +9498,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Cualquier tipo de libertad (ambulatoria, religiosa, sexual, etc.), entendida en un sentido amplio..."
+          "text_md": "Cualquier tipo de libertad (ambulatoria, religiosa, sexual, etc.), entendida en un sentido amplio y positivo de “poder hacer”."
         },
         {
           "id": "b",
@@ -9540,7 +9540,7 @@
         },
         {
           "id": "b",
-          "text_md": "No..."
+          "text_md": "No, puesto que esta clase de conductas solamente están tipificadas como delito de acoso, que requiere una estrategia sistemática y reiterada de humillación a la víctima."
         },
         {
           "id": "c",
@@ -9548,7 +9548,7 @@
         },
         {
           "id": "d",
-          "text_md": "Sí, en cualquier caso e independientemente de la intensidad..."
+          "text_md": "Sí, en cualquier caso e independientemente de la intensidad o gravedad del acto degradante."
         }
       ],
       "correct_answer": "c",
@@ -9570,7 +9570,7 @@
       "id": "dp2-26s1-q07",
       "topic": "libertad_sexual",
       "importance": 4,
-      "question_md": "Raquel, mayor de edad, padece una discapacidad cognitiva y sale con un chico... a solas... su novio decide iniciar una aproximación de tipo erótico. Raquel acepta libremente... ¿El novio de Raquel ha cometido algún delito?",
+      "question_md": "Raquel, mayor de edad, padece una discapacidad cognitiva y sale con un chico mayor de edad desde hace un año. Un día que la pareja se encuentra a solas en la habitación de Raquel, su novio decide iniciar una aproximación de tipo erótico. Raquel acepta libremente la propuesta y ambos mantienen un encuentro sexual. ¿El novio de Raquel ha cometido algún delito?",
       "answers": [
         {
           "id": "a",
@@ -9578,15 +9578,15 @@
         },
         {
           "id": "b",
-          "text_md": "Sí, una agresión sexual básica..."
+          "text_md": "Sí, una agresión sexual básica puesto que el sujeto pasivo padece una situación mental anómala."
         },
         {
           "id": "c",
-          "text_md": "No, puesto que los hechos no se han realizado con violencia o intimidación..."
+          "text_md": "No, puesto que los hechos no se han realizado con violencia o intimidación, requisito imprescindible para que exista una agresión sexual."
         },
         {
           "id": "d",
-          "text_md": "Sí, una agresión sexual agravada..."
+          "text_md": "Sí, una agresión sexual agravada por la especial vulnerabilidad del sujeto pasivo."
         }
       ],
       "correct_answer": "a",
@@ -9608,7 +9608,7 @@
       "id": "dp2-26s1-q08",
       "topic": "omision_socorro",
       "importance": 4,
-      "question_md": "Daniel conduce por una carretera... observa que en la cuneta hay un coche accidentado que está ardiendo. Dentro está atrapado Sergio... Daniel decide continuar conduciendo... Finalmente, Sergio muere abrasado... Calificación jurídica:",
+      "question_md": "Daniel conduce por una carretera poco transitada, cuando de pronto observa que en la cuneta hay un coche accidentado que está ardiendo. Dentro está atrapado Sergio, quien no puede liberarse por sí mismo del cinturón de seguridad. Aunque la vida de Sergio corre peligro grave, Daniel decide continuar conduciendo e ignora las súplicas de éste. Finalmente, Sergio muere abrasado por las llamas. ¿Cuál es la calificación jurídica para este supuesto de hecho?",
       "answers": [
         {
           "id": "a",
@@ -9620,7 +9620,7 @@
         },
         {
           "id": "c",
-          "text_md": "Una conducta impune..."
+          "text_md": "Una conducta impune, puesto que nadie está obligado jurídicamente a ayudar a un desconocido."
         },
         {
           "id": "d",
@@ -9646,7 +9646,7 @@
       "id": "dp2-26s1-q09",
       "topic": "intimidad_morada",
       "importance": 4,
-      "question_md": "María Dolores intercepta una carta dirigida a Marco con la finalidad de descubrir lo que se encuentra escrito en ella y la abre sin su consentimiento. Y vuelve a meterla en el buzón... Calificación jurídica:",
+      "question_md": "María Dolores intercepta una carta dirigida a Marco con la finalidad de descubrir lo que se encuentra escrito en ella y la abre sin su consentimiento. Y vuelve a meterla en el buzón de correos para que llegue a su destinatario. ¿Cuál es la calificación jurídica para este supuesto de hecho?",
       "answers": [
         {
           "id": "a",
@@ -9654,7 +9654,7 @@
         },
         {
           "id": "b",
-          "text_md": "Delito de hurto..."
+          "text_md": "Delito de hurto, puesto que se trata de un mero apoderamiento o sustracción de una cosa mueble ajena."
         },
         {
           "id": "c",
@@ -9662,7 +9662,7 @@
         },
         {
           "id": "d",
-          "text_md": "Es una conducta impune, puesto que la mera intercepción no está tipificada..."
+          "text_md": "Es una conducta impune, puesto que la mera intercepción no está tipificada como delito contra la intimidad."
         }
       ],
       "correct_answer": "a",
@@ -9688,7 +9688,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Es una conducta impune..."
+          "text_md": "Es una conducta impune, puesto que no se realiza con conocimiento de la falsedad de los hechos."
         },
         {
           "id": "b",
@@ -9722,7 +9722,7 @@
       "id": "dp2-26s1-q11",
       "topic": "relaciones_familiares",
       "importance": 4,
-      "question_md": "Ángela, casada con Felipe, contrae un nuevo matrimonio sin disolver el anterior y con la intención de perjudicar... El nuevo matrimonio es declarado inválido... Felipe no sale perjudicado... Calificación jurídica:",
+      "question_md": "Ángela, casada con Felipe, contrae un nuevo matrimonio sin disolver el anterior y con la intención de perjudicar a su nuevo esposo. El nuevo matrimonio es declarado inválido al existir un impedimento no dispensable, hecho que Ángela conocía perfectamente con anterioridad a los esponsales. Finalmente, Felipe no sale perjudicado por estos hechos. Según el Manual recomendado para el estudio de la asignatura, ¿cuál es la calificación jurídica para este supuesto de hecho?",
       "answers": [
         {
           "id": "a",
@@ -9730,11 +9730,11 @@
         },
         {
           "id": "b",
-          "text_md": "Es una conducta impune penalmente, puesto que el segundo matrimonio es inválido..."
+          "text_md": "Es una conducta impune penalmente, puesto que el segundo matrimonio es inválido desde un comienzo."
         },
         {
           "id": "c",
-          "text_md": "Es una conducta impune..., puesto que no se ha producido el resultado típico."
+          "text_md": "Es una conducta impune penalmente, puesto que no se ha producido el resultado típico."
         },
         {
           "id": "d",
@@ -9760,7 +9760,7 @@
       "id": "dp2-26s1-q12",
       "topic": "relaciones_familiares",
       "importance": 4,
-      "question_md": "Nieves se encuentra en situación de indigencia y decide ir con su hija menor de edad (13 años) a practicar la mendicidad en el Metro de Madrid... para conseguir más dinero, Nieves le dice a su hija que pida limosna en los vagones pares... ¿Está cometiendo Nieves un delito?",
+      "question_md": "Nieves se encuentra en situación de indigencia y decide ir con su hija menor de edad (13 años) a practicar la mendicidad en el Metro de Madrid, actividad que realizan juntas habitualmente. Para conseguir más dinero, Nieves le dice a su hija que pida limosna en los vagones pares, mientras que ella hará lo mismo en los vagones impares. ¿Está cometiendo Nieves un delito?",
       "answers": [
         {
           "id": "a",
@@ -9768,11 +9768,11 @@
         },
         {
           "id": "b",
-          "text_md": "Sí, un delito de trata de personas..."
+          "text_md": "Sí, un delito de trata de personas con la finalidad de explotación a través de la mendicidad."
         },
         {
           "id": "c",
-          "text_md": "No, puesto que se trata de una conducta impune..."
+          "text_md": "No, puesto que se trata de una conducta impune no tipificada en nuestro ordenamiento jurídico-penal."
         },
         {
           "id": "d",
@@ -9798,7 +9798,7 @@
       "id": "dp2-26s1-q13",
       "topic": "hurtos_robos",
       "importance": 4,
-      "question_md": "Marco sustrae la cartera de Sergio... Para zafarse de su perseguidor, Marco empuja a Sergio que cae al suelo sin lesiones... y consigue escapar con el botín valorado en 250€. ¿Qué delito ha cometido Marco?",
+      "question_md": "Marco sustrae la cartera de Sergio del bolsillo de su pantalón con intención de apoderarse del dinero que contiene. Al darse cuenta, Sergio corre detrás de él. Para zafarse de su perseguidor, Marco empuja a Sergio que cae al suelo sin recibir lesiones. Gracias a esta maniobra, Marco consigue escapar con el botín valorado en 250 €. ¿Qué delito ha cometido Marco?",
       "answers": [
         {
           "id": "a",
@@ -9848,11 +9848,11 @@
         },
         {
           "id": "c",
-          "text_md": "Solamente en el caso de que el poseedor haya sido quien los haya fabricado..."
+          "text_md": "Solamente en el caso de que el poseedor haya sido quien los haya fabricado o programado."
         },
         {
           "id": "d",
-          "text_md": "Solamente en el caso de que se hayan utilizado..."
+          "text_md": "Solamente en el caso de que se hayan utilizado de manera efectiva, aunque no se haya conseguido el objetivo de la estafa."
         }
       ],
       "correct_answer": "b",
@@ -9874,7 +9874,7 @@
       "id": "dp2-26s1-q15",
       "topic": "estafas_defraudaciones",
       "importance": 4,
-      "question_md": "Ángela se encuentra en mitad de un descampado una videoconsola valorada en 500€ que ha sido abandonada por Sergio... Decide quedársela con evidente ánimo de lucro. ¿Ha cometido Ángela algún delito?:",
+      "question_md": "Ángela se encuentra en mitad de un descampado una videoconsola valorada en 500 € que ha sido abandonada por Sergio, que ya no va a hacer uso de ella (con todo lo que tiene que estudiar de Penal II, no le da tiempo a jugar a videojuegos). Decide quedársela con evidente ánimo de lucro. ¿Ha cometido Ángela algún delito?",
       "answers": [
         {
           "id": "a",
@@ -9912,7 +9912,7 @@
       "id": "dp2-26s1-q16",
       "topic": "danos_societarios_consumidores",
       "importance": 4,
-      "question_md": "Daniel... utiliza el ordenador comunitario de la sala de profesores... de libre acceso... formatea el equipo de manera tal que suprime, totalmente y sin posibilidad de recuperación, los datos informáticos... El resultado es grave... Calificación jurídica:",
+      "question_md": "Daniel, profesor de Derecho penal, utiliza el ordenador comunitario de la sala de profesores del Departamento de Derecho penal, equipo informático de libre acceso para los docentes sin necesidad de contraseña o medidas de seguridad. Para fastidiar a Sergio, quien tiene guardados en ese ordenador todos sus archivos de preguntas de examen, formatea el equipo de manera tal que suprime, totalmente y sin posibilidad de recuperación, los datos informáticos contenidos en el disco duro, aunque el ordenador puede seguir utilizándose. El resultado es grave, puesto que se han perdido todos los archivos del Departamento y no hay copia de seguridad. Según el Manual recomendado para el estudio de la asignatura, ¿cuál es la calificación jurídica para este supuesto de hecho?",
       "answers": [
         {
           "id": "a",
@@ -9928,7 +9928,7 @@
         },
         {
           "id": "d",
-          "text_md": "Se trata de una conducta impune..."
+          "text_md": "Se trata de una conducta impune, puesto que, aunque se han borrado los datos el ordenador puede seguir utilizándose."
         }
       ],
       "correct_answer": "a",
@@ -9950,7 +9950,7 @@
       "id": "dp2-26s1-q17",
       "topic": "propiedad_intelectual",
       "importance": 4,
-      "question_md": "Felipe, sin la autorización de los autores, sube al grupo de Telegram de estudiantes todos los manuales del Grado... en formato PDF... por el módico precio de 5 € el manual... aunque finalmente no se materializa en ninguna pérdida económica real. Calificación jurídica:",
+      "question_md": "Felipe, sin la autorización de los autores, sube al grupo de Telegram de estudiantes todos los manuales del Grado en Derecho de la UNED, escaneados en formato PDF y ordenados en forma de listado, para que puedan ser descargados fácilmente por cualquier usuario, por el módico precio de 5 € el manual. La conducta se realiza en perjuicio de los autores y las editoriales que tienen cedidos los derechos de explotación de las obras, aunque finalmente no se materializa en ninguna pérdida económica real. Según el Manual recomendado para el estudio de la asignatura, ¿cuál es la calificación jurídica para este supuesto de hecho?",
       "answers": [
         {
           "id": "a",
@@ -9966,7 +9966,7 @@
         },
         {
           "id": "d",
-          "text_md": "Se trata de una conducta impune..."
+          "text_md": "Se trata de una conducta impune, puesto que no se ha producido ningún perjuicio económico."
         }
       ],
       "correct_answer": "c",
@@ -9988,11 +9988,11 @@
       "id": "dp2-26s1-q18",
       "topic": "danos_societarios_consumidores",
       "importance": 4,
-      "question_md": "Quien, a través de un medio de comunicación difundieren noticias o rumores... ofreciendo a sabiendas datos económicos total o parcialmente falsos con el fin de alterar o preservar el precio de cotización de un instrumento financiero, obteniendo... un beneficio superior a 250.000 €:",
+      "question_md": "Quien, a través de un medio de comunicación, difundiere noticias o rumores o transmitiere señales falsas o engañosas sobre personas o empresas, ofreciendo a sabiendas datos económicos total o parcialmente falsos con el fin de alterar o preservar el precio de cotización de un instrumento financiero, obteniendo para sí o para tercero un beneficio superior a 250.000 €:",
       "answers": [
         {
           "id": "a",
-          "text_md": "No comete ningún delito..."
+          "text_md": "No comete ningún delito, pues las fake news no están tipificadas en nuestro ordenamiento jurídico-penal."
         },
         {
           "id": "b",
@@ -10004,7 +10004,7 @@
         },
         {
           "id": "d",
-          "text_md": "No comete ningún delito..."
+          "text_md": "No comete ningún delito a no ser que se produzca un perjuicio económico de cualquier cuantía."
         }
       ],
       "correct_answer": "b",
@@ -10026,7 +10026,7 @@
       "id": "dp2-26s1-q19",
       "topic": "receptacion_blanqueo",
       "importance": 4,
-      "question_md": "Daniel vende a precio de saldo... unos teléfonos móviles que previamente ha robado. Marco... sabe con certeza que esos teléfonos no han sido obtenidos de manera legal... decide aprovechar la oferta y comprar uno. ¿Ha cometido Marco un delito?",
+      "question_md": "Daniel vende a precio de saldo en un callejón del centro de Madrid unos teléfonos móviles que previamente ha robado. Marco, que no ha participado ni como autor ni como partícipe en la sustracción de los teléfonos, a pesar de que sabe con certeza que esos teléfonos no han sido obtenidos de manera legal (el precio y la clandestinidad lo delatan), decide aprovechar la oferta y comprar uno. ¿Ha cometido Marco un delito?",
       "answers": [
         {
           "id": "a",
@@ -10042,7 +10042,7 @@
         },
         {
           "id": "d",
-          "text_md": "No, puesto que quien ha cometido el delito es Daniel..."
+          "text_md": "No, puesto que quien ha cometido el delito es Daniel. Marco, que no tiene nada que ver con el robo de los teléfonos, solamente aprovecha una buena oferta."
         }
       ],
       "correct_answer": "c",
@@ -10076,7 +10076,7 @@
         },
         {
           "id": "c",
-          "text_md": "Sí, un delito de daños agravado por razón del perjuicio moral..."
+          "text_md": "Sí, un delito de daños agravado por razón del perjuicio moral ocasionado."
         },
         {
           "id": "d",
@@ -10110,11 +10110,11 @@
         },
         {
           "id": "b",
-          "text_md": "Las cometidas por imprudencia grave, menos grave y leve..."
+          "text_md": "Las cometidas por imprudencia grave, menos grave y leve, incluyendo en cada caso la imprudencia profesional."
         },
         {
           "id": "c",
-          "text_md": "Solamente las cometidas por imprudencia grave y utilizando vehículo a motor..."
+          "text_md": "Solamente las cometidas por imprudencia grave y utilizando vehículo a motor o armas de fuego."
         },
         {
           "id": "d",
@@ -10148,7 +10148,7 @@
         },
         {
           "id": "b",
-          "text_md": "No es delictiva en ningún caso..."
+          "text_md": "No es delictiva en ningún caso, siempre que exista consentimiento del menor."
         },
         {
           "id": "c",
@@ -10156,7 +10156,7 @@
         },
         {
           "id": "d",
-          "text_md": "No es un hecho delictivo en todos los supuestos..."
+          "text_md": "No es un hecho delictivo en todos los supuestos, puesto que la edad de consentimiento sexual se ha establecido en los 14 años, coincidiendo con la edad de responsabilidad penal de los menores."
         }
       ],
       "correct_answer": "c",
@@ -10178,7 +10178,7 @@
       "id": "dp2-26s1-q23",
       "topic": "hurtos_robos",
       "importance": 4,
-      "question_md": "Daniel entró en una tienda de golosinas... por valor de 100€ sin intención de pagar. El dueño cerró la puerta de salida, por lo que Daniel, utilizando un bate de béisbol, fracturó el cristal del escaparate consiguiendo huir con el botín:",
+      "question_md": "Daniel entró en una tienda de golosinas apoderándose de chucherías y chocolates por valor de 100€ sin intención de pagar por ellas. El dueño del establecimiento cerró la única puerta de salida, por lo que Daniel, utilizando un bate de béisbol que llevaba encima, fracturó el cristal del escaparate consiguiendo huir con el suculento botín. ¿Qué delito ha cometido Daniel?",
       "answers": [
         {
           "id": "a",
@@ -10186,7 +10186,7 @@
         },
         {
           "id": "b",
-          "text_md": "Delito de hurto agravado..."
+          "text_md": "Delito de hurto agravado, puesto que el rompimiento de ventanas o puertas solamente está recogido como delito de robo para acceder al lugar en el que se encuentra la cosa mueble."
         },
         {
           "id": "c",
@@ -10216,7 +10216,7 @@
       "id": "dp2-26s1-q24",
       "topic": "estafas_defraudaciones",
       "importance": 4,
-      "question_md": "Marco va a echar gasolina... Sergio, el dueño... tiene trucados los surtidores... antes de realizar cualquier transacción, llama a la policía que, efectivamente, descubre la alteración... Calificación jurídica:",
+      "question_md": "Marco va a echar gasolina a la gasolinera de su barrio. Sergio, el dueño de la gasolinera, tiene trucados los surtidores, de manera que arrojan una cifra superior a la real y, en consecuencia, una factura más elevada de lo que debería por los litros realmente repostados. No obstante, Marco sospecha que hay gato encerrado y, antes de realizar cualquier transacción, llama a la policía que, efectivamente, descubre la alteración de los surtidores. Según el Manual recomendado para el estudio de la asignatura, ¿cuál es la calificación jurídica para este supuesto de hecho?",
       "answers": [
         {
           "id": "a",
@@ -10228,7 +10228,7 @@
         },
         {
           "id": "c",
-          "text_md": "Delito de facturación fraudulenta..."
+          "text_md": "Delito de facturación fraudulenta en perjuicio de los consumidores."
         },
         {
           "id": "d",
@@ -10254,7 +10254,7 @@
       "id": "dp2-26s1-q25",
       "topic": "vida_suicidio",
       "importance": 4,
-      "question_md": "Daniel crea una página web en la que se incita a menores de edad a un nuevo y peligroso reto viral: hacerse cortes en las muñecas... Afortunadamente, ningún menor decide aceptar el reto y no hay que lamentar ninguna tragedia. ¿Ha cometido Daniel un delito?",
+      "question_md": "Daniel crea una página web en la que se incita a menores de edad a un nuevo y peligroso reto viral: hacerse cortes en las muñecas y meter los brazos en agua caliente para que la sangre fluya sin coagularse. Afortunadamente, ningún menor decide aceptar el reto y no hay que lamentar ninguna tragedia. ¿Ha cometido Daniel un delito?",
       "answers": [
         {
           "id": "a",
