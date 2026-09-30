@@ -4,7 +4,7 @@
   "title": "Derecho Penal II — Primer parcial",
   "degree": "UNED — Grados en Derecho y Criminología",
   "type": "test",
-  "content_version": "2026.09.8",
+  "content_version": "2026.09.9",
   "exam": {
     "questions": 25,
     "reserve_questions": 2,
@@ -69,24 +69,24 @@
       "title": "Tema 14 — Frustración de la ejecución e insolvencias punibles"
     },
     {
-      "id": "danos_societarios_consumidores",
-      "title": "Temas 15, 17 y 18 — Daños, mercado/consumidores y delitos societarios"
+      "id": "danos",
+      "title": "Tema 15 — Delito de daños"
     },
     {
       "id": "propiedad_intelectual",
       "title": "Tema 16 — Propiedad intelectual e industrial"
     },
     {
-      "id": "corrupcion_privada",
-      "title": "Tema 17 — Corrupción en los negocios"
+      "id": "mercado_consumidores_corrupcion",
+      "title": "Tema 17 — Delitos relativos al mercado y a los consumidores y corrupción en los negocios"
     },
     {
-      "id": "receptacion_blanqueo",
-      "title": "Tema 19 — Receptación y blanqueo de capitales"
+      "id": "societarios",
+      "title": "Tema 18 — Delitos societarios"
     },
     {
-      "id": "financiacion_politica",
-      "title": "Tema 19 — Financiación ilegal de partidos políticos"
+      "id": "receptacion_blanqueo_financiacion",
+      "title": "Tema 19 — Receptación, blanqueo de capitales y financiación ilegal de los partidos políticos"
     },
     {
       "id": "hacienda_seguridad_social",
@@ -936,7 +936,7 @@
     },
     {
       "id": "dp2-22f1-q23",
-      "topic": "corrupcion_privada",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "El delito de corrupción pasiva entre particulares...:",
       "answers": [
@@ -1810,7 +1810,7 @@
     },
     {
       "id": "dp2-22s1-q19",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "El Código penal castiga al que causare daños en propiedad ajena no comprendidos en otros títulos de este Código, siempre que los daños se realicen:",
       "answers": [
@@ -1886,7 +1886,7 @@
     },
     {
       "id": "dp2-22s1-q21",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "La manipulación de los mecanismos de facturación automática con la finalidad de cobrar a cualquier cliente que utilice el servicio más de lo debido, de forma indeterminada e indiscriminada, será castigada como:",
       "answers": [
@@ -1924,7 +1924,7 @@
     },
     {
       "id": "dp2-22s1-q22",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "A consecuencia de una ampliación de capital, un fondo de inversión extranjero se hizo con la mayoría de las acciones de una sociedad española, de modo que, prevaliéndose de su situación mayoritaria en la Junta de accionistas y en el órgano de administración, procedieron a aplicar un “rodillo” para implantar sus políticas e ideas empresariales, en la búsqueda del mayor beneficio económico para la sociedad, abusando y ninguneando a los socios minoritarios. Tal conducta podrá ser constitutiva de:",
       "answers": [
@@ -1962,7 +1962,7 @@
     },
     {
       "id": "dp2-22s1-q23",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "El que, con ánimo de lucro y con conocimiento de la comisión de un delito contra el patrimonio o el orden socioeconómico, en el que no haya intervenido ni como autor ni como cómplice, ayude a los responsables a aprovecharse de los efectos del mismo, o reciba, adquiera u oculte tales efectos, cometerá un delito de:",
       "answers": [
@@ -2000,7 +2000,7 @@
     },
     {
       "id": "dp2-22s1-q24",
-      "topic": "financiacion_politica",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 2,
       "question_md": "El Código penal, en el título dedicado a los delitos de financiación ilegal de los partidos políticos, castiga:",
       "answers": [
@@ -2116,7 +2116,7 @@
     },
     {
       "id": "dp2-22s1-q27",
-      "topic": "corrupcion_privada",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 3,
       "question_md": "Quien promete, ofrece o concede una ventaja no justificada incumpliendo sus obligaciones en la adquisición o venta de mercancías o en la contratación de servicios profesionales, con el fin de ser favorecido él mismo o un tercero:",
       "answers": [
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "dp2-23f1-q06",
-      "topic": "financiacion_politica",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "En el Código penal se tipifican determinadas conductas relacionadas con la financiación ilegal de los partidos políticos. En el artículo 304 ter se castiga la participación en una organización o en estructuras de cualquier naturaleza si:",
       "answers": [
@@ -2459,7 +2459,7 @@
     },
     {
       "id": "dp2-23f1-q09",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "En los delitos de daños ocasionados mediante incendios u otros medios se prevé un tipo agravado en los casos en los que:",
       "answers": [
@@ -2687,7 +2687,7 @@
     },
     {
       "id": "dp2-23f1-q15",
-      "topic": "corrupcion_privada",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "El delito de corrupción pasiva entre particulares podrán cometerlo:",
       "answers": [
@@ -2763,7 +2763,7 @@
     },
     {
       "id": "dp2-23f1-q17",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "La conducta de los comerciantes que, en la publicidad de productos o servicios, hagan alegaciones falsas será constitutiva de delito si:",
       "answers": [
@@ -2880,7 +2880,7 @@
     },
     {
       "id": "dp2-23f1-q20",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "La conducta de los administradores de hecho o derecho que impiden a los socios el ejercicio de sus derechos:",
       "answers": [
@@ -3032,7 +3032,7 @@
     },
     {
       "id": "dp2-23f1-q24",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "Se castiga con las mismas penas previstas para el delito de blanqueo de capitales:",
       "answers": [
@@ -4134,7 +4134,7 @@
     },
     {
       "id": "dp2-23s1-q26",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 3,
       "question_md": "NO es un requisito del delito societario de imposición de acuerdos abusivos del art. 291 CP:",
       "answers": [
@@ -4172,7 +4172,7 @@
     },
     {
       "id": "dp2-23s1-q27",
-      "topic": "danos_societarios_consumidores",
+      "topic": "intimidad_morada",
       "importance": 3,
       "question_md": "Carlos, sin autorización del titular del sistema informático (que es su vecino), consigue acceder a él a través de un procedimiento específico que sortea las medidas de seguridad y borra un par de archivos intrascendentes. El daño generado fue considerado como leve tras la instrucción de la causa. ¿Qué delito habría cometido Carlos?",
       "answers": [
@@ -4970,7 +4970,7 @@
     },
     {
       "id": "dp2-24f1-q21",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "El delito de interrupción del funcionamiento de sistemas informáticos lo cometen aquellos que sin estar autorizados:",
       "answers": [
@@ -5084,7 +5084,7 @@
     },
     {
       "id": "dp2-24f1-q24",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "Sergio es el administrador de derecho de una sociedad mercantil que se encuentra en formación. Como no está dispuesto a esperar los plazos administrativos, decide falsear los documentos que reflejan la situación jurídica y económica de la entidad, de forma que en el futuro puedan causar un perjuicio económico a la misma, a alguno de futuros sus socios; ¿cuál es la calificación jurídica más correcta para este supuesto?:",
       "answers": [
@@ -5160,7 +5160,7 @@
     },
     {
       "id": "dp2-24f1-q26",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 3,
       "question_md": "La diferencia fundamental entre el delito de receptación y el delito de blanqueo de capitales estriba en que:",
       "answers": [
@@ -5958,7 +5958,7 @@
     },
     {
       "id": "dp2-24s1-q20",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "En los delitos de daños, ¿es punible la imprudencia?",
       "answers": [
@@ -5996,7 +5996,7 @@
     },
     {
       "id": "dp2-24s1-q21",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "Cuál de las siguientes NO se entiende como sociedad, a los efectos de los delitos societarios, según el art. 297 del CP:",
       "answers": [
@@ -6034,7 +6034,7 @@
     },
     {
       "id": "dp2-24s1-q22",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "En relación con el delito de receptación, señale la respuesta INCORRECTA:",
       "answers": [
@@ -6072,7 +6072,7 @@
     },
     {
       "id": "dp2-24s1-q23",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "El tipo penal básico del delito de blanqueo de capitales, exige que el sujeto activo, tal y como se prevé en el art. 301.1 del CP, conozca que los bienes proceden de:",
       "answers": [
@@ -6946,7 +6946,7 @@
     },
     {
       "id": "dp2-25f1-q19",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "El delito de facturación fraudulenta en perjuicio de los consumidores, del art. 283 CP, se distingue del delito de estafa:",
       "answers": [
@@ -6984,7 +6984,7 @@
     },
     {
       "id": "dp2-25f1-q20",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "El delito de receptación se encuentra relacionado con un delito anterior. Esta relación implica que el autor del delito anterior:",
       "answers": [
@@ -7022,7 +7022,7 @@
     },
     {
       "id": "dp2-25f1-q21",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "El objeto material del delito de blanqueo de capitales viene constituido por:",
       "answers": [
@@ -7896,7 +7896,7 @@
     },
     {
       "id": "dp2-25s1-q17",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "Serán constitutivas del tipo básico de los delitos contra la disciplina de mercado la conducta de detraer del mercado materias primas o productos de primera necesidad realizada con la finalidad de:",
       "answers": [
@@ -7972,7 +7972,7 @@
     },
     {
       "id": "dp2-25s1-q19",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "¿En qué supuesto del delito de daños tiene eficacia el perdón del ofendido?:",
       "answers": [
@@ -8162,7 +8162,7 @@
     },
     {
       "id": "dp2-25s1-q24",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "De acuerdo con lo indicado en el Manual de la asignatura, ¿qué denominación recibe la sociedad que ha celebrado el contrato de constitución, pero no tiene intención de inscribirse en el Registro Mercantil?:",
       "answers": [
@@ -8200,7 +8200,7 @@
     },
     {
       "id": "dp2-25s1-q25",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "¿Qué contempla el art. 301.1 CP, en su párrafo 2.º, relativo al delito de blanqueo de capitales, para los supuestos en los que los bienes adquiridos a sabiendas de que tienen su origen en una actividad delictiva estén relacionados con el delito de tráfico de drogas?",
       "answers": [
@@ -8960,7 +8960,7 @@
     },
     {
       "id": "dp2-26f1-q18",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "Según el art. 264.1 CP, para que la conducta de daños informáticos sea típica, es necesario que:",
       "answers": [
@@ -9036,7 +9036,7 @@
     },
     {
       "id": "dp2-26f1-q20",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "En los delitos contra la disciplina de mercado, en el art. 281.2 CP se prevé un supuesto agravado aplicable en los casos en los que la conducta se realiza:",
       "answers": [
@@ -9074,7 +9074,7 @@
     },
     {
       "id": "dp2-26f1-q21",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "De acuerdo con lo indicado en el Manual de la asignatura, ¿quién puede ser sujeto activo en el delito de imposición de acuerdos abusivos recogido en el art. 291 CP?:",
       "answers": [
@@ -9112,7 +9112,7 @@
     },
     {
       "id": "dp2-26f1-q22",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "El art. 292 CP castiga la imposición de acuerdos lesivos adoptados por una mayoría ficticia. ¿Qué prevé este mismo precepto in fine para los supuestos en los que con tal conducta se cometan, además, otros delitos?:",
       "answers": [
@@ -9150,7 +9150,7 @@
     },
     {
       "id": "dp2-26f1-q23",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "Para que se entienda consumado el tipo básico del delito de receptación recogido en el art. 298.1 CP, es necesario que concurran una serie de requisitos, entre los que NO se encuentra...:",
       "answers": [
@@ -9188,7 +9188,7 @@
     },
     {
       "id": "dp2-26f1-q24",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "¿Cuál es límite mínimo del valor económico en los bienes procedentes de una actividad delictiva para que se entienda consumado el tipo básico del delito de blanqueo de capitales recogido en el art. 301.1 CP?:",
       "answers": [
@@ -9834,7 +9834,7 @@
     },
     {
       "id": "dp2-26s1-q14",
-      "topic": "danos_societarios_consumidores",
+      "topic": "estafas_defraudaciones",
       "importance": 4,
       "question_md": "¿Está tipificada la posesión de programas informáticos diseñados o adaptados específicamente para cometer delitos de estafa?",
       "answers": [
@@ -9910,7 +9910,7 @@
     },
     {
       "id": "dp2-26s1-q16",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "Daniel, profesor de Derecho penal, utiliza el ordenador comunitario de la sala de profesores del Departamento de Derecho penal, equipo informático de libre acceso para los docentes sin necesidad de contraseña o medidas de seguridad. Para fastidiar a Sergio, quien tiene guardados en ese ordenador todos sus archivos de preguntas de examen, formatea el equipo de manera tal que suprime, totalmente y sin posibilidad de recuperación, los datos informáticos contenidos en el disco duro, aunque el ordenador puede seguir utilizándose. El resultado es grave, puesto que se han perdido todos los archivos del Departamento y no hay copia de seguridad. Según el Manual recomendado para el estudio de la asignatura, ¿cuál es la calificación jurídica para este supuesto de hecho?",
       "answers": [
@@ -9986,7 +9986,7 @@
     },
     {
       "id": "dp2-26s1-q18",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "Quien, a través de un medio de comunicación, difundiere noticias o rumores o transmitiere señales falsas o engañosas sobre personas o empresas, ofreciendo a sabiendas datos económicos total o parcialmente falsos con el fin de alterar o preservar el precio de cotización de un instrumento financiero, obteniendo para sí o para tercero un beneficio superior a 250.000 €:",
       "answers": [
@@ -10024,7 +10024,7 @@
     },
     {
       "id": "dp2-26s1-q19",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "Daniel vende a precio de saldo en un callejón del centro de Madrid unos teléfonos móviles que previamente ha robado. Marco, que no ha participado ni como autor ni como partícipe en la sustracción de los teléfonos, a pesar de que sabe con certeza que esos teléfonos no han sido obtenidos de manera legal (el precio y la clandestinidad lo delatan), decide aprovechar la oferta y comprar uno. ¿Ha cometido Marco un delito?",
       "answers": [
@@ -10062,7 +10062,7 @@
     },
     {
       "id": "dp2-26s1-q20",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "Ángela rompe las fotografías antiguas de Sergio. Aunque las fotos no tienen ningún valor económico, sí que son de gran valor sentimental para Sergio. ¿Ha cometido Ángela un delito?",
       "answers": [
@@ -11016,7 +11016,7 @@
     },
     {
       "id": "dp2-22f2-q18",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "El delito de blanqueo de capitales consiste en:",
       "answers": [
@@ -11092,7 +11092,7 @@
     },
     {
       "id": "dp2-22f2-q20",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "En cuál de los siguientes delitos se prevé la posible comisión imprudente:",
       "answers": [
@@ -11206,7 +11206,7 @@
     },
     {
       "id": "dp2-22f2-q23",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "El delito publicitario, consistente en que fabricantes o comerciantes, en sus ofertas o publicidad de productos o servicios, hagan alegaciones falsas o manifiesten características inciertas sobre los mismos, exige...:",
       "answers": [
@@ -11244,7 +11244,7 @@
     },
     {
       "id": "dp2-22f2-q24",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "El delito básico de financiación ilegal de partidos políticos...:",
       "answers": [
@@ -11282,7 +11282,7 @@
     },
     {
       "id": "dp2-22f2-q25",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "El llamado autoblanqueo consiste en realizar las acciones recogidas en el delito de blanqueo de capitales sobre bienes de un delito que el mismo autor ha cometido...:",
       "answers": [
@@ -11320,7 +11320,7 @@
     },
     {
       "id": "dp2-22f2-q26",
-      "topic": "danos_societarios_consumidores",
+      "topic": "hacienda_seguridad_social",
       "importance": 3,
       "question_md": "En el marco de la defraudación contable, el delito de doble contabilidad...:",
       "answers": [
@@ -11434,7 +11434,7 @@
     },
     {
       "id": "dp2-23f2-q02",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "Entre los requisitos que el artículo 297 del Código penal establece para considerar sociedad a las mutuas, cooperativas, Cajas de Ahorros, entidad financiera, sociedad mercantil... se incluye:",
       "answers": [
@@ -11586,7 +11586,7 @@
     },
     {
       "id": "dp2-23f2-q06",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "¿Qué pena se impondrá al autor de un delito de receptación si el delito del que provienen los bienes no está castigado con una pena privativa de libertad?",
       "answers": [
@@ -11852,7 +11852,7 @@
     },
     {
       "id": "dp2-23f2-q13",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "No comete un delito de blanqueo de capitales:",
       "answers": [
@@ -12346,7 +12346,7 @@
     },
     {
       "id": "dp2-23f2-q26",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 3,
       "question_md": "Para que la conducta de daños en sistemas informáticos sea constitutiva de delito es necesario que:",
       "answers": [
@@ -13220,7 +13220,7 @@
     },
     {
       "id": "dp2-24f2-q22",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "En el art. 267 CP, párrafo primero, se castigan 'los daños causados por imprudencia grave si la cuantía',",
       "answers": [
@@ -13334,7 +13334,7 @@
     },
     {
       "id": "dp2-24f2-q25",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "¿En cuál de los siguientes delitos NO se sancionará penalmente su comisión por una persona jurídica?",
       "answers": [
@@ -13410,7 +13410,7 @@
     },
     {
       "id": "dp2-24f2-q27",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 3,
       "question_md": "El delito tipificado en el art. 284.1 CP, dentro de la sección correspondiente a los delitos relativos al mercado y a los consumidores, castiga únicamente a los que “alterasen los precios que hubieren de resultar de la libre concurrencia de productos, mercancías, instrumentos financieros, contratos de contado sobre materias primas relacionadas con ellos, índices de referencia, servicios o cualesquiera otras cosas muebles o inmuebles que sean objeto de contratación”, empleando:",
       "answers": [
@@ -14094,7 +14094,7 @@
     },
     {
       "id": "dp2-25f2-q18",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "En el delito de daños, el perdón del ofendido:",
       "answers": [
@@ -14132,7 +14132,7 @@
     },
     {
       "id": "dp2-25f2-q19",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 4,
       "question_md": "Manuel Jesús, necesitado de la concesión de un préstamo personal por importe de 18.000 euros, contacta con una entidad bancaria y, tras varias reuniones con su director, le ofrece disfrutar gratuitamente de un chalet en Marbella en unión de su familia, con todos los gastos pagados, para el próximo verano. La conducta de Manuel Jesús:",
       "answers": [
@@ -14170,7 +14170,7 @@
     },
     {
       "id": "dp2-25f2-q20",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "Según la jurisprudencia del Tribunal Supremo, citada en el manual de la asignatura, para la cuantificación de la infracción patrimonial previa al delito de receptación, se tiene en cuenta:",
       "answers": [
@@ -14208,7 +14208,7 @@
     },
     {
       "id": "dp2-25f2-q21",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "Según el manual de la asignatura, el autoblanqueo para el Tribunal Supremo:",
       "answers": [
@@ -14246,7 +14246,7 @@
     },
     {
       "id": "dp2-25f2-q22",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "El delito de blanqueo de capitales requiere:",
       "answers": [
@@ -15196,7 +15196,7 @@
     },
     {
       "id": "dp2-26f2-q20",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "¿Cuál de los siguientes requisitos debe concurrir para que una conducta sea constitutiva del tipo básico del delito de daños en propiedad ajena del art. 263.1 CP?:",
       "answers": [
@@ -15272,7 +15272,7 @@
     },
     {
       "id": "dp2-26f2-q22",
-      "topic": "danos_societarios_consumidores",
+      "topic": "societarios",
       "importance": 4,
       "question_md": "De acuerdo con lo indicado en el Manual de la asignatura, ¿qué requisito debe reunir necesariamente toda sociedad para que pueda ser integrada en el concepto de sociedad previsto en el art. 297 CP relativo a los delitos societarios?:",
       "answers": [
@@ -15310,7 +15310,7 @@
     },
     {
       "id": "dp2-26f2-q23",
-      "topic": "receptacion_blanqueo",
+      "topic": "receptacion_blanqueo_financiacion",
       "importance": 4,
       "question_md": "¿Qué formas de comisión admite el delito de blanqueo de capitales recogido en el art. 301 CP?:",
       "answers": [
@@ -15348,7 +15348,7 @@
     },
     {
       "id": "dp2-26f2-q24",
-      "topic": "danos_societarios_consumidores",
+      "topic": "danos",
       "importance": 4,
       "question_md": "¿Cuál de las siguientes circunstancias NO constituye un supuesto agravado del delito de daños recogido en el art. 263.2 CP?:",
       "answers": [
@@ -15462,7 +15462,7 @@
     },
     {
       "id": "dp2-26f2-q27",
-      "topic": "danos_societarios_consumidores",
+      "topic": "mercado_consumidores_corrupcion",
       "importance": 3,
       "question_md": "Se prevé un supuesto agravado en el delito de descubrimiento de secretos de empresa que puede llevarse a cabo con varias acciones, entre las que no se incluye:",
       "answers": [
