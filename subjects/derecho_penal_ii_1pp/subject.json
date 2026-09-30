@@ -4,7 +4,7 @@
   "title": "Derecho Penal II — Primer parcial",
   "degree": "UNED — Grados en Derecho y Criminología",
   "type": "test",
-  "content_version": "2026.09.7",
+  "content_version": "2026.09.8",
   "exam": {
     "questions": 25,
     "reserve_questions": 2,
@@ -14,87 +14,87 @@
   "topics": [
     {
       "id": "vida_suicidio",
-      "title": "Homicidio, asesinato, suicidio y eutanasia"
+      "title": "Tema 1 — Delitos contra la vida humana independiente"
     },
     {
       "id": "aborto_feto",
-      "title": "Aborto y lesiones al feto"
+      "title": "Tema 2 — Delitos contra la vida humana dependiente"
     },
     {
       "id": "lesiones_organos",
-      "title": "Lesiones y tráfico de órganos"
+      "title": "Tema 3 — Lesiones"
     },
     {
       "id": "manipulacion_genetica",
-      "title": "Manipulación genética"
+      "title": "Tema 4 — Delitos relativos a la manipulación genética"
     },
     {
       "id": "libertad",
-      "title": "Detenciones, secuestro, amenazas y coacciones"
+      "title": "Tema 5 — Delitos contra la libertad"
     },
     {
       "id": "integridad_trata",
-      "title": "Integridad moral, torturas y trata de seres humanos"
+      "title": "Tema 6 — Delitos contra la integridad moral"
     },
     {
       "id": "libertad_sexual",
-      "title": "Delitos contra la libertad sexual y prostitución"
+      "title": "Tema 7 — Delitos contra la libertad sexual"
     },
     {
       "id": "omision_socorro",
-      "title": "Omisión del deber de socorro"
+      "title": "Tema 8 — Delitos de omisión del deber de socorro"
     },
     {
       "id": "intimidad_morada",
-      "title": "Intimidad, propia imagen y allanamiento"
+      "title": "Tema 9 — Delitos contra la intimidad y la inviolabilidad del domicilio"
     },
     {
       "id": "honor",
-      "title": "Delitos contra el honor"
+      "title": "Tema 10 — Delitos contra el honor"
     },
     {
       "id": "relaciones_familiares",
-      "title": "Delitos contra las relaciones familiares"
+      "title": "Tema 11 — Delitos contra las relaciones familiares"
     },
     {
       "id": "hurtos_robos",
-      "title": "Hurtos, robos y sustracción de cosa propia"
+      "title": "Tema 12 — Patrimonio y orden socioeconómico (I): hurto, robo, extorsión y usurpación"
     },
     {
       "id": "estafas_defraudaciones",
-      "title": "Estafas y defraudaciones"
+      "title": "Tema 13 — Patrimonio y orden socioeconómico (II): defraudaciones"
     },
     {
       "id": "danos_societarios_consumidores",
-      "title": "Daños, delitos societarios y consumidores"
+      "title": "Temas 15, 17 y 18 — Daños, mercado/consumidores y delitos societarios"
     },
     {
       "id": "frustracion_insolvencias",
-      "title": "Frustración de la ejecución e insolvencias"
+      "title": "Tema 14 — Frustración de la ejecución e insolvencias punibles"
     },
     {
       "id": "propiedad_intelectual",
-      "title": "Propiedad intelectual"
+      "title": "Tema 16 — Propiedad intelectual e industrial"
     },
     {
       "id": "receptacion_blanqueo",
-      "title": "Receptación y blanqueo de capitales"
+      "title": "Tema 19 — Receptación y blanqueo de capitales"
     },
     {
       "id": "hacienda_seguridad_social",
-      "title": "Hacienda Pública y Seguridad Social"
+      "title": "Tema 20 — Hacienda Pública y Seguridad Social"
     },
     {
       "id": "falsedades",
-      "title": "Falsedades documentales"
+      "title": "Tema 27 — Falsedades"
     },
     {
       "id": "financiacion_politica",
-      "title": "Financiación ilegal de partidos políticos"
+      "title": "Tema 19 — Financiación ilegal de partidos políticos"
     },
     {
       "id": "corrupcion_privada",
-      "title": "Corrupción en los negocios entre particulares"
+      "title": "Tema 17 — Corrupción en los negocios"
     }
   ],
   "items": [
