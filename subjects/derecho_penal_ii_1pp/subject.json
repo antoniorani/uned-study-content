@@ -13454,11 +13454,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Basta con que se produzca la muerte... sin trascender la intención."
+          "text_md": "Basta con que se produzca la muerte del sujeto pasivo, sin que sea trascendente la intención del sujeto activo."
         },
         {
           "id": "b",
-          "text_md": "Basta con que se produzca la muerte... si concurre animus laedendi."
+          "text_md": "Basta con que se produzca la muerte del sujeto pasivo, si concurre en el sujeto activo un animus laedendi."
         },
         {
           "id": "c",
@@ -13496,7 +13496,7 @@
         },
         {
           "id": "b",
-          "text_md": "Puede estar presente cuando se inicia la acción, pero nunca puede ser sobrevenida..."
+          "text_md": "Puede estar presente cuando se inicia la acción, pero nunca puede ser sobrevenida una vez iniciada la ejecución."
         },
         {
           "id": "c",
@@ -13504,7 +13504,7 @@
         },
         {
           "id": "d",
-          "text_md": "Al concurrir al inicio de la acción, ya determina la calificación..."
+          "text_md": "Al concurrir al inicio de la acción, ya determina la calificación de la conducta como asesinato, sin que altere esta calificación que en el trascurso de los hechos deje de concurrir la alevosía."
         }
       ],
       "correct_answer": "c",
@@ -13534,15 +13534,15 @@
         },
         {
           "id": "b",
-          "text_md": "Que se lleve a efecto la acción de poner fin a su vida por el suicida..."
+          "text_md": "Que se lleve a efecto la acción de poner fin a su vida por el suicida, siendo intrascendente que éste consiga finalmente su objetivo."
         },
         {
           "id": "c",
-          "text_md": "Que el suicida dé inicio al acto..."
+          "text_md": "Que el suicida de inicio al acto de poner fin a su vida."
         },
         {
           "id": "d",
-          "text_md": "Que se realicen actos dirigidos a convencer..."
+          "text_md": "Que se realicen actos dirigidos a convencer a una persona para que ponga fin a su vida."
         }
       ],
       "correct_answer": "a",
@@ -13568,7 +13568,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Resulta intrascendente la intención... bastando lesión que precise tratamiento médico-quirúrgico."
+          "text_md": "Resulta intrascendente la intención que tenga el sujeto activo, bastando con que la acción realizada haya ocasionado una lesión que precise tratamiento médico o quirúrgico."
         },
         {
           "id": "b",
@@ -13576,11 +13576,11 @@
         },
         {
           "id": "c",
-          "text_md": "Es preciso que la acción determine un resultado lesivo..."
+          "text_md": "Es preciso que la acción determine un resultado lesivo, y que éste requiera tratamiento médico y quirúrgico."
         },
         {
           "id": "d",
-          "text_md": "Basta con la concurrencia del ánimo de lesionar..."
+          "text_md": "Basta con la concurrencia del ánimo de lesionar, siendo intrascendente que exista nexo causal entre la acción y el resultado lesivo."
         }
       ],
       "correct_answer": "b",
@@ -13606,11 +13606,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Es delito de resultado, que exige que el órgano sea finalmente trasplantado..."
+          "text_md": "Es delito de resultado, que exige para su consumación que el órgano sea finalmente trasplantado en otra persona."
         },
         {
           "id": "b",
-          "text_md": "Es delito de mera actividad y de peligro concreto..."
+          "text_md": "Es delito de mera actividad y de peligro concreto, que protege unos órganos determinados por la ley."
         },
         {
           "id": "c",
@@ -13644,7 +13644,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Un delito de consumación anticipada..."
+          "text_md": "Un delito de consumación anticipada, bastando que el sujeto activo haya resuelto encerrar a una persona, sin que sea necesario iniciar la ejecución de la acción."
         },
         {
           "id": "b",
@@ -13652,11 +13652,11 @@
         },
         {
           "id": "c",
-          "text_md": "Un delito de resultado..."
+          "text_md": "Un delito de resultado, que requiere que la persona privada de libertad sienta limitada su libertad de movimiento."
         },
         {
           "id": "d",
-          "text_md": "Un delito de consumación permanente..."
+          "text_md": "Un delito de consumación permanente, requiriendo el tipo básico que la detención se extienda en el tiempo más de 48 horas."
         }
       ],
       "correct_answer": "b",
@@ -13690,7 +13690,7 @@
         },
         {
           "id": "c",
-          "text_md": "Cuando se resuelve por el sujeto pasivo..."
+          "text_md": "Cuando se resuelve por el sujeto pasivo realizar una acción constitutiva de amenazas."
         },
         {
           "id": "d",
@@ -13728,11 +13728,11 @@
         },
         {
           "id": "c",
-          "text_md": "Cuando se realice la amenaza en presencia de personas discapacitadas..."
+          "text_md": "Cuando se realice la amenaza en presencia de personas discapacitadas, aunque estas no requieran especial protección, o quebrantando una pena del art.48 o una medida cautelar o de seguridad de la misma naturaleza."
         },
         {
           "id": "d",
-          "text_md": "Únicamente cuando se realice en presencia de menores..."
+          "text_md": "Únicamente cuando se realice la amenaza en presencia de menores, discapacitados o personas necesitadas de especial protección."
         }
       ],
       "correct_answer": "b",
@@ -13758,11 +13758,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "El sujeto activo someta a vigilancia, persecución... con la exclusiva intención de mantener relación sexual..."
+          "text_md": "El sujeto activo someta a vigilancia, persecución de cercanía física al sujeto pasivo, pero con la exclusiva intención de mantener relación sexual con el mismo."
         },
         {
           "id": "b",
-          "text_md": "El sujeto activo sea persona del sexo masculino..."
+          "text_md": "El sujeto activo sea persona del sexo masculino, y el sujeto pasivo de sexo femenino y además el sujeto activo atente contra la libertad del sujeto pasivo, alterando el normal desarrollo de su vida cotidiana."
         },
         {
           "id": "c",
@@ -13770,7 +13770,7 @@
         },
         {
           "id": "d",
-          "text_md": "El sujeto activo someta a vigilancia..."
+          "text_md": "El sujeto activo someta a vigilancia al sujeto pasivo, siendo intrascendente que la conducta sea ocasional o reiterada en el tiempo."
         }
       ],
       "correct_answer": "c",
@@ -13884,7 +13884,7 @@
         },
         {
           "id": "d",
-          "text_md": "La permanencia en morada ajena con el consentimiento..."
+          "text_md": "La permanencia en morada ajena con el consentimiento del morador."
         }
       ],
       "correct_answer": "c",
@@ -13956,11 +13956,11 @@
         },
         {
           "id": "c",
-          "text_md": "Apoderamiento de cosa mueble o inmueble..."
+          "text_md": "Apoderamiento de cosa mueble o inmueble ajena, ausencia de voluntad del dueño, ánimo de uso, y valor de lo sustraído superior a 400 euros."
         },
         {
           "id": "d",
-          "text_md": "Apoderamiento de cosa inmueble..."
+          "text_md": "Apoderamiento de cosa inmueble ajena, ausencia de voluntad del dueño, ánimo de lucro, y valor de lo sustraído superior a 400 euros."
         }
       ],
       "correct_answer": "b",
@@ -13982,7 +13982,7 @@
       "id": "dp2-25f2-q15",
       "topic": "hurtos_robos",
       "importance": 4,
-      "question_md": "En el delito de robo y hurto de uso de vehículos, la determinación de un ánimus utendi, frente al ánimus rei sibi habendi... atiende a que se restituya del vehículo en un plazo no superior a:",
+      "question_md": "En el delito de robo y hurto de uso de vehículos, la determinación de un animus utendi, frente al animus rei sibi habendi, que diferencia el uso de la intención de apropiación definitiva, atiende a que se restituya del vehículo en un plazo no superior a:",
       "answers": [
         {
           "id": "a",
@@ -14024,7 +14024,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "No hay diferencias..."
+          "text_md": "No hay diferencias, son un mismo delito"
         },
         {
           "id": "b",
@@ -14036,7 +14036,7 @@
         },
         {
           "id": "d",
-          "text_md": "Las coacciones son delitos graves o menos graves..."
+          "text_md": "Las coacciones son delitos graves o menos graves mientras que las amenazas son siempre delitos leves"
         }
       ],
       "correct_answer": "b",
@@ -14134,7 +14134,7 @@
       "id": "dp2-25f2-q19",
       "topic": "danos_societarios_consumidores",
       "importance": 4,
-      "question_md": "Manuel Jesús... contacta con una entidad bancaria... le ofrece disfrutar gratuitamente de un chalet en Marbella... para el próximo verano. La conducta de Manuel Jesús:",
+      "question_md": "Manuel Jesús, necesitado de la concesión de un préstamo personal por importe de 18.000 euros, contacta con una entidad bancaria y, tras varias reuniones con su director, le ofrece disfrutar gratuitamente de un chalet en Marbella en unión de su familia, con todos los gastos pagados, para el próximo verano. La conducta de Manuel Jesús:",
       "answers": [
         {
           "id": "a",
@@ -14180,7 +14180,7 @@
         },
         {
           "id": "b",
-          "text_md": "El importe pactado con el receptador..."
+          "text_md": "El importe pactado con el receptador, aunque no se haya materializado el pago."
         },
         {
           "id": "c",
@@ -14226,7 +14226,7 @@
         },
         {
           "id": "d",
-          "text_md": "No puede beneficiarse de circunstancias modificativas..."
+          "text_md": "No puede beneficiarse de circunstancias modificativas de la responsabilidad criminal."
         }
       ],
       "correct_answer": "b",
@@ -14340,7 +14340,7 @@
         },
         {
           "id": "d",
-          "text_md": "Antes de transcurrir quince días..."
+          "text_md": "Antes de que transcurran quince días desde la citación judicial como imputado, y la rebaja de pena tiene carácter potestativo para los jueces y tribunales."
         }
       ],
       "correct_answer": "c",
@@ -14378,7 +14378,7 @@
         },
         {
           "id": "d",
-          "text_md": "Que se utilicen personas físicas o jurídicas para dificultar la determinación de la identidad..."
+          "text_md": "Que se utilicen personas físicas o jurídicas para dificultar la determinación de la identidad del obligado frente a la Seguridad Social."
         }
       ],
       "correct_answer": "a",
