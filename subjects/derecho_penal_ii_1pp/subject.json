@@ -4,7 +4,7 @@
   "title": "Derecho Penal II — Primer parcial",
   "degree": "UNED — Grados en Derecho y Criminología",
   "type": "test",
-  "content_version": "2026.09.6",
+  "content_version": "2026.09.7",
   "exam": {
     "questions": 25,
     "reserve_questions": 2,
@@ -2025,18 +2025,18 @@
       "tags": [
         "examen",
         "22s1",
-        "revisar_clave"
+        "ambiguedad_fuente"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A22S1.pdf — Convocatoria extraordinaria septiembre 2022 — 1.º PP, modelo A",
         "page": 6,
-        "answer_reference": "Clave reconstruida a partir del examen y material de apoyo aportado"
+        "answer_reference": "Clave de la app aportada: B. Revisión: art. 304 bis CP castiga tanto recepción como entrega de donaciones ilícitas y prevé responsabilidad de personas jurídicas; la redacción del examen hace que A y B resulten discutibles, por lo que se conserva la clave de la fuente y se marca la ambigüedad."
       },
       "exam_history": [
         "2022-09"
       ],
-      "explanation_md": "**Nota de revisión:** Las opciones se solapan parcialmente en torno a recepción/entrega y responsabilidad de la persona jurídica; se conserva la clave de trabajo para revisión humana."
+      "explanation_md": "Se mantiene B por fidelidad a la clave de la app aportada. No obstante, el art. 304 bis CP sanciona tanto a quien recibe como a quien entrega donaciones ilícitas y contempla responsabilidad penal de la persona jurídica, por lo que la formulación del examen es ambigua."
     },
     {
       "id": "dp2-22s1-q25",
@@ -2216,19 +2216,18 @@
       "correct_answer": "b",
       "tags": [
         "examen",
-        "23f1",
-        "revisar_clave"
+        "23f1"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A23F1.pdf — Convocatoria febrero 2023 — primera semana, modelo A",
         "page": 1,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "Clave verificada con el manual aportado: art. 238.5 CP; los dispositivos incorporados a la cosa sustraída quedan fuera de esta modalidad de robo con fuerza y se reconducen al art. 234.3 CP."
       },
       "exam_history": [
         "2023-02"
       ],
-      "explanation_md": "**Nota de revisión:** Pregunta potencialmente discutible por la formulación de la inutilización de alarmas instaladas en las cosas sustraídas; se conserva la clave de la app de exámenes aportada."
+      "explanation_md": "La opción B es la incorrecta: el manual aportado distingue los sistemas de alarma o guarda del lugar de acceso de los dispositivos incorporados a la propia cosa sustraída."
     },
     {
       "id": "dp2-23f1-q03",
@@ -2861,22 +2860,23 @@
           "text_md": "Antes de transcurridas 44 horas del abandono del domicilio por el menor sin haber puesto en peligro su vida porque permaneció retenido en el domicilio de su progenitor."
         }
       ],
-      "correct_answer": "c",
+      "correct_answer": "a",
       "tags": [
         "examen",
         "23f1",
-        "revisar_clave"
+        "errata_fuente",
+        "clave_revisada"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A23F1.pdf — Convocatoria febrero 2023 — primera semana, modelo A",
         "page": 5,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "Clave revisada: art. 225 CP exige restitución sin vejaciones, sevicias ni delito y ausencia no superior a 24 h (o comunicación del lugar). El PDF original parece omitir «Antes de» en la opción A; copias de estudio posteriores reproducen esa corrección."
       },
       "exam_history": [
         "2023-02"
       ],
-      "explanation_md": "**Nota de revisión:** La opción marcada como clave presenta una formulación aparentemente defectuosa en el original; conservar para revisión humana."
+      "explanation_md": "El examen original presenta una errata aparente en la opción A («Transcurridas 24 horas»). El art. 225 CP exige que la ausencia no sea superior a 24 horas, además de que el menor no haya sufrido vejaciones, sevicias o delito ni se haya puesto en peligro su vida, salud, integridad física o libertad sexual. Por ello se conserva el texto original y se marca A como respuesta pretendida, dejando constancia de la errata."
     },
     {
       "id": "dp2-23f1-q20",
