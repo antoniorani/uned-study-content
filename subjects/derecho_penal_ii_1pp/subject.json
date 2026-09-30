@@ -4,7 +4,7 @@
   "title": "Derecho Penal II — Primer parcial",
   "degree": "UNED — Grados en Derecho y Criminología",
   "type": "test",
-  "content_version": "2026.09.5",
+  "content_version": "2026.09.6",
   "exam": {
     "questions": 25,
     "reserve_questions": 2,
@@ -14480,11 +14480,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Que haya causado la muerte de más de cinco personas..."
+          "text_md": "Que haya causado la muerte de más de cinco personas y está siendo enjuiciado por estos hechos."
         },
         {
           "id": "b",
-          "text_md": "Que haya sido investigado por la realización de al menos dos homicidios..."
+          "text_md": "Que haya sido investigado por la realización de al menos dos homicidios y dos asesinatos."
         },
         {
           "id": "c",
@@ -14492,7 +14492,7 @@
         },
         {
           "id": "d",
-          "text_md": "Que haya sido calificado por el médico forense..."
+          "text_md": "Que haya sido calificado por el médico forense como un asesino en serie."
         }
       ],
       "correct_answer": "c",
@@ -14556,15 +14556,15 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Cualquier contacto físico cause dolor..."
+          "text_md": "Cualquier contacto físico cause dolor, aunque no precise tratamiento."
         },
         {
           "id": "b",
-          "text_md": "El daño sea exclusivamente psíquico..."
+          "text_md": "El daño sea exclusivamente psíquico, sin relevancia médica."
         },
         {
           "id": "c",
-          "text_md": "Se cause una simple vigilancia facultativa..."
+          "text_md": "Se cause una simple vigilancia facultativa posterior."
         },
         {
           "id": "d",
@@ -14628,7 +14628,7 @@
       "id": "dp2-26f2-q05",
       "topic": "libertad",
       "importance": 4,
-      "question_md": "Complete la siguiente frase: en el delito detenciones ilegales el consentimiento válido de la víctima...:",
+      "question_md": "Complete la siguiente frase: en el delito de detenciones ilegales el consentimiento válido de la víctima...:",
       "answers": [
         {
           "id": "a",
@@ -14636,7 +14636,7 @@
         },
         {
           "id": "b",
-          "text_md": "La conducta se califica como imprudente..."
+          "text_md": "La conducta se califica como imprudente si el consentimiento se presta después de la consumación del delito."
         },
         {
           "id": "c",
@@ -14644,7 +14644,7 @@
         },
         {
           "id": "d",
-          "text_md": "Se aprecia una causa de exclusión de la culpabilidad..."
+          "text_md": "Se aprecia una causa de exclusión de la culpabilidad si el consentimiento lo presta una persona mayor de edad."
         }
       ],
       "correct_answer": "c",
@@ -14666,7 +14666,7 @@
       "id": "dp2-26f2-q06",
       "topic": "libertad",
       "importance": 4,
-      "question_md": "Juan le pide prestado el coche a su vecino Manuel... precinta la puerta del domicilio de Juan para que no pueda salir... privativo de libertad dos días... ¿Cómo calificaría la conducta de Juan?:",
+      "question_md": "Juan le pide prestado el coche a su vecino Manuel. Manuel le dice a Juan que no puede dejarle el vehículo porque lo necesita para ir al trabajo. Ese mismo día por la noche, Juan, con el objetivo de conseguir que Manuel le deje el coche, precinta la puerta del domicilio de Juan para que no pueda salir y le comunica que hasta que no le preste el coche no le abrirá la puerta. El día 3 de diciembre de 2024 Manuel, tras estar privado de libertad dos días, accede a dejarle el coche a Juan y éste le abre la puerta del domicilio inmediatamente. ¿Cómo calificaría la conducta de Juan?",
       "answers": [
         {
           "id": "a",
@@ -14682,7 +14682,7 @@
         },
         {
           "id": "d",
-          "text_md": "Constitutiva de un supuesto agravado..."
+          "text_md": "Constitutiva de un supuesto agravado del delito de detenciones ilegales."
         }
       ],
       "correct_answer": "c",
@@ -14788,15 +14788,15 @@
         },
         {
           "id": "b",
-          "text_md": "Cualquier persona, salvo menores de 16 años..."
+          "text_md": "Cualquier persona, salvo menores de 16 años y personas con discapacidad necesitadas de especial protección."
         },
         {
           "id": "c",
-          "text_md": "Solamente las mujeres..."
+          "text_md": "Solamente las mujeres, con independencia de su edad."
         },
         {
           "id": "d",
-          "text_md": "Solamente los menores de edad..."
+          "text_md": "Solamente los menores de edad y personas con discapacidad."
         }
       ],
       "correct_answer": "a",
@@ -14818,7 +14818,7 @@
       "id": "dp2-26f2-q10",
       "topic": "omision_socorro",
       "importance": 4,
-      "question_md": "El art. 195.3 CP agrava las penas del delito de omisión del deber de socorro si la víctima lo hubiera sido por accidente ocasionado por imprudencia por la persona que omitió el socorro. ¿Cómo debe ser la imprudencia...",
+      "question_md": "El art. 195.3 CP agrava las penas del delito de omisión del deber de socorro si la víctima lo hubiera sido por accidente ocasionado por imprudencia por la persona que omitió el socorro. ¿Cómo debe ser la imprudencia para que resulte de aplicación este supuesto agravado?",
       "answers": [
         {
           "id": "a",
@@ -14864,15 +14864,15 @@
         },
         {
           "id": "b",
-          "text_md": "En ningún caso, ya que solo se castiga la entrada o permanencia... fuera de sus horas de apertura."
+          "text_md": "En ningún caso, ya que solo se castiga la entrada o permanencia en el local abierto al público fuera de sus horas de apertura."
         },
         {
           "id": "c",
-          "text_md": "En todo caso..."
+          "text_md": "En todo caso, ya sea fuera o dentro de las horas de apertura del local."
         },
         {
           "id": "d",
-          "text_md": "Solamente cuando se realice con violencia..."
+          "text_md": "Solamente cuando se realice con violencia o intimidación."
         }
       ],
       "correct_answer": "b",
@@ -14894,7 +14894,7 @@
       "id": "dp2-26f2-q12",
       "topic": "intimidad_morada",
       "importance": 4,
-      "question_md": "El art. 202.1 CP castiga al particular que... entrare en morada ajena o se mantuviere en la misma contra la voluntad de su morador. ¿Cómo opera en este delito el consentimiento válido y libre del morador?:",
+      "question_md": "El art. 202.1 CP castiga al particular que, sin habitar en ella, entrare en morada ajena o se mantuviere en la misma contra la voluntad de su morador. ¿Cómo opera en este delito el consentimiento válido y libre del morador?",
       "answers": [
         {
           "id": "a",
@@ -14932,7 +14932,7 @@
       "id": "dp2-26f2-q13",
       "topic": "honor",
       "importance": 4,
-      "question_md": "Según el art. 205 CP, es calumnia la imputación de un delito hecha con conocimiento de su falsedad o temerario desprecio hacia la verdad. ¿Qué tipo de delitos deben ser imputados...",
+      "question_md": "Según el art. 205 CP, es calumnia la imputación de un delito hecha con conocimiento de su falsedad o temerario desprecio hacia la verdad. ¿Qué tipo de delitos deben ser imputados en los términos señalados para que pueda apreciarse el delito de calumnias?",
       "answers": [
         {
           "id": "a",
@@ -14948,7 +14948,7 @@
         },
         {
           "id": "d",
-          "text_md": "La imputación de delitos graves y menos graves dará lugar al delito de calumnia..."
+          "text_md": "La imputación de delitos graves y menos graves dará lugar al delito de calumnia, mientras que la de delitos leves al de injurias."
         }
       ],
       "correct_answer": "c",
@@ -14978,7 +14978,7 @@
         },
         {
           "id": "b",
-          "text_md": "Solo se persigue mediante la interposición de querella..."
+          "text_md": "Solo se persigue mediante la interposición de querella por la persona o personas agraviadas."
         },
         {
           "id": "c",
@@ -15012,7 +15012,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Todo objeto corporal que se pueda transportar de un punto a otro sin menoscabo..."
+          "text_md": "Todo objeto corporal que se pueda transportar de un punto a otro sin menoscabo de la cosa (art. 335 CC)."
         },
         {
           "id": "b",
@@ -15024,7 +15024,7 @@
         },
         {
           "id": "d",
-          "text_md": "Todo objeto corporal con independencia de que sea o no aprehensible..."
+          "text_md": "Todo objeto corporal con independencia de que sea o no aprehensible, transportable y valorable."
         }
       ],
       "correct_answer": "b",
@@ -15046,15 +15046,15 @@
       "id": "dp2-26f2-q16",
       "topic": "hurtos_robos",
       "importance": 4,
-      "question_md": "Antonio se encuentra en el descansillo las llaves... utiliza las llaves para acceder... observa un reloj valorado en 50€ que decide apropiarse... ¿Sería Antonio responsable de un delito de robo con fuerza?:",
+      "question_md": "Antonio se encuentra en el descansillo las llaves de la casa de su vecino Jonás. Con la intención de devolverlas, acude a su domicilio, pero al ver que no abre la puerta, utiliza las llaves para acceder a su interior. Ya en el domicilio de Jonás, Antonio observa en la entrada un reloj valorado en 50 € que decide apropiarse abandonando posteriormente el lugar. ¿Sería Antonio responsable de un delito de robo con fuerza?",
       "answers": [
         {
           "id": "a",
-          "text_md": "No, estaríamos ante un delito de hurto leve..."
+          "text_md": "No, estaríamos ante un delito de hurto leve, pues el art. 237 CP exige que el valor de lo sustraído sea superior a 400 €."
         },
         {
           "id": "b",
-          "text_md": "No, estaríamos ante un delito de hurto..."
+          "text_md": "No, estaríamos ante un delito de hurto, pues Antonio ha obtenido las llaves por un medio que no constituye infracción penal."
         },
         {
           "id": "c",
@@ -15062,7 +15062,7 @@
         },
         {
           "id": "d",
-          "text_md": "Sí, pues Antonio accede... en vía insólita..."
+          "text_md": "Sí, pues Antonio accede al domicilio de Jonás en lo que el art. 238 CP denomina vía insólita o desacostumbrada."
         }
       ],
       "correct_answer": "c",
@@ -15084,11 +15084,11 @@
       "id": "dp2-26f2-q17",
       "topic": "frustracion_insolvencias",
       "importance": 4,
-      "question_md": "El art. 257.2 CP castiga a quien realizare actos de disposición, contrajere obligaciones que disminuyan su patrimonio u oculte bienes... con la finalidad de:",
+      "question_md": "El art. 257.2 CP castiga a quien realizare actos de disposición, contrajere obligaciones que disminuyan su patrimonio u oculte por cualquier medio elementos de su patrimonio sobre los que la ejecución podría hacerse efectiva, con la finalidad de:",
       "answers": [
         {
           "id": "a",
-          "text_md": "Eludir la obligación de presentar una relación completa..."
+          "text_md": "Eludir la obligación de presentar una relación completa de bienes para proceder al pago de los acreedores."
         },
         {
           "id": "b",
@@ -15096,11 +15096,11 @@
         },
         {
           "id": "c",
-          "text_md": "Eludir el pago de responsabilidades civiles y administrativas..."
+          "text_md": "Eludir el pago de responsabilidades civiles y administrativas derivadas de la comisión de un delito societario."
         },
         {
           "id": "d",
-          "text_md": "Eludir el pago de responsabilidades personales y pecuniarias..."
+          "text_md": "Eludir el pago de responsabilidades personales y pecuniarias derivadas de la comisión de un delito o infracción societaria."
         }
       ],
       "correct_answer": "b",
@@ -15130,7 +15130,7 @@
         },
         {
           "id": "b",
-          "text_md": "Delito de propia mano en el que solo puede ser autor la persona que ha recibido previamente..."
+          "text_md": "Delito de propia mano en el que solo puede ser autor la persona que ha recibido previamente la cosa o el dinero por cualquier medio lícito."
         },
         {
           "id": "c",
@@ -15138,7 +15138,7 @@
         },
         {
           "id": "d",
-          "text_md": "Delito especial impropio..."
+          "text_md": "Delito especial impropio en el que solo puede ser sujeto activo la autoridad o funcionario público que ha recibido previamente la cosa o el dinero."
         }
       ],
       "correct_answer": "c",
@@ -15244,15 +15244,15 @@
         },
         {
           "id": "b",
-          "text_md": "Indexar contenidos..."
+          "text_md": "Indexar contenidos en un buscador de forma automática."
         },
         {
           "id": "c",
-          "text_md": "Facilitar de manera neutral y ofrecer enlaces sin intervención humana..."
+          "text_md": "Facilitar de manera neutral y ofrecer enlaces sin intervención humana ni selección por Internet de obras o prestaciones objeto de propiedad intelectual."
         },
         {
           "id": "d",
-          "text_md": "Compartir ocasionalmente un enlace..."
+          "text_md": "Compartir ocasionalmente un enlace por mensajería privada."
         }
       ],
       "correct_answer": "a",
@@ -15286,11 +15286,11 @@
         },
         {
           "id": "c",
-          "text_md": "Que haya formalizado su constitución en escritura pública..."
+          "text_md": "Que haya formalizado su constitución en escritura pública, con independencia de que participe o no en el mercado."
         },
         {
           "id": "d",
-          "text_md": "Que se encuentre inscrita en el Registro Mercantil..."
+          "text_md": "Que se encuentre inscrita en el Registro Mercantil, con independencia de que participe en el mercado de forma permanente o esporádica."
         }
       ],
       "correct_answer": "a",
@@ -15392,11 +15392,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Se aplicará únicamente al obligado tributario..."
+          "text_md": "Se aplicará únicamente al obligado tributario si antes de que transcurran dos meses desde la citación judicial como imputado satisface la deuda tributaria y reconozca judicialmente los hechos."
         },
         {
           "id": "b",
-          "text_md": "Se aplicará en todo caso..."
+          "text_md": "Se aplicará en todo caso al obligado tributario o al autor del delito si antes de que transcurran dos meses desde la citación judicial como imputado satisface la deuda tributaria y reconozca judicialmente los hechos."
         },
         {
           "id": "c",
@@ -15434,15 +15434,15 @@
         },
         {
           "id": "b",
-          "text_md": "Un supuesto agravado del delito de aborto fuera de los casos permitidos... que puede apreciarse de forma facultativa."
+          "text_md": "Un supuesto agravado del delito de aborto fuera de los casos permitidos por la ley causado con el consentimiento de la mujer que puede apreciarse de forma facultativa."
         },
         {
           "id": "c",
-          "text_md": "Un supuesto atenuado..."
+          "text_md": "Un supuesto atenuado del delito de aborto fuera de los casos permitidos por la ley causado con el consentimiento de la mujer."
         },
         {
           "id": "d",
-          "text_md": "Un supuesto agravado... castigado con la pena superior..."
+          "text_md": "Un supuesto agravado del delito de aborto fuera de los casos permitidos por la ley causado con el consentimiento de la mujer de que se castigará con la pena superior a la establecida para el tipo básico."
         }
       ],
       "correct_answer": "b",
