@@ -12474,7 +12474,7 @@
         },
         {
           "id": "c",
-          "text_md": "Se sancionará con la pena del tipo básico de asesinato en concurso real..."
+          "text_md": "Se sancionará con la pena del tipo básico de asesinato (prisión de quince a veinte años) en concurso real con la pena correspondiente al delito contra la libertad sexual."
         },
         {
           "id": "d",
@@ -12504,11 +12504,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "En el delito de homicidio-suicidio, el dominio del hecho lo tiene el que da muerte a quien se quiere suicidar..."
+          "text_md": "En el delito de homicidio-suicidio, el dominio del hecho lo tiene el que da muerte a quien se quiere suicidar, pues, en definitiva, es el que toma la última y eficaz decisión."
         },
         {
           "id": "b",
-          "text_md": "En el delito de cooperación al suicidio, el suicida tiene que prestar su consentimiento..."
+          "text_md": "En el delito de cooperación al suicidio, el suicida tiene que prestar su consentimiento para que otra persona le ayude a causarse su muerte."
         },
         {
           "id": "c",
@@ -12554,7 +12554,7 @@
         },
         {
           "id": "d",
-          "text_md": "El consentimiento se concibe como una causa de justificación..."
+          "text_md": "El consentimiento se concibe como una causa de justificación que exime de responsabilidad penal."
         }
       ],
       "correct_answer": "b",
@@ -12584,11 +12584,11 @@
         },
         {
           "id": "b",
-          "text_md": "Será castigado únicamente cuando se lleve a cabo fuera de los casos permitidos..."
+          "text_md": "Será castigado únicamente cuando se lleve a cabo fuera de los casos permitidos por la ley."
         },
         {
           "id": "c",
-          "text_md": "Será castigado solo cuando la conducta se llevare a cabo a partir de la vigésimo segunda semana..."
+          "text_md": "Será castigado solo cuando la conducta se llevare a cabo a partir de la vigésimo segunda semana de gestación."
         },
         {
           "id": "d",
@@ -12618,11 +12618,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "El culpable diere libertad al encerrado o detenido dentro de los diez primeros días..."
+          "text_md": "El culpable diere libertad al encerrado o detenido dentro de los diez primeros días de su detención, sin haber logrado el objeto que se había propuesto."
         },
         {
           "id": "b",
-          "text_md": "El culpable diere libertad... independientemente del tiempo..."
+          "text_md": "El culpable diere libertad al encerrado o detenido, independientemente del tiempo transcurrido, sin haber logrado el objeto que se había propuesto."
         },
         {
           "id": "c",
@@ -12630,7 +12630,7 @@
         },
         {
           "id": "d",
-          "text_md": "El culpable diere libertad... dentro de los tres primeros días..."
+          "text_md": "El culpable diere libertad al encerrado o detenido dentro de los tres primeros días de su detención, independientemente de haber logrado o no sus objetivos."
         }
       ],
       "correct_answer": "c",
@@ -12668,7 +12668,7 @@
         },
         {
           "id": "d",
-          "text_md": "Realizado de tal forma que... el sujeto que recibe la amenaza se sienta intimidado..."
+          "text_md": "Realizado de tal forma que, independientemente de su entidad, el sujeto que recibe la amenaza se sienta intimidado o tenga miedo de la amenaza."
         }
       ],
       "correct_answer": "b",
@@ -12690,7 +12690,7 @@
       "id": "dp2-24f2-q08",
       "topic": "libertad",
       "importance": 4,
-      "question_md": "El tipo básico del delito de acoso recogido en el art. 172 ter CP... Se trata de:",
+      "question_md": "El tipo básico del delito de acoso recogido en el art. 172 ter CP, castiga al que acose a una persona llevando a cabo de forma insistente y reiterada, y sin estar legítimamente autorizado, alguna de las conductas típicas que se describen en su tenor literal. Se trata de:",
       "answers": [
         {
           "id": "a",
@@ -12732,7 +12732,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Quienes, teniendo conocimiento del paradero del cadáver... oculten de modo reiterado a los familiares..."
+          "text_md": "Quienes, teniendo conocimiento del paradero del cadáver de una persona, oculten de modo reiterado tal información a los familiares o allegados de la misma."
         },
         {
           "id": "b",
@@ -12766,7 +12766,7 @@
       "id": "dp2-24f2-q10",
       "topic": "integridad_trata",
       "importance": 4,
-      "question_md": "Tom ('el gordo'), capo de una organización mafiosa... sometió a un subalterno... a procedimientos que le supusieron graves sufrimientos físicos y mentales... con el fin de obtener su confesión... Los hechos son susceptibles de ser sancionados como:",
+      "question_md": "Tom (“el gordo”), capo de una organización mafiosa, ante la sospecha de que uno de sus subalternos le había traicionado y le iba a delatar a las autoridades, le sometió a condiciones o procedimientos que por su naturaleza y duración, le supusieron graves sufrimientos físicos y mentales, atentando contra su integridad moral, con el fin de obtener su confesión sobre los hechos, aunque no llegó a lograr su propósito. Los hechos son susceptibles de ser sancionados como:",
       "answers": [
         {
           "id": "a",
@@ -12774,7 +12774,7 @@
         },
         {
           "id": "b",
-          "text_md": "Un delito de torturas en grado de tentativa..."
+          "text_md": "Un delito de torturas en grado de tentativa ya que no consiguió su propósito."
         },
         {
           "id": "c",
@@ -12782,7 +12782,7 @@
         },
         {
           "id": "d",
-          "text_md": "Un delito de torturas agravado..."
+          "text_md": "Un delito de torturas agravado por ser el jefe de una organización o grupo criminal."
         }
       ],
       "correct_answer": "a",
@@ -12880,7 +12880,7 @@
       "id": "dp2-24f2-q13",
       "topic": "libertad_sexual",
       "importance": 4,
-      "question_md": "El art. 183 bis CP... 'el libre consentimiento del menor de dieciséis años excluirá la responsabilidad penal... cuando el autor sea una persona próxima al menor por edad y grado de desarrollo o madurez...' Esta disposición se denomina:",
+      "question_md": "El art. 183 bis CP, dispone que: “Salvo en los casos en que concurra alguna de las circunstancias previstas en el apartado segundo del artículo 178, el libre consentimiento del menor de dieciséis años excluirá la responsabilidad penal por los delitos previstos en este capítulo cuando el autor sea una persona próxima al menor por edad y grado de desarrollo o madurez física y psicológica”. Esta disposición se ha denominado como:",
       "answers": [
         {
           "id": "a",
@@ -12994,11 +12994,11 @@
       "id": "dp2-24f2-q16",
       "topic": "intimidad_morada",
       "importance": 4,
-      "question_md": "Jacinta... provista de unas pinzas, se dedicaba a sacar de los buzones del edificio la correspondencia de sus vecinos... ninguna de las cartas... ofreció información de interés. La conducta de Jacinta supone:",
+      "question_md": "Jacinta, vecina del 5.º izquierda, con el propósito de descubrir secretos jugosos de sus vecinos, provista de unas pinzas, se dedicaba a sacar de los buzones del edificio la correspondencia de sus vecinos, aunque al ser descubierta confesó que en ningún caso alcanzó su propósito, ya que ninguna de las cartas de las que se había apoderado ofreció información de interés. La conducta de Jacinta supone:",
       "answers": [
         {
           "id": "a",
-          "text_md": "Un delito de descubrimiento de secretos en grado de tentativa..."
+          "text_md": "Un delito de descubrimiento de secretos en grado de tentativa, al no haber conseguido su propósito."
         },
         {
           "id": "b",
@@ -13006,11 +13006,11 @@
         },
         {
           "id": "c",
-          "text_md": "Una conducta atípica..."
+          "text_md": "Una conducta atípica, solo censurable moralmente por “cotilla” y entrometida pero sin relevancia jurídico-penal."
         },
         {
           "id": "d",
-          "text_md": "Un delito de robo con fuerza..."
+          "text_md": "Un delito de robo con fuerza en las cosas."
         }
       ],
       "correct_answer": "b",
@@ -13048,7 +13048,7 @@
         },
         {
           "id": "d",
-          "text_md": "Con independencia de su intencionalidad..."
+          "text_md": "Con independencia de su intencionalidad, siempre que se impute un delito que no sea cierto."
         }
       ],
       "correct_answer": "c",
@@ -13082,11 +13082,11 @@
         },
         {
           "id": "c",
-          "text_md": "No afecta a aquellas personas cuya religión permite..."
+          "text_md": "No afecta a aquellas personas cuya religión permite al hombre desposar a varias mujeres."
         },
         {
           "id": "d",
-          "text_md": "Se consuma en el momento de iniciar los trámites..."
+          "text_md": "Se consuma en el momento de iniciar los trámites para el segundo matrimonio en el registro civil o en la Iglesia correspondiente."
         }
       ],
       "correct_answer": "a",
@@ -13108,19 +13108,19 @@
       "id": "dp2-24f2-q19",
       "topic": "relaciones_familiares",
       "importance": 4,
-      "question_md": "El que dejare de pagar cualquier tipo de prestación económica en favor de su cónyuge o sus hijos, establecida en convenio judicialmente aprobado...",
+      "question_md": "El que dejare de pagar cualquier tipo de prestación económica en favor de su cónyuge o sus hijos, establecida en convenio judicialmente aprobado o resolución judicial en los supuestos de separación legal, divorcio, declaración de nulidad del matrimonio, proceso de filiación, o proceso de alimentos a favor de sus hijos,",
       "answers": [
         {
           "id": "a",
-          "text_md": "Contraerá una deuda civil..."
+          "text_md": "Contraerá una deuda susceptible de ser reclamada en la jurisdicción civil, que en ningún caso será delito."
         },
         {
           "id": "b",
-          "text_md": "Cometerá un delito leve..."
+          "text_md": "Cometerá un delito leve regulado en el art. 227 CP."
         },
         {
           "id": "c",
-          "text_md": "Cometerá un delito... cuando el impago deje a su cónyuge en situación de necesidad."
+          "text_md": "Cometerá un delito regulado en el art. 227 CP cuando el impago deje a su cónyuge o sus hijos en una situación de verdadera necesidad."
         },
         {
           "id": "d",
@@ -13158,11 +13158,11 @@
         },
         {
           "id": "c",
-          "text_md": "Un delito de hurto o robo de uso... en plazo no superior a setenta y dos horas."
+          "text_md": "Un delito de hurto o robo de uso de vehículos si lo restituyera, de cualquier forma, en un plazo no superior a setenta y dos horas."
         },
         {
           "id": "d",
-          "text_md": "Un delito de apropiación indebida..."
+          "text_md": "Un delito de apropiación indebida, ya que el vehículo ha sido utilizado sin ánimo de apropiárselo."
         }
       ],
       "correct_answer": "b",
@@ -13184,7 +13184,7 @@
       "id": "dp2-24f2-q21",
       "topic": "estafas_defraudaciones",
       "importance": 4,
-      "question_md": "Los que, utilizando de forma fraudulenta tarjetas de crédito o débito, cheques de viaje o cualquier otro instrumento de pago... distinto del efectivo... realicen operaciones... en perjuicio de su titular o de un tercero, serán considerados:",
+      "question_md": "Los que, utilizando de forma fraudulenta tarjetas de crédito o débito, cheques de viaje o cualquier otro instrumento de pago material o inmaterial distinto del efectivo o los datos obrantes en cualquiera de ellos, realicen operaciones de cualquier clase en perjuicio de su titular o de un tercero, serán considerados:",
       "answers": [
         {
           "id": "a",
@@ -13238,7 +13238,7 @@
         },
         {
           "id": "d",
-          "text_md": "Da igual la cuantía..."
+          "text_md": "Da igual la cuantía, ya que el delito de daños solo puede cometerse de forma dolosa."
         }
       ],
       "correct_answer": "a",
@@ -13264,11 +13264,11 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Siempre se reputarán desleales..."
+          "text_md": "Siempre se reputarán desleales y por tanto ilícitos penalmente."
         },
         {
           "id": "b",
-          "text_md": "En ningún caso serán delictivos..."
+          "text_md": "En ningún caso serán delictivos. En nuestra legislación, todo empresario puede copiar o imitar las iniciativas de sus competidores, aunque suponga el aprovechamiento de la reputación o el esfuerzo ajeno."
         },
         {
           "id": "c",
@@ -13302,7 +13302,7 @@
       "answers": [
         {
           "id": "a",
-          "text_md": "Una conducta atípica..."
+          "text_md": "Una conducta atípica, ya que Eustaquio entregó voluntariamente tal cantidad."
         },
         {
           "id": "b",
@@ -13310,7 +13310,7 @@
         },
         {
           "id": "c",
-          "text_md": "Un delito de estafa atenuado..."
+          "text_md": "Un delito de estafa atenuado, en función de la cuantía económica y de la compensación de culpas entre el ánimo de lucro de los timadores y la avaricia de la víctima."
         },
         {
           "id": "d",
@@ -13412,7 +13412,7 @@
       "id": "dp2-24f2-q27",
       "topic": "danos_societarios_consumidores",
       "importance": 3,
-      "question_md": "El delito tipificado en el art. 284.1 CP, dentro de la sección correspondiente a los delitos relativos al mercado y a los consumidores, castiga únicamente a los que 'alterasen los precios... empleando':",
+      "question_md": "El delito tipificado en el art. 284.1 CP, dentro de la sección correspondiente a los delitos relativos al mercado y a los consumidores, castiga únicamente a los que “alterasen los precios que hubieren de resultar de la libre concurrencia de productos, mercancías, instrumentos financieros, contratos de contado sobre materias primas relacionadas con ellos, índices de referencia, servicios o cualesquiera otras cosas muebles o inmuebles que sean objeto de contratación”, empleando:",
       "answers": [
         {
           "id": "a",
