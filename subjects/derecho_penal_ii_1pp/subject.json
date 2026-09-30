@@ -4,7 +4,7 @@
   "title": "Derecho Penal II — Primer parcial",
   "degree": "UNED — Grados en Derecho y Criminología",
   "type": "test",
-  "content_version": "2026.09.4",
+  "content_version": "2026.09.5",
   "exam": {
     "questions": 25,
     "reserve_questions": 2,
@@ -12418,6 +12418,3084 @@
       },
       "exam_history": [
         "2023-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q01",
+      "topic": "vida_suicidio",
+      "importance": 4,
+      "question_md": "¿Cuál de las siguientes circunstancias NO aparece recogida para el delito de asesinato en el art. 139.1 CP?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Precio, recompensa o promesa."
+        },
+        {
+          "id": "b",
+          "text_md": "Alevosía."
+        },
+        {
+          "id": "c",
+          "text_md": "Discriminación y tratos degradantes."
+        },
+        {
+          "id": "d",
+          "text_md": "Ensañamiento, aumentando deliberada e inhumanamente el dolor del ofendido."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q02",
+      "topic": "vida_suicidio",
+      "importance": 4,
+      "question_md": "Cuando el asesinato fuera subsiguiente a un delito contra la libertad sexual que el autor hubiera cometido sobre la víctima,",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Se impondrá la pena en su mitad superior."
+        },
+        {
+          "id": "b",
+          "text_md": "El asesinato será castigado con pena de prisión permanente revisable."
+        },
+        {
+          "id": "c",
+          "text_md": "Se sancionará con la pena del tipo básico de asesinato en concurso real..."
+        },
+        {
+          "id": "d",
+          "text_md": "Se impondrá la pena superior en uno o dos grados."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q03",
+      "topic": "vida_suicidio",
+      "importance": 4,
+      "question_md": "Cuál de las siguientes afirmaciones sobre los delitos relacionados con el suicidio es falsa:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "En el delito de homicidio-suicidio, el dominio del hecho lo tiene el que da muerte a quien se quiere suicidar..."
+        },
+        {
+          "id": "b",
+          "text_md": "En el delito de cooperación al suicidio, el suicida tiene que prestar su consentimiento..."
+        },
+        {
+          "id": "c",
+          "text_md": "En el delito de cooperación al suicidio, la tentativa es punible."
+        },
+        {
+          "id": "d",
+          "text_md": "En el delito de cooperación al suicidio, la complicidad es impune, pues no se colabora con actos necesarios."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q04",
+      "topic": "lesiones_organos",
+      "importance": 4,
+      "question_md": "En los delitos de lesiones, si ha mediado el consentimiento válida, libre, espontánea y expresamente emitido del ofendido,",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "No se impondrá pena alguna, es una conducta consentida."
+        },
+        {
+          "id": "b",
+          "text_md": "Se impondrá la pena inferior en uno o dos grados."
+        },
+        {
+          "id": "c",
+          "text_md": "El consentimiento excluye la tipicidad."
+        },
+        {
+          "id": "d",
+          "text_md": "El consentimiento se concibe como una causa de justificación..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": "1–2",
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q05",
+      "topic": "aborto_feto",
+      "importance": 4,
+      "question_md": "El aborto por imprudencia grave cometido por la propia embarazada:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Es impune."
+        },
+        {
+          "id": "b",
+          "text_md": "Será castigado únicamente cuando se lleve a cabo fuera de los casos permitidos..."
+        },
+        {
+          "id": "c",
+          "text_md": "Será castigado solo cuando la conducta se llevare a cabo a partir de la vigésimo segunda semana..."
+        },
+        {
+          "id": "d",
+          "text_md": "Será sancionado con una pena atenuada."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q06",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "El delito de detenciones ilegales cometido por particulares se castigará de forma atenuada cuando:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "El culpable diere libertad al encerrado o detenido dentro de los diez primeros días..."
+        },
+        {
+          "id": "b",
+          "text_md": "El culpable diere libertad... independientemente del tiempo..."
+        },
+        {
+          "id": "c",
+          "text_md": "El culpable diere libertad al encerrado o detenido dentro de los tres primeros días de su detención, sin haber logrado el objeto que se había propuesto."
+        },
+        {
+          "id": "d",
+          "text_md": "El culpable diere libertad... dentro de los tres primeros días..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q07",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "En los delitos de amenazas del art. 169 CP, el mal con el que se amenaza debe ser:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Inmediato."
+        },
+        {
+          "id": "b",
+          "text_md": "Futuro."
+        },
+        {
+          "id": "c",
+          "text_md": "Realizado con publicidad."
+        },
+        {
+          "id": "d",
+          "text_md": "Realizado de tal forma que... el sujeto que recibe la amenaza se sienta intimidado..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q08",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "El tipo básico del delito de acoso recogido en el art. 172 ter CP... Se trata de:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Es un delito de mera actividad que no requiere para su consumación ningún resultado."
+        },
+        {
+          "id": "b",
+          "text_md": "Es un delito continuado."
+        },
+        {
+          "id": "c",
+          "text_md": "Es un delito de peligro abstracto."
+        },
+        {
+          "id": "d",
+          "text_md": "Es un delito de resultado."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q09",
+      "topic": "integridad_trata",
+      "importance": 4,
+      "question_md": "El Art. 173.1 CP, además del delito de tratos degradantes sanciona, con la misma pena, otras conductas. ¿Cuál de las respuestas siguientes NO se encuentra comprendida en el mencionado artículo?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Quienes, teniendo conocimiento del paradero del cadáver... oculten de modo reiterado a los familiares..."
+        },
+        {
+          "id": "b",
+          "text_md": "Acoso sexual."
+        },
+        {
+          "id": "c",
+          "text_md": "Acoso laboral."
+        },
+        {
+          "id": "d",
+          "text_md": "Acoso inmobiliario."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": "2–3",
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q10",
+      "topic": "integridad_trata",
+      "importance": 4,
+      "question_md": "Tom ('el gordo'), capo de una organización mafiosa... sometió a un subalterno... a procedimientos que le supusieron graves sufrimientos físicos y mentales... con el fin de obtener su confesión... Los hechos son susceptibles de ser sancionados como:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Un delito de torturas."
+        },
+        {
+          "id": "b",
+          "text_md": "Un delito de torturas en grado de tentativa..."
+        },
+        {
+          "id": "c",
+          "text_md": "Varios delitos, pero en ningún caso delito de torturas."
+        },
+        {
+          "id": "d",
+          "text_md": "Un delito de torturas agravado..."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q11",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "¿Cuál de las siguientes afirmaciones sobre el delito de matrimonio forzado es falsa:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Se trata de un delito común."
+        },
+        {
+          "id": "b",
+          "text_md": "Es un delito incluido en el Código Penal en el capítulo contra las relaciones familiares."
+        },
+        {
+          "id": "c",
+          "text_md": "Se considera como un tipo especial de coacciones."
+        },
+        {
+          "id": "d",
+          "text_md": "Su conducta típica se realiza con intimidación grave o violencia."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q12",
+      "topic": "libertad_sexual",
+      "importance": 4,
+      "question_md": "Tras la reforma del Código penal por la Ley del 'solo sí es sí' en 2022 y posteriormente en 2023, el bien jurídico protegido en los delitos contra la libertad sexual, se concreta en:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "La libertad e indemnidad sexual."
+        },
+        {
+          "id": "b",
+          "text_md": "El consentimiento sexual."
+        },
+        {
+          "id": "c",
+          "text_md": "Las violencias sexuales."
+        },
+        {
+          "id": "d",
+          "text_md": "La libertad sexual."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q13",
+      "topic": "libertad_sexual",
+      "importance": 4,
+      "question_md": "El art. 183 bis CP... 'el libre consentimiento del menor de dieciséis años excluirá la responsabilidad penal... cuando el autor sea una persona próxima al menor por edad y grado de desarrollo o madurez...' Esta disposición se denomina:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Cláusula adolescente."
+        },
+        {
+          "id": "b",
+          "text_md": "Cláusula 'Romeo y Julieta'."
+        },
+        {
+          "id": "c",
+          "text_md": "Cláusula 'Lolita'."
+        },
+        {
+          "id": "d",
+          "text_md": "Cláusula 'Los amantes de Teruel'."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q14",
+      "topic": "libertad_sexual",
+      "importance": 4,
+      "question_md": "Señale la respuesta incorrecta [sobre delitos de prostitución]:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "En España la prostitución ejercida por adultos libremente no es delito."
+        },
+        {
+          "id": "b",
+          "text_md": "La cesión temporal de habitaciones para el ejercicio de la prostitución por mayores de edad es atípica."
+        },
+        {
+          "id": "c",
+          "text_md": "El Código penal sanciona con pena de multa al cliente que solicite los servicios de prostitutas mayores de edad."
+        },
+        {
+          "id": "d",
+          "text_md": "El Código penal sanciona a quien se lucre explotando la prostitución de otra persona."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q15",
+      "topic": "omision_socorro",
+      "importance": 4,
+      "question_md": "Señale en qué supuestos un sujeto está obligado a prestar socorro, para no incurrir en el delito de omisión de socorro personal:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Cuando desaparece la situación de riesgo grave."
+        },
+        {
+          "id": "b",
+          "text_md": "Cuando la persona necesitada está suficientemente atendida."
+        },
+        {
+          "id": "c",
+          "text_md": "Cuando la situación que coloca a la víctima en esa situación de desamparo y peligro manifiesto y grave ha sido causada de forma fortuita por el omitente."
+        },
+        {
+          "id": "d",
+          "text_md": "Cuando el riesgo para la víctima es de escasa entidad."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q16",
+      "topic": "intimidad_morada",
+      "importance": 4,
+      "question_md": "Jacinta... provista de unas pinzas, se dedicaba a sacar de los buzones del edificio la correspondencia de sus vecinos... ninguna de las cartas... ofreció información de interés. La conducta de Jacinta supone:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Un delito de descubrimiento de secretos en grado de tentativa..."
+        },
+        {
+          "id": "b",
+          "text_md": "Un delito consumado de descubrimiento de secretos."
+        },
+        {
+          "id": "c",
+          "text_md": "Una conducta atípica..."
+        },
+        {
+          "id": "d",
+          "text_md": "Un delito de robo con fuerza..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q17",
+      "topic": "honor",
+      "importance": 4,
+      "question_md": "El delito de calumnia regulado en el Código Penal se castiga:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Solo cuando se comete con dolo directo."
+        },
+        {
+          "id": "b",
+          "text_md": "En su forma dolosa e imprudente."
+        },
+        {
+          "id": "c",
+          "text_md": "Cuando se comete con dolo directo y/o con dolo eventual."
+        },
+        {
+          "id": "d",
+          "text_md": "Con independencia de su intencionalidad..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q18",
+      "topic": "relaciones_familiares",
+      "importance": 4,
+      "question_md": "El delito de bigamia,",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Se consuma en el momento en que se celebra el segundo o ulterior matrimonio, a sabiendas de que subsiste un matrimonio anterior."
+        },
+        {
+          "id": "b",
+          "text_md": "Puede cometerse mediante dolo e imprudencia grave."
+        },
+        {
+          "id": "c",
+          "text_md": "No afecta a aquellas personas cuya religión permite..."
+        },
+        {
+          "id": "d",
+          "text_md": "Se consuma en el momento de iniciar los trámites..."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q19",
+      "topic": "relaciones_familiares",
+      "importance": 4,
+      "question_md": "El que dejare de pagar cualquier tipo de prestación económica en favor de su cónyuge o sus hijos, establecida en convenio judicialmente aprobado...",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Contraerá una deuda civil..."
+        },
+        {
+          "id": "b",
+          "text_md": "Cometerá un delito leve..."
+        },
+        {
+          "id": "c",
+          "text_md": "Cometerá un delito... cuando el impago deje a su cónyuge en situación de necesidad."
+        },
+        {
+          "id": "d",
+          "text_md": "Cometerá un delito regulado en el art. 227 CP cuando el impago sea durante dos meses consecutivos o cuatro meses no consecutivos."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q20",
+      "topic": "hurtos_robos",
+      "importance": 4,
+      "question_md": "El que sustrajere o utilizare sin la debida autorización un vehículo a motor o ciclomotor ajenos, sin ánimo de apropiárselo, cometerá:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Un delito de hurto de uso de vehículos."
+        },
+        {
+          "id": "b",
+          "text_md": "Un delito de hurto o robo de uso de vehículos si lo restituyera, directa o indirectamente, en un plazo no superior a cuarenta y ocho horas."
+        },
+        {
+          "id": "c",
+          "text_md": "Un delito de hurto o robo de uso... en plazo no superior a setenta y dos horas."
+        },
+        {
+          "id": "d",
+          "text_md": "Un delito de apropiación indebida..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q21",
+      "topic": "estafas_defraudaciones",
+      "importance": 4,
+      "question_md": "Los que, utilizando de forma fraudulenta tarjetas de crédito o débito, cheques de viaje o cualquier otro instrumento de pago... distinto del efectivo... realicen operaciones... en perjuicio de su titular o de un tercero, serán considerados:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Reos de fraude bancario."
+        },
+        {
+          "id": "b",
+          "text_md": "Reos de falsificación de moneda."
+        },
+        {
+          "id": "c",
+          "text_md": "Reos de estafa."
+        },
+        {
+          "id": "d",
+          "text_md": "Reos de administración desleal."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q22",
+      "topic": "danos_societarios_consumidores",
+      "importance": 4,
+      "question_md": "En el art. 267 CP, párrafo primero, se castigan 'los daños causados por imprudencia grave si la cuantía',",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Es superior a 80.000 euros."
+        },
+        {
+          "id": "b",
+          "text_md": "Es igual o superior a 50.000 euros."
+        },
+        {
+          "id": "c",
+          "text_md": "Es superior a 50.000 euros."
+        },
+        {
+          "id": "d",
+          "text_md": "Da igual la cuantía..."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q23",
+      "topic": "propiedad_intelectual",
+      "importance": 4,
+      "question_md": "Los actos de imitación de marcas y otros signos distintivos:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Siempre se reputarán desleales..."
+        },
+        {
+          "id": "b",
+          "text_md": "En ningún caso serán delictivos..."
+        },
+        {
+          "id": "c",
+          "text_md": "Se reputarán desleales y por tanto ilícitos penalmente cuando generen el riesgo de confusión por parte de los consumidores (actos de confusión)."
+        },
+        {
+          "id": "d",
+          "text_md": "Todas las respuestas son falsas."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q24",
+      "topic": "estafas_defraudaciones",
+      "importance": 4,
+      "question_md": "Juan y Pepe, consumados timadores, consiguieron que Eustaquio les entregara una suma de 350 euros mediante el conocido 'timo de la estampita':",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Una conducta atípica..."
+        },
+        {
+          "id": "b",
+          "text_md": "Un delito de estafa en su tipo básico."
+        },
+        {
+          "id": "c",
+          "text_md": "Un delito de estafa atenuado..."
+        },
+        {
+          "id": "d",
+          "text_md": "Un delito leve de estafa al no alcanzar la cuantía de lo estafado los 400 euros."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q25",
+      "topic": "receptacion_blanqueo",
+      "importance": 4,
+      "question_md": "¿En cuál de los siguientes delitos NO se sancionará penalmente su comisión por una persona jurídica?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Estafa."
+        },
+        {
+          "id": "b",
+          "text_md": "Alzamiento de bienes y frustración de la ejecución."
+        },
+        {
+          "id": "c",
+          "text_md": "Delitos societarios."
+        },
+        {
+          "id": "d",
+          "text_md": "Delitos relativos al mercado y a los consumidores."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": "5–6",
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q26",
+      "topic": "hacienda_seguridad_social",
+      "importance": 3,
+      "question_md": "En el apartado 1 del art. 305 CP se establece que la cuantía del fraude tributario, para que sea delito, ha de superar la siguiente cantidad:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "100.000 euros."
+        },
+        {
+          "id": "b",
+          "text_md": "50.000 euros."
+        },
+        {
+          "id": "c",
+          "text_md": "120.000 euros."
+        },
+        {
+          "id": "d",
+          "text_md": "600.000 euros."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-24f2-q27",
+      "topic": "danos_societarios_consumidores",
+      "importance": 3,
+      "question_md": "El delito tipificado en el art. 284.1 CP, dentro de la sección correspondiente a los delitos relativos al mercado y a los consumidores, castiga únicamente a los que 'alterasen los precios... empleando':",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Violencia o intimidación."
+        },
+        {
+          "id": "b",
+          "text_md": "Amenazas o coacciones."
+        },
+        {
+          "id": "c",
+          "text_md": "Violencia, amenazas, engaño o cualquier otro artificio."
+        },
+        {
+          "id": "d",
+          "text_md": "Amenazas o intimidación."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "24f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2024-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q01",
+      "topic": "vida_suicidio",
+      "importance": 4,
+      "question_md": "Para que la conducta sea constitutiva del homicidio doloso del art. 138 del CP:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Basta con que se produzca la muerte... sin trascender la intención."
+        },
+        {
+          "id": "b",
+          "text_md": "Basta con que se produzca la muerte... si concurre animus laedendi."
+        },
+        {
+          "id": "c",
+          "text_md": "Ha de producirse la muerte del sujeto pasivo, pero siempre que concurra en el sujeto activo un ánimus necandi."
+        },
+        {
+          "id": "d",
+          "text_md": "Ha de producirse la muerte del sujeto pasivo, concurriendo en el sujeto activo un ánimus necandi, y siempre que exista un nexo causal entre la conducta realizada y el resultado muerte."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q02",
+      "topic": "vida_suicidio",
+      "importance": 4,
+      "question_md": "La alevosía, como circunstancia específica en el delito de asesinato del art. 139 del CP:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Únicamente puede estar preordenada con anterioridad a la ejecución de los hechos."
+        },
+        {
+          "id": "b",
+          "text_md": "Puede estar presente cuando se inicia la acción, pero nunca puede ser sobrevenida..."
+        },
+        {
+          "id": "c",
+          "text_md": "Puede estar presente cuando se inicia la acción, y puede ser sobrevenida una vez iniciada la ejecución."
+        },
+        {
+          "id": "d",
+          "text_md": "Al concurrir al inicio de la acción, ya determina la calificación..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q03",
+      "topic": "vida_suicidio",
+      "importance": 4,
+      "question_md": "El delito de cooperación al suicidio, del art. 143.2 CP requiere para su consumación:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Que se produzca la muerte del suicida, por ser una condición objetiva de penalidad."
+        },
+        {
+          "id": "b",
+          "text_md": "Que se lleve a efecto la acción de poner fin a su vida por el suicida..."
+        },
+        {
+          "id": "c",
+          "text_md": "Que el suicida dé inicio al acto..."
+        },
+        {
+          "id": "d",
+          "text_md": "Que se realicen actos dirigidos a convencer..."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q04",
+      "topic": "lesiones_organos",
+      "importance": 4,
+      "question_md": "Para determinar la existencia de un delito de lesiones del art. 147 CP:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Resulta intrascendente la intención... bastando lesión que precise tratamiento médico-quirúrgico."
+        },
+        {
+          "id": "b",
+          "text_md": "Es necesario la existencia de una acción, que ésta produzca una lesión que responde al ánimo de lesionar del sujeto activo, y que la lesión haya precisado tratamiento médico o quirúrgico, después de una primera asistencia facultativa."
+        },
+        {
+          "id": "c",
+          "text_md": "Es preciso que la acción determine un resultado lesivo..."
+        },
+        {
+          "id": "d",
+          "text_md": "Basta con la concurrencia del ánimo de lesionar..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q05",
+      "topic": "lesiones_organos",
+      "importance": 4,
+      "question_md": "El delito de tráfico de órganos humanos, del art. 156 bis 1 CP que castiga a los que de cualquier modo promuevan, favorezcan, faciliten, publiciten o ejecuten el tráfico de órganos humanos:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Es delito de resultado, que exige que el órgano sea finalmente trasplantado..."
+        },
+        {
+          "id": "b",
+          "text_md": "Es delito de mera actividad y de peligro concreto..."
+        },
+        {
+          "id": "c",
+          "text_md": "Es delito de mera actividad que solo alcanza acciones que recaigan sobre órganos de personas vivas."
+        },
+        {
+          "id": "d",
+          "text_md": "Es delito de mera actividad y de peligro abstracto."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q06",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "El delito de detención ilegal cometida por particulares, es:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Un delito de consumación anticipada..."
+        },
+        {
+          "id": "b",
+          "text_md": "Un delito permanente, de consumación instantánea, bastando la privación de la libertad ambulatoria de la persona."
+        },
+        {
+          "id": "c",
+          "text_md": "Un delito de resultado..."
+        },
+        {
+          "id": "d",
+          "text_md": "Un delito de consumación permanente..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q07",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "La consumación del delito de amenazas, tiene lugar:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Cuando se lleva a efecto por el sujeto activo la acción amenazante."
+        },
+        {
+          "id": "b",
+          "text_md": "Cuando se tiene conocimiento de la amenaza terceras personas."
+        },
+        {
+          "id": "c",
+          "text_md": "Cuando se resuelve por el sujeto pasivo..."
+        },
+        {
+          "id": "d",
+          "text_md": "Cuando llega a conocimiento del sujeto pasivo."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q08",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "El supuesto agravado del delito de amenazas leves realizadas con armas a persona con la que el autor haya estado casado o unido sentimentalmente, alcanza los siguientes supuestos:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Únicamente si se realiza la amenaza en presencia de menores y en el domicilio de la víctima."
+        },
+        {
+          "id": "b",
+          "text_md": "Cuando se realice la amenaza en presencia de menores, o quebrantando una pena del art. 48 o una medida cautelar o de seguridad de la misma naturaleza, o en el domicilio de la víctima."
+        },
+        {
+          "id": "c",
+          "text_md": "Cuando se realice la amenaza en presencia de personas discapacitadas..."
+        },
+        {
+          "id": "d",
+          "text_md": "Únicamente cuando se realice en presencia de menores..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q09",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "El delito de acoso del art. 172.ter 1 CP requiere siempre que:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "El sujeto activo someta a vigilancia, persecución... con la exclusiva intención de mantener relación sexual..."
+        },
+        {
+          "id": "b",
+          "text_md": "El sujeto activo sea persona del sexo masculino..."
+        },
+        {
+          "id": "c",
+          "text_md": "Sin estar legítimamente autorizado, el sujeto activo intente establecer contacto con el sujeto pasivo de forma insistente y reiterada, vigilándola, persiguiéndola o buscando su cercanía física, alterando el normal desarrollo de su vida cotidiana."
+        },
+        {
+          "id": "d",
+          "text_md": "El sujeto activo someta a vigilancia..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q10",
+      "topic": "vida_suicidio",
+      "importance": 4,
+      "question_md": "¿Cuál es la pena máxima prevista para un asesinato agravado según el art. 140 del Código penal español?",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "15 años de prisión"
+        },
+        {
+          "id": "b",
+          "text_md": "20 años de prisión"
+        },
+        {
+          "id": "c",
+          "text_md": "30 años de prisión"
+        },
+        {
+          "id": "d",
+          "text_md": "Prisión permanente revisable"
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q11",
+      "topic": "libertad_sexual",
+      "importance": 4,
+      "question_md": "Indique según el Código Penal, cual es la edad mínima para que el consentimiento sexual resulte valido en las relaciones sexuales:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "15 años."
+        },
+        {
+          "id": "b",
+          "text_md": "13 años."
+        },
+        {
+          "id": "c",
+          "text_md": "18 años."
+        },
+        {
+          "id": "d",
+          "text_md": "16 años."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q12",
+      "topic": "intimidad_morada",
+      "importance": 4,
+      "question_md": "El delito de allanamiento de morada en su modalidad de allanamiento pasivo, contempla:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "La entrada en morada ajena contra la voluntad del morador."
+        },
+        {
+          "id": "b",
+          "text_md": "La entrada en morada ajena y la permanencia en la misma, ambos actos contra la voluntad del morador."
+        },
+        {
+          "id": "c",
+          "text_md": "La permanencia en morada ajena contra la voluntad del morador."
+        },
+        {
+          "id": "d",
+          "text_md": "La permanencia en morada ajena con el consentimiento..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q13",
+      "topic": "honor",
+      "importance": 4,
+      "question_md": "La exceptio veritatis:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Cabe exclusivamente en el delito de calumnias."
+        },
+        {
+          "id": "b",
+          "text_md": "Cabe en todo caso en el delito de calumnias, y en el delito de injurias solo cuando se dirigen contra funcionarios públicos y sobre hechos concernientes al ejercicio de sus cargos."
+        },
+        {
+          "id": "c",
+          "text_md": "Cabe exclusivamente en el delito de injurias."
+        },
+        {
+          "id": "d",
+          "text_md": "No es posible en los delitos contra el honor."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q14",
+      "topic": "hurtos_robos",
+      "importance": 4,
+      "question_md": "Los elementos del tipo básico del delito de hurto son:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Apoderamiento de cosa mueble ajena y falta de consentimiento de su dueño."
+        },
+        {
+          "id": "b",
+          "text_md": "Apoderamiento de cosa mueble ajena, ausencia de consentimiento del dueño, ánimo de lucro, y valor de lo sustraído superior a 400 euros."
+        },
+        {
+          "id": "c",
+          "text_md": "Apoderamiento de cosa mueble o inmueble..."
+        },
+        {
+          "id": "d",
+          "text_md": "Apoderamiento de cosa inmueble..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q15",
+      "topic": "hurtos_robos",
+      "importance": 4,
+      "question_md": "En el delito de robo y hurto de uso de vehículos, la determinación de un ánimus utendi, frente al ánimus rei sibi habendi... atiende a que se restituya del vehículo en un plazo no superior a:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "48 horas."
+        },
+        {
+          "id": "b",
+          "text_md": "24 horas."
+        },
+        {
+          "id": "c",
+          "text_md": "72 horas"
+        },
+        {
+          "id": "d",
+          "text_md": "7 días."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q16",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "Cuál es la principal diferencia entre los delitos de amenazas y coacciones:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "No hay diferencias..."
+        },
+        {
+          "id": "b",
+          "text_md": "Las amenazas implican un mal futuro y las coacciones un daño actual o inmediato"
+        },
+        {
+          "id": "c",
+          "text_md": "Las coacciones implican siempre violencia física y las amenazas violencia verbal (intimidación)."
+        },
+        {
+          "id": "d",
+          "text_md": "Las coacciones son delitos graves o menos graves..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q17",
+      "topic": "frustracion_insolvencias",
+      "importance": 4,
+      "question_md": "Indique, según al manual de la asignatura, si el delito de insolvencia punible admite la comisión por imprudencia:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "No. Admite exclusivamente la comisión con dolo directo."
+        },
+        {
+          "id": "b",
+          "text_md": "No. Admite exclusivamente la comisión con dolo directo o dolo eventual."
+        },
+        {
+          "id": "c",
+          "text_md": "Sí. Admite la comisión por imprudencia menos grave."
+        },
+        {
+          "id": "d",
+          "text_md": "Sí. Admite la comisión por imprudencia grave."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q18",
+      "topic": "danos_societarios_consumidores",
+      "importance": 4,
+      "question_md": "En el delito de daños, el perdón del ofendido:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Solo se admite en los casos de daños causados por imprudencia grave."
+        },
+        {
+          "id": "b",
+          "text_md": "Extingue la responsabilidad penal en todos los casos, siempre que se otorgue expresamente."
+        },
+        {
+          "id": "c",
+          "text_md": "Se admite exclusivamente en los supuestos de daños por negligencia profesional."
+        },
+        {
+          "id": "d",
+          "text_md": "No extingue la responsabilidad penal en ningún caso."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q19",
+      "topic": "danos_societarios_consumidores",
+      "importance": 4,
+      "question_md": "Manuel Jesús... contacta con una entidad bancaria... le ofrece disfrutar gratuitamente de un chalet en Marbella... para el próximo verano. La conducta de Manuel Jesús:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "No constituye ilícito penal alguno, pues se trata de un ofrecimiento a un directivo de entidad bancaria privada."
+        },
+        {
+          "id": "b",
+          "text_md": "Es constitutiva de un delito de corrupción activa en los negocios en el sector privado."
+        },
+        {
+          "id": "c",
+          "text_md": "Es constitutiva de un delito de corrupción pasiva en los negocios en el sector privado."
+        },
+        {
+          "id": "d",
+          "text_md": "Es constitutiva de un delito de corrupción activa en los negocios en el sector privado en grado de tentativa."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q20",
+      "topic": "receptacion_blanqueo",
+      "importance": 4,
+      "question_md": "Según la jurisprudencia del Tribunal Supremo, citada en el manual de la asignatura, para la cuantificación de la infracción patrimonial previa al delito de receptación, se tiene en cuenta:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "El importe cobrado por el receptador, caso de adquisición de todos los bienes."
+        },
+        {
+          "id": "b",
+          "text_md": "El importe pactado con el receptador..."
+        },
+        {
+          "id": "c",
+          "text_md": "El importe únicamente de los bienes que haya adquirido el receptador."
+        },
+        {
+          "id": "d",
+          "text_md": "La cuantía a la que ascienda el importe total de los bienes sustraídos en el momento de la sustracción."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q21",
+      "topic": "receptacion_blanqueo",
+      "importance": 4,
+      "question_md": "Según el manual de la asignatura, el autoblanqueo para el Tribunal Supremo:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Supone el agotamiento del delito precedente, y se pena solo un delito."
+        },
+        {
+          "id": "b",
+          "text_md": "No supone el agotamiento del delito previo, siendo actos autónomos respecto del delito del que proceden los bienes."
+        },
+        {
+          "id": "c",
+          "text_md": "No es punible."
+        },
+        {
+          "id": "d",
+          "text_md": "No puede beneficiarse de circunstancias modificativas..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q22",
+      "topic": "receptacion_blanqueo",
+      "importance": 4,
+      "question_md": "El delito de blanqueo de capitales requiere:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "La comisión previa de un delito grave exclusivamente."
+        },
+        {
+          "id": "b",
+          "text_md": "La comisión previa de un delito grave o menos grave."
+        },
+        {
+          "id": "c",
+          "text_md": "La comisión de un delito grave o menos grave, pero únicamente si existe condena firme."
+        },
+        {
+          "id": "d",
+          "text_md": "Al menos la acreditación previa de una actividad delictiva."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q23",
+      "topic": "hacienda_seguridad_social",
+      "importance": 4,
+      "question_md": "La cuantía determinada para el delito fiscal:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Es de 60.000 euros, tomando como referencia la cuota tributaria no liquidada."
+        },
+        {
+          "id": "b",
+          "text_md": "Es de 120.000 euros, tomando como referencia la cuota defraudada."
+        },
+        {
+          "id": "c",
+          "text_md": "Debe exceder 120.000 euros, tomando como referencia la cuota defraudada en un cómputo de tres años."
+        },
+        {
+          "id": "d",
+          "text_md": "Debe exceder 120.000 euros, tomando como referencia la cuota defraudada en un ejercicio fiscal."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q24",
+      "topic": "hacienda_seguridad_social",
+      "importance": 4,
+      "question_md": "Indique qué respuestas es correcta, en relación con la aplicación del supuesto atenuado del art. 305.6 CP, que rebaja la pena en uno o dos grados, al autor del delito de fraude tributario, que satisfaga la deuda tributaria y reconozca judicialmente los hechos:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Antes de transcurrir un mes desde la citación judicial como imputado, y la rebaja tiene carácter potestativo."
+        },
+        {
+          "id": "b",
+          "text_md": "Antes de transcurrir dos meses desde la citación judicial como imputado, y la rebaja de pena tiene carácter imperativo para los jueces y tribunales."
+        },
+        {
+          "id": "c",
+          "text_md": "Antes de transcurrir dos meses desde la citación judicial como imputado, y la rebaja tiene carácter potestativo para los jueces y tribunales."
+        },
+        {
+          "id": "d",
+          "text_md": "Antes de transcurrir quince días..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": "5–6",
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q25",
+      "topic": "hacienda_seguridad_social",
+      "importance": 4,
+      "question_md": "El supuesto agravado en el delito de fraude a la Seguridad Social, del art. 307bis.1 CP, prevé la concurrencia de unas circunstancias específicas. Señale la respuesta que es INCORRECTA:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Que la cuantía de la cuota defraudada alcance los ciento veinte mil euros."
+        },
+        {
+          "id": "b",
+          "text_md": "Que la defraudación se haya cometido en el seno de un grupo criminal."
+        },
+        {
+          "id": "c",
+          "text_md": "Que la defraudación se haya cometido en el seno de una organización criminal."
+        },
+        {
+          "id": "d",
+          "text_md": "Que se utilicen personas físicas o jurídicas para dificultar la determinación de la identidad..."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q26",
+      "topic": "integridad_trata",
+      "importance": 3,
+      "question_md": "Qué se protege principalmente mediante los delitos contra la integridad moral:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "El honor"
+        },
+        {
+          "id": "b",
+          "text_md": "La libertad de las personas"
+        },
+        {
+          "id": "c",
+          "text_md": "Su autoestima y reputación social"
+        },
+        {
+          "id": "d",
+          "text_md": "La dignidad de las personas"
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-25f2-q27",
+      "topic": "honor",
+      "importance": 3,
+      "question_md": "Puede afirmarse que el delito de calumnias es un delito:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Instantáneo y continuado."
+        },
+        {
+          "id": "b",
+          "text_md": "Público."
+        },
+        {
+          "id": "c",
+          "text_md": "Instantáneo y de efectos permanentes."
+        },
+        {
+          "id": "d",
+          "text_md": "Que solo puede cometerse con publicidad."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "25f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2025-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q01",
+      "topic": "vida_suicidio",
+      "importance": 4,
+      "question_md": "En el art. 140 CP se establece la imposición de la pena de prisión permanente revisable al reo de asesinato:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Que haya causado la muerte de más de cinco personas..."
+        },
+        {
+          "id": "b",
+          "text_md": "Que haya sido investigado por la realización de al menos dos homicidios..."
+        },
+        {
+          "id": "c",
+          "text_md": "Que haya sido condenado por la muerte de más de dos personas."
+        },
+        {
+          "id": "d",
+          "text_md": "Que haya sido calificado por el médico forense..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q02",
+      "topic": "aborto_feto",
+      "importance": 4,
+      "question_md": "En el delito de aborto por imprudencia, ésta puede ser:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Grave y menos grave."
+        },
+        {
+          "id": "b",
+          "text_md": "Únicamente profesional."
+        },
+        {
+          "id": "c",
+          "text_md": "Grave y profesional."
+        },
+        {
+          "id": "d",
+          "text_md": "Grave, menos grave, leve y profesional."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q03",
+      "topic": "lesiones_organos",
+      "importance": 4,
+      "question_md": "Para que una conducta se considere delito de lesiones del tipo básico conforme al art. 147.1 CP, es necesario que:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Cualquier contacto físico cause dolor..."
+        },
+        {
+          "id": "b",
+          "text_md": "El daño sea exclusivamente psíquico..."
+        },
+        {
+          "id": "c",
+          "text_md": "Se cause una simple vigilancia facultativa..."
+        },
+        {
+          "id": "d",
+          "text_md": "La lesión menoscabe la integridad corporal o la salud física o mental y requiera objetivamente tratamiento médico o quirúrgico además de la primera asistencia facultativa."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q04",
+      "topic": "manipulacion_genetica",
+      "importance": 4,
+      "question_md": "Un investigador realiza, en un laboratorio autorizado, la fecundación de varios óvulos humanos con el propósito de estudiar la evolución celular y destruirlos posteriormente. ¿Podría considerarse al investigador autor de un delito de?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Manipulación de genes humanos con fines terapéuticos."
+        },
+        {
+          "id": "b",
+          "text_md": "Creación de seres humanos idénticos por clonación."
+        },
+        {
+          "id": "c",
+          "text_md": "Reproducción asistida sin consentimiento."
+        },
+        {
+          "id": "d",
+          "text_md": "Fecundación de óvulos humanos con fin distinto a la procreación."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 1,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q05",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "Complete la siguiente frase: en el delito detenciones ilegales el consentimiento válido de la víctima...:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Permite la atenuación de la pena en un grado."
+        },
+        {
+          "id": "b",
+          "text_md": "La conducta se califica como imprudente..."
+        },
+        {
+          "id": "c",
+          "text_md": "Excluye la tipicidad de la conducta si el consentimiento se presta antes de la detención."
+        },
+        {
+          "id": "d",
+          "text_md": "Se aprecia una causa de exclusión de la culpabilidad..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q06",
+      "topic": "libertad",
+      "importance": 4,
+      "question_md": "Juan le pide prestado el coche a su vecino Manuel... precinta la puerta del domicilio de Juan para que no pueda salir... privativo de libertad dos días... ¿Cómo calificaría la conducta de Juan?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Constitutiva de un delito leve de detenciones ilegales."
+        },
+        {
+          "id": "b",
+          "text_md": "Constitutiva de un delito de detenciones ilegales tipo básico."
+        },
+        {
+          "id": "c",
+          "text_md": "Constitutiva de un supuesto atenuado del delito de detenciones ilegales."
+        },
+        {
+          "id": "d",
+          "text_md": "Constitutiva de un supuesto agravado..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q07",
+      "topic": "integridad_trata",
+      "importance": 4,
+      "question_md": "Se calificaría como delito de acoso inmobiliario la realización de forma reiterada de actos hostiles o humillantes que tengan por objeto impedir el legítimo disfrute de la vivienda siempre que:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Estos actos se ejerzan con violencia y resulten acreditados."
+        },
+        {
+          "id": "b",
+          "text_md": "Estos actos tengan como resultado el abandono de la vivienda."
+        },
+        {
+          "id": "c",
+          "text_md": "Estos actos no lleguen a constituir trato degradante."
+        },
+        {
+          "id": "d",
+          "text_md": "Estos actos se realicen para impedir el ejercicio del derecho fundamental a la intimidad."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q08",
+      "topic": "integridad_trata",
+      "importance": 4,
+      "question_md": "De acuerdo con el contenido del Manual recomendado para el estudio de la asignatura, el delito de trata de seres humanos se calificaría como un delito de:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Resultado y peligro concreto."
+        },
+        {
+          "id": "b",
+          "text_md": "Resultado cortado y peligro abstracto."
+        },
+        {
+          "id": "c",
+          "text_md": "Mera actividad y de peligro hipotético."
+        },
+        {
+          "id": "d",
+          "text_md": "Mera actividad y de peligro abstracto."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q09",
+      "topic": "libertad_sexual",
+      "importance": 4,
+      "question_md": "De acuerdo con lo indicado en el Manual de la asignatura, ¿quién puede ser sujeto pasivo en el tipo básico del delito de agresión sexual del art. 178.1 CP?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Cualquier persona."
+        },
+        {
+          "id": "b",
+          "text_md": "Cualquier persona, salvo menores de 16 años..."
+        },
+        {
+          "id": "c",
+          "text_md": "Solamente las mujeres..."
+        },
+        {
+          "id": "d",
+          "text_md": "Solamente los menores de edad..."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 2,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q10",
+      "topic": "omision_socorro",
+      "importance": 4,
+      "question_md": "El art. 195.3 CP agrava las penas del delito de omisión del deber de socorro si la víctima lo hubiera sido por accidente ocasionado por imprudencia por la persona que omitió el socorro. ¿Cómo debe ser la imprudencia...",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Debe ser necesariamente grave."
+        },
+        {
+          "id": "b",
+          "text_md": "Debe ser necesariamente grave o menos grave."
+        },
+        {
+          "id": "c",
+          "text_md": "Puede ser grave, menos grave o leve."
+        },
+        {
+          "id": "d",
+          "text_md": "Puede ser grave o menos grave, pero solo si es profesional."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q11",
+      "topic": "intimidad_morada",
+      "importance": 4,
+      "question_md": "¿En qué supuestos se castiga en el delito de allanamiento de personas jurídicas al que se mantuviere contra la voluntad de su titular en un local abierto al público dentro de sus horas de apertura?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "En ningún caso, ya que solamente se castiga la entrada en tales supuestos."
+        },
+        {
+          "id": "b",
+          "text_md": "En ningún caso, ya que solo se castiga la entrada o permanencia... fuera de sus horas de apertura."
+        },
+        {
+          "id": "c",
+          "text_md": "En todo caso..."
+        },
+        {
+          "id": "d",
+          "text_md": "Solamente cuando se realice con violencia..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q12",
+      "topic": "intimidad_morada",
+      "importance": 4,
+      "question_md": "El art. 202.1 CP castiga al particular que... entrare en morada ajena o se mantuviere en la misma contra la voluntad de su morador. ¿Cómo opera en este delito el consentimiento válido y libre del morador?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Como causa que excluye la antijuricidad de la conducta."
+        },
+        {
+          "id": "b",
+          "text_md": "Como causa de atipicidad."
+        },
+        {
+          "id": "c",
+          "text_md": "Como causa que excluye la culpabilidad."
+        },
+        {
+          "id": "d",
+          "text_md": "Como excusa absolutoria."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q13",
+      "topic": "honor",
+      "importance": 4,
+      "question_md": "Según el art. 205 CP, es calumnia la imputación de un delito hecha con conocimiento de su falsedad o temerario desprecio hacia la verdad. ¿Qué tipo de delitos deben ser imputados...",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Solo delitos graves."
+        },
+        {
+          "id": "b",
+          "text_md": "Solo delitos graves y menos graves."
+        },
+        {
+          "id": "c",
+          "text_md": "Tanto los delitos graves, como los delitos menos graves y los delitos leves."
+        },
+        {
+          "id": "d",
+          "text_md": "La imputación de delitos graves y menos graves dará lugar al delito de calumnia..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q14",
+      "topic": "relaciones_familiares",
+      "importance": 4,
+      "question_md": "El delito de abandono de familia tipificado en el art. 226.1 CP:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Es únicamente perseguible de oficio."
+        },
+        {
+          "id": "b",
+          "text_md": "Solo se persigue mediante la interposición de querella..."
+        },
+        {
+          "id": "c",
+          "text_md": "Únicamente es perseguible mediante interposición de denuncia por el Ministerio Fiscal."
+        },
+        {
+          "id": "d",
+          "text_md": "Es perseguible por la interposición de denuncia de la persona agraviada o de su representante legal. Si se trata de un menor de edad, persona con discapacidad necesitada de especial protección o una persona desvalida, también podrá denunciar el Ministerio Fiscal."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 3,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q15",
+      "topic": "hurtos_robos",
+      "importance": 4,
+      "question_md": "De acuerdo con lo indicado en el Manual de la asignatura, ¿qué se entiende a efectos penales por cosa mueble?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Todo objeto corporal que se pueda transportar de un punto a otro sin menoscabo..."
+        },
+        {
+          "id": "b",
+          "text_md": "Todo objeto corporal susceptible de apropiación y cuantificable económicamente."
+        },
+        {
+          "id": "c",
+          "text_md": "Todo objeto corporal susceptible de apropiación ya sea o no cuantificable económicamente."
+        },
+        {
+          "id": "d",
+          "text_md": "Todo objeto corporal con independencia de que sea o no aprehensible..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q16",
+      "topic": "hurtos_robos",
+      "importance": 4,
+      "question_md": "Antonio se encuentra en el descansillo las llaves... utiliza las llaves para acceder... observa un reloj valorado en 50€ que decide apropiarse... ¿Sería Antonio responsable de un delito de robo con fuerza?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "No, estaríamos ante un delito de hurto leve..."
+        },
+        {
+          "id": "b",
+          "text_md": "No, estaríamos ante un delito de hurto..."
+        },
+        {
+          "id": "c",
+          "text_md": "Sí, pues Antonio accede al domicilio de Jonás haciendo uso de lo que el art. 239 CP considera llaves falsas."
+        },
+        {
+          "id": "d",
+          "text_md": "Sí, pues Antonio accede... en vía insólita..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q17",
+      "topic": "frustracion_insolvencias",
+      "importance": 4,
+      "question_md": "El art. 257.2 CP castiga a quien realizare actos de disposición, contrajere obligaciones que disminuyan su patrimonio u oculte bienes... con la finalidad de:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Eludir la obligación de presentar una relación completa..."
+        },
+        {
+          "id": "b",
+          "text_md": "Eludir el pago de responsabilidades civiles derivadas de un delito que hubiere cometido o del que debiere responder."
+        },
+        {
+          "id": "c",
+          "text_md": "Eludir el pago de responsabilidades civiles y administrativas..."
+        },
+        {
+          "id": "d",
+          "text_md": "Eludir el pago de responsabilidades personales y pecuniarias..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q18",
+      "topic": "estafas_defraudaciones",
+      "importance": 4,
+      "question_md": "De acuerdo con lo indicado en el Manual de la asignatura, ¿quién puede ser sujeto activo en el delito de apropiación indebida del art. 253.1 CP?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Delito común en el que puede ser autor cualquiera."
+        },
+        {
+          "id": "b",
+          "text_md": "Delito de propia mano en el que solo puede ser autor la persona que ha recibido previamente..."
+        },
+        {
+          "id": "c",
+          "text_md": "Delito especial en el que solo puede ser sujeto activo la persona que ha recibido la cosa o el dinero por alguno de los títulos señalados en el tipo."
+        },
+        {
+          "id": "d",
+          "text_md": "Delito especial impropio..."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 4,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q19",
+      "topic": "estafas_defraudaciones",
+      "importance": 4,
+      "question_md": "El fundamento y característica definitoria de la denominada estafa procesal reside en el hecho de que el engañado y el perjudicado son personas distintas. ¿Quién sería en este caso el engañado?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "El Juez o Tribunal."
+        },
+        {
+          "id": "b",
+          "text_md": "El Fiscal o las partes acusatorias."
+        },
+        {
+          "id": "c",
+          "text_md": "Los testigos."
+        },
+        {
+          "id": "d",
+          "text_md": "El denunciante o querellante."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q20",
+      "topic": "danos_societarios_consumidores",
+      "importance": 4,
+      "question_md": "¿Cuál de los siguientes requisitos debe concurrir para que una conducta sea constitutiva del tipo básico del delito de daños en propiedad ajena del art. 263.1 CP?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Que el sujeto activo actúe con ánimo de lucro."
+        },
+        {
+          "id": "b",
+          "text_md": "Que el daño causado sea superior a 400 euros y afecte a un bien mueble o inmueble valorable económicamente."
+        },
+        {
+          "id": "c",
+          "text_md": "Que se cause perjuicio moral al titular."
+        },
+        {
+          "id": "d",
+          "text_md": "Que el daño recaiga exclusivamente sobre bienes muebles."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q21",
+      "topic": "propiedad_intelectual",
+      "importance": 4,
+      "question_md": "¿Cuál de las siguientes conductas es típica en la facilitación del acceso o localización de obras o prestaciones protegidas ofrecidas por Internet, según el art. 270.2 CP?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Facilitar de modo activo y no neutral el acceso o localización de obras protegidas, sin limitarse a un tratamiento técnico, en Internet, sin autorización de los titulares de los derechos."
+        },
+        {
+          "id": "b",
+          "text_md": "Indexar contenidos..."
+        },
+        {
+          "id": "c",
+          "text_md": "Facilitar de manera neutral y ofrecer enlaces sin intervención humana..."
+        },
+        {
+          "id": "d",
+          "text_md": "Compartir ocasionalmente un enlace..."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q22",
+      "topic": "danos_societarios_consumidores",
+      "importance": 4,
+      "question_md": "De acuerdo con lo indicado en el Manual de la asignatura, ¿qué requisito debe reunir necesariamente toda sociedad para que pueda ser integrada en el concepto de sociedad previsto en el art. 297 CP relativo a los delitos societarios?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Que participe en el mercado de forma permanente."
+        },
+        {
+          "id": "b",
+          "text_md": "Que participe en el mercado, aunque sea de forma ocasional o esporádica."
+        },
+        {
+          "id": "c",
+          "text_md": "Que haya formalizado su constitución en escritura pública..."
+        },
+        {
+          "id": "d",
+          "text_md": "Que se encuentre inscrita en el Registro Mercantil..."
+        }
+      ],
+      "correct_answer": "a",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q23",
+      "topic": "receptacion_blanqueo",
+      "importance": 4,
+      "question_md": "¿Qué formas de comisión admite el delito de blanqueo de capitales recogido en el art. 301 CP?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Solamente el dolo directo."
+        },
+        {
+          "id": "b",
+          "text_md": "Solamente el dolo directo y el dolo eventual."
+        },
+        {
+          "id": "c",
+          "text_md": "El dolo directo, el dolo eventual y la imprudencia grave."
+        },
+        {
+          "id": "d",
+          "text_md": "El dolo directo, el dolo eventual, la imprudencia grave y la menos grave."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 5,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q24",
+      "topic": "danos_societarios_consumidores",
+      "importance": 4,
+      "question_md": "¿Cuál de las siguientes circunstancias NO constituye un supuesto agravado del delito de daños recogido en el art. 263.2 CP?:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Que arruinen al perjudicado o le coloquen en grave situación económica."
+        },
+        {
+          "id": "b",
+          "text_md": "Que se empleen sustancias venenosas o corrosivas."
+        },
+        {
+          "id": "c",
+          "text_md": "Que sean causados con ánimo de lucro."
+        },
+        {
+          "id": "d",
+          "text_md": "Que afecten a bienes de dominio o uso público o comunal."
+        }
+      ],
+      "correct_answer": "c",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q25",
+      "topic": "hacienda_seguridad_social",
+      "importance": 4,
+      "question_md": "En el art. 305.6 CP se prevé una atenuante muy cualificada en el delito de fraude tributario que:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "Se aplicará únicamente al obligado tributario..."
+        },
+        {
+          "id": "b",
+          "text_md": "Se aplicará en todo caso..."
+        },
+        {
+          "id": "c",
+          "text_md": "Se aplicará únicamente a los partícipes en el delito distintos del obligado tributario o del autor del delito, cuando colaboren activamente para la obtención de pruebas para el esclarecimiento de los hechos delictivos."
+        },
+        {
+          "id": "d",
+          "text_md": "Se podrá aplicar al obligado tributario o al autor de delito si antes de que transcurran dos meses desde la citación judicial como imputado satisface la deuda tributaria y reconozca judicialmente los hechos."
+        }
+      ],
+      "correct_answer": "d",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q26",
+      "topic": "aborto_feto",
+      "importance": 3,
+      "question_md": "Pedro causa el aborto a una mujer en su domicilio, con su consentimiento, pero fuera de los casos permitidos por la ley. Esta conducta será constitutiva de:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "El tipo básico del delito de aborto fuera de los casos permitidos por la ley causado con el consentimiento de la mujer."
+        },
+        {
+          "id": "b",
+          "text_md": "Un supuesto agravado del delito de aborto fuera de los casos permitidos... que puede apreciarse de forma facultativa."
+        },
+        {
+          "id": "c",
+          "text_md": "Un supuesto atenuado..."
+        },
+        {
+          "id": "d",
+          "text_md": "Un supuesto agravado... castigado con la pena superior..."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
+      ]
+    },
+    {
+      "id": "dp2-26f2-q27",
+      "topic": "danos_societarios_consumidores",
+      "importance": 3,
+      "question_md": "Se prevé un supuesto agravado en el delito de descubrimiento de secretos de empresa que puede llevarse a cabo con varias acciones, entre las que no se incluye:",
+      "answers": [
+        {
+          "id": "a",
+          "text_md": "La difusión a terceros."
+        },
+        {
+          "id": "b",
+          "text_md": "La venta a terceros."
+        },
+        {
+          "id": "c",
+          "text_md": "La cesión a terceros."
+        },
+        {
+          "id": "d",
+          "text_md": "La revelación a terceros."
+        }
+      ],
+      "correct_answer": "b",
+      "tags": [
+        "examen",
+        "26f2"
+      ],
+      "source": {
+        "type": "exam",
+        "reference": "E660230660B26F2.pdf — Convocatoria ordinaria febrero 2026 — segunda semana, modelo B",
+        "page": 6,
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+      },
+      "exam_history": [
+        "2026-02"
       ]
     }
   ]
