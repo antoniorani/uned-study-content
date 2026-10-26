@@ -4,7 +4,7 @@
   "title": "Derecho Penal II — Primer parcial",
   "degree": "UNED — Grados en Derecho y Criminología",
   "type": "test",
-  "content_version": "2026.10.1",
+  "content_version": "2026.10.2",
   "exam": {
     "questions": 25,
     "reserve_questions": 2,
@@ -9576,7 +9576,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): 50.000 euros."
+      "explanation_md": "Art. 250.1.5º CP. Fija el umbral cuantitativo agravado de la estafa en 50.000 euros."
     },
     {
       "id": "dp2-26s1-q01",
@@ -9615,7 +9615,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (C): Homicidio por imprudencia grave."
+      "explanation_md": "Art. 142.1 y 379 CP. Conducir bajo la influencia de drogas con infracción grave del deber de cuidado genera homicidio por imprudencia grave por imperativo legal."
     },
     {
       "id": "dp2-26s1-q02",
@@ -9654,7 +9654,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): Homicidio doloso."
+      "explanation_md": "Si el niño nace vivo y después muere por las lesiones causadas antes del parto, la muerte recae sobre una persona nacida y se califica como homicidio."
     },
     {
       "id": "dp2-26s1-q03",
@@ -9693,7 +9693,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (C): Un delito de lesiones leves de maltrato de obra del art. 147.3 CP."
+      "explanation_md": "Art. 147.3 CP. Golpear o maltratar de obra sin causar lesión integra el delito leve de maltrato de obra."
     },
     {
       "id": "dp2-26s1-q04",
@@ -9732,7 +9732,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (D): El preembrión."
+      "explanation_md": "Art. 160.2 CP y manual. El objeto material sobre el que recae la acción de fecundación con fines no reproductivos es el preembrión."
     },
     {
       "id": "dp2-26s1-q05",
@@ -9771,7 +9771,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (C): La libertad de movimientos, ambulatoria o deambulatoria, de poder moverse y desplazarse libremente por el territorio."
+      "explanation_md": "Título VI Libro II CP (Capítulo I). Los delitos de detenciones ilegales y secuestros protegen estrictamente la libertad ambulatoria o de movimientos."
     },
     {
       "id": "dp2-26s1-q06",
@@ -9810,7 +9810,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (C): Sí, siempre que revista de la suficiente intensidad."
+      "explanation_md": "Art. 173.1 CP y jurisprudencia TS. Se admite la comisión de trato degradante tanto por actos reiterados como por un acto único y puntual, siempre que posea suficiente intensidad lesiva para la dignidad humana."
     },
     {
       "id": "dp2-26s1-q07",
@@ -9849,7 +9849,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): No, puesto que no ha existido prevalimiento o abuso de la situación mental."
+      "explanation_md": "Art. 178 / 181 CP. Si la persona con discapacidad mental presta un consentimiento libre y válido (comprendiendo el acto y sin mediar coacción, abuso o engaño), la conducta es atípica."
     },
     {
       "id": "dp2-26s1-q08",
@@ -9888,7 +9888,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (D): Un delito de omisión del deber de socorro."
+      "explanation_md": "Como Daniel no creó el peligro ni tenía posición de garante, no responde por homicidio omisivo, sino por el delito autónomo de omisión del deber de socorro."
     },
     {
       "id": "dp2-26s1-q09",
@@ -9927,7 +9927,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): Delito de descubrimiento de secretos."
+      "explanation_md": "Art. 197.1 CP. El apoderamiento, apertura o intercepción de correspondencia ajena sin consentimiento para descubrir secretos consuma el delito, sin requerir difusión posterior."
     },
     {
       "id": "dp2-26s1-q10",
@@ -9966,7 +9966,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (C): Es un delito de calumnias."
+      "explanation_md": "Art. 205 CP. La imputación falsa de un delito a sabiendas o con temerario desprecio hacia la verdad constituye el delito de calumnia."
     },
     {
       "id": "dp2-26s1-q11",
@@ -10005,7 +10005,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): Delito contra las relaciones familiares de bigamia."
+      "explanation_md": "Art. 217 CP. El delito de bigamia se consuma al contraer segundo matrimonio sabiendo que el anterior subsiste, con independencia de la validez civil posterior o el perjuicio material."
     },
     {
       "id": "dp2-26s1-q12",
@@ -10044,7 +10044,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (D): Sí, un delito de utilización de menores para practicar la mendicidad."
+      "explanation_md": "Art. 232.1 CP. Sanciona la utilización de menores de edad o personas con discapacidad para la práctica de la mendicidad."
     },
     {
       "id": "dp2-26s1-q13",
@@ -10083,7 +10083,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): Delito de robo con violencia."
+      "explanation_md": "Art. 237 y 242 CP. La violencia empleada inmediatamente después de la sustracción para proteger la huida cualifica el hecho como robo con violencia."
     },
     {
       "id": "dp2-26s1-q14",
@@ -10122,7 +10122,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (B): Sí."
+      "explanation_md": "Art. 264 quater CP. Tipifica la tenencia o facilitación de programas informáticos u otros instrumentos diseñados específicamente para cometer delitos informáticos (estafas)."
     },
     {
       "id": "dp2-26s1-q15",
@@ -10161,7 +10161,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): No, puesto que la cosa mueble ha sido abandonada por su dueño."
+      "explanation_md": "Doctrina civil y penal. Las cosas 'abandonadas' (res derelictae) carecen de dueño, por lo que su apropiación es una conducta atípica penalmente (diferente de la 'cosa perdida', que sí es ajena y punible)."
     },
     {
       "id": "dp2-26s1-q16",
@@ -10200,7 +10200,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): Delito de daños informáticos."
+      "explanation_md": "Art. 264.1 CP. El borrado o destrucción total e irreuperable de datos, programas o documentos electrónicos ajenos constituye delito de daños informáticos."
     },
     {
       "id": "dp2-26s1-q17",
@@ -10239,7 +10239,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (C): Delito contra la propiedad intelectual."
+      "explanation_md": "Art. 270.1 CP. La distribución de obras protegidas sin autorización, con ánimo de obtener beneficio económico y en perjuicio de tercero, integra delito contra la propiedad intelectual."
     },
     {
       "id": "dp2-26s1-q18",
@@ -10278,7 +10278,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (B): Comete un delito relativo al mercado y los consumidores, en concreto, en su modalidad de difusión de noticias falsas."
+      "explanation_md": "Art. 284 CP. Difundir a sabiendas noticias o datos falsos para alterar la cotización y obtener el beneficio típico constituye manipulación de mercado."
     },
     {
       "id": "dp2-26s1-q19",
@@ -10317,7 +10317,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (C): Sí, un delito de receptación."
+      "explanation_md": "Art. 298.1 CP. Adquirir u ocultar efectos de un delito contra el patrimonio con ánimo de lucro y conocimiento de su ilicitud integra receptación."
     },
     {
       "id": "dp2-26s1-q20",
@@ -10356,7 +10356,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (B): No, la conducta es impune puesto que la cosa no tiene valor económico."
+      "explanation_md": "Art. 263 CP. El delito de daños exige un perjuicio patrimonial económicamente valorable; el mero valor sentimental no basta para integrar el tipo."
     },
     {
       "id": "dp2-26s1-q21",
@@ -10395,7 +10395,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): Las cometidas por imprudencia grave, profesional (grave) o menos grave."
+      "explanation_md": "Arts. 152.1 y 152.2 CP. Sanciona las lesiones por imprudencia grave, imprudencia profesional y la imprudencia menos grave."
     },
     {
       "id": "dp2-26s1-q22",
@@ -10434,7 +10434,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (C): Será considerada, en todo caso, como un hecho delictivo, salvo que se trate de relaciones consentidas con una persona próxima al menor por edad y grado de desarrollo o madurez."
+      "explanation_md": "Art. 183 bis CP. Se exceptúan de tipicidad las relaciones consentidas entre menores o personas próximas por edad y grado de madurez (cláusula Romeo y Julieta)."
     },
     {
       "id": "dp2-26s1-q23",
@@ -10473,7 +10473,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): Delito de robo con fuerza en las cosas."
+      "explanation_md": "Arts. 237 y 238 CP. La fuerza empleada para abandonar el lugar o asegurar la huida con lo sustraído también puede convertir el hecho en robo con fuerza."
     },
     {
       "id": "dp2-26s1-q24",
@@ -10512,7 +10512,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (A): Se trata de una conducta impune, puesto que no ha existido perjuicio económico."
+      "explanation_md": "Al intervenir la policía antes de la transacción no llega a producirse perjuicio ni disposición patrimonial; por eso la conducta queda impune según la clave del examen."
     },
     {
       "id": "dp2-26s1-q25",
@@ -10551,7 +10551,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Respuesta correcta (B): Sí, un delito de promover, fomentar o incitar al suicidio a menores de edad."
+      "explanation_md": "El art. 143 bis CP castiga difundir contenidos destinados a promover o incitar al suicidio o autolesión de menores, aunque ningún menor llegue a ejecutarlos."
     },
     {
       "id": "dp2-26s1-q26",
@@ -10591,7 +10591,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Material de estudio aportado: art. 143.4 CP, eutanasia no legalizada; la exención del art. 143.5 CP exige cumplir los presupuestos y procedimiento de la LO 3/2021, extremo que no consta en el supuesto."
+      "explanation_md": "El art. 143.4 CP sanciona la eutanasia fuera del procedimiento legal; la exención del art. 143.5 exige cumplir los requisitos de la LO 3/2021."
     },
     {
       "id": "dp2-26s1-q27",
@@ -10631,7 +10631,7 @@
       "exam_history": [
         "2026-09"
       ],
-      "explanation_md": "Manual aportado, art. 214 CP: el juez o tribunal impondrá la pena inmediatamente inferior en grado y podrá dejar de imponer la pena de inhabilitación."
+      "explanation_md": "El art. 214 CP obliga a imponer la pena inmediatamente inferior en grado tras la retractación y permite no imponer la inhabilitación."
     },
     {
       "id": "dp2-22f2-q01",
@@ -14882,7 +14882,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Que haya sido condenado por la muerte de más de dos personas."
+      "explanation_md": "Art. 140.2 CP. Impone la Prisión Permanente Revisable al reo de asesinato que hubiera sido condenado por la muerte de más de dos personas."
     },
     {
       "id": "dp2-26f2-q02",
@@ -14921,7 +14921,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Grave y profesional."
+      "explanation_md": "Art. 146 CP. Sanciona el aborto por imprudencia grave y contempla la modalidad de imprudencia profesional."
     },
     {
       "id": "dp2-26f2-q03",
@@ -14960,7 +14960,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (D): La lesión menoscabe la integridad corporal o la salud física o mental y requiera objetivamente tratamiento médico o quirúrgico además de la primera asistencia facultativa."
+      "explanation_md": "Art. 147.1 CP. Definición legal estricta del tipo básico de lesiones."
     },
     {
       "id": "dp2-26f2-q04",
@@ -14999,7 +14999,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (D): Fecundación de óvulos humanos con fin distinto a la procreación."
+      "explanation_md": "Art. 160.2 CP. Fecundar óvulos humanos con fines de investigación o experimentación (distintos a la procreación) integra este tipo delictivo."
     },
     {
       "id": "dp2-26f2-q05",
@@ -15038,7 +15038,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Excluye la tipicidad de la conducta si el consentimiento se presta antes de la detención."
+      "explanation_md": "Art. 163 CP. Al ser la libertad un bien disponible, el consentimiento previo y válido excluye la tipicidad."
     },
     {
       "id": "dp2-26f2-q06",
@@ -15077,7 +15077,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Constitutiva de un supuesto atenuado del delito de detenciones ilegales."
+      "explanation_md": "Art. 163.2 CP. Se libera a la persona dentro de los tres primeros días (dos días) sin haber logrado el objeto propuesto (conseguir el coche), aplicando el tipo atenuado."
     },
     {
       "id": "dp2-26f2-q07",
@@ -15116,7 +15116,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Estos actos no lleguen a constituir trato degradante."
+      "explanation_md": "Art. 173.1 párr. 3º CP. El acoso inmobiliario requiere actos reiterados hostiles o humillantes que impidan disfrutar de la vivienda, siempre que no alcancen la gravedad del trato degradante autónomo."
     },
     {
       "id": "dp2-26f2-q08",
@@ -15155,7 +15155,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (D): Mera actividad y de peligro abstracto."
+      "explanation_md": "Doctrina y manual. La trata de seres humanos se configura dogmáticamente como un delito de mera actividad y de peligro abstracto."
     },
     {
       "id": "dp2-26f2-q09",
@@ -15194,7 +15194,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (A): Cualquier persona."
+      "explanation_md": "Art. 178 CP. Sujeto pasivo común: cualquier persona (varón o mujer, adulto o menor)."
     },
     {
       "id": "dp2-26f2-q10",
@@ -15233,7 +15233,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (B): Debe ser necesariamente grave o menos grave."
+      "explanation_md": "Art. 195.3 CP. El subtipo agravado exige que el accidente derive de imprudencia grave o menos grave."
     },
     {
       "id": "dp2-26f2-q11",
@@ -15272,7 +15272,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (B): En ningún caso, ya que solo se castiga la entrada o permanencia en el local abierto al público fuera de sus horas de apertura."
+      "explanation_md": "Art. 203.1 CP. El allanamiento de establecimientos abiertos al público o personas jurídicas solo es típico fuera de las horas de apertura."
     },
     {
       "id": "dp2-26f2-q12",
@@ -15311,7 +15311,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (B): Como causa de atipicidad."
+      "explanation_md": "Art. 202.1 CP. Al exigir el tipo 'contra la voluntad de su morador', la existencia de consentimiento válido excluye la tipicidad de la conducta."
     },
     {
       "id": "dp2-26f2-q13",
@@ -15350,7 +15350,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Tanto los delitos graves, como los delitos menos graves y los delitos leves."
+      "explanation_md": "Art. 205 CP. La calumnia abarca la imputación de cualquier delito (grave, menos grave o leve)."
     },
     {
       "id": "dp2-26f2-q14",
@@ -15389,7 +15389,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (D): Es perseguible por la interposición de denuncia de la persona agraviada o de su representante legal. Si se trata de un menor de edad, persona con discapacidad necesitada de especial protección o una persona desvalida, también podrá denunciar el Ministerio Fiscal."
+      "explanation_md": "Art. 228 CP. Regla de perseguibilidad semipública (denuncia del agraviado, representante o Ministerio Fiscal si es menor/discapacitado)."
     },
     {
       "id": "dp2-26f2-q15",
@@ -15428,7 +15428,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (B): Todo objeto corporal susceptible de apropiación y cuantificable económicamente."
+      "explanation_md": "Doctrina y manual. Cosa mueble es todo objeto corporal susceptible de apropiación y valorable económicamente."
     },
     {
       "id": "dp2-26f2-q16",
@@ -15467,7 +15467,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Sí, pues Antonio accede al domicilio de Jonás haciendo uso de lo que el art. 239 CP considera llaves falsas."
+      "explanation_md": "Arts. 238.3º y 239.2º CP. El uso de llaves sustraídas o legítimas ajenas sin consentimiento para entrar en morada constituye llave falsa, calificando el hecho como robo con fuerza en las cosas."
     },
     {
       "id": "dp2-26f2-q17",
@@ -15506,7 +15506,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (B): Eludir el pago de responsabilidades civiles derivadas de un delito que hubiere cometido o del que debiere responder."
+      "explanation_md": "Art. 257.2 CP. Supuesto específico de alzamiento dirigido a eludir responsabilidades civiles derivadas de delito."
     },
     {
       "id": "dp2-26f2-q18",
@@ -15545,7 +15545,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Delito especial en el que solo puede ser sujeto activo la persona que ha recibido la cosa o el dinero por alguno de los títulos señalados en el tipo."
+      "explanation_md": "Art. 253.1 CP. Delito especial (exige haber recibido la cosa en virtud de depósito, comisión, administración u otro título que produzca obligación de entregarla o devolverla)."
     },
     {
       "id": "dp2-26f2-q19",
@@ -15584,7 +15584,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (A): El Juez o Tribunal."
+      "explanation_md": "Art. 250.1.7º CP. El engaño se provoca sobre el Juez o Tribunal (órgano jurisdiccional), induciéndole a error para dictar resolución perjudicial."
     },
     {
       "id": "dp2-26f2-q20",
@@ -15623,7 +15623,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (B): Que el daño causado sea superior a 400 euros y afecte a un bien mueble o inmueble valorable económicamente."
+      "explanation_md": "Art. 263.1 CP. Exige daño patrimonial valorable superior a 400 euros sobre mueble o inmueble (si es inferior, es delito leve)."
     },
     {
       "id": "dp2-26f2-q21",
@@ -15662,7 +15662,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (A): Facilitar de modo activo y no neutral el acceso o localización de obras protegidas, sin limitarse a un tratamiento técnico, en Internet, sin autorización de los titulares de los derechos."
+      "explanation_md": "Art. 270.2 CP. Sanciona la facilitación activa y no neutral de enlaces o localización de obras protegidas sin autorización."
     },
     {
       "id": "dp2-26f2-q22",
@@ -15701,7 +15701,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (A): Que participe en el mercado de forma permanente."
+      "explanation_md": "Art. 297 CP. Exige expresamente que participe de forma permanente en el mercado."
     },
     {
       "id": "dp2-26f2-q23",
@@ -15740,7 +15740,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): El dolo directo, el dolo eventual y la imprudencia grave."
+      "explanation_md": "Art. 301.1 y 301.3 CP. Admite la comisión dolosa (directo y eventual) y por imprudencia grave."
     },
     {
       "id": "dp2-26f2-q24",
@@ -15779,7 +15779,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (C): Que sean causados con ánimo de lucro."
+      "explanation_md": "Art. 263.2 CP. El ánimo de lucro no figura entre los subtipos agravados específicos del delito de daños."
     },
     {
       "id": "dp2-26f2-q25",
@@ -15818,7 +15818,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (D): Se podrá aplicar al obligado tributario o al autor de delito si antes de que transcurran dos meses desde la citación judicial como imputado satisface la deuda tributaria y reconozca judicialmente los hechos."
+      "explanation_md": "Art. 305.6 CP. Atenuación potestativa para el obligado o autor si satisface y reconoce antes de dos meses desde la citación judicial."
     },
     {
       "id": "dp2-26f2-q26",
@@ -15857,7 +15857,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (B): Un supuesto agravado del delito de aborto fuera de los casos permitidos por la ley causado con el consentimiento de la mujer que puede apreciarse de forma facultativa."
+      "explanation_md": "Art. 145.1 CP. El aborto consentido fuera de centro acreditado (domicilio) constituye un subtipo agravado de carácter facultativo (el juez 'podrá' imponer la pena en su mitad superior)."
     },
     {
       "id": "dp2-26f2-q27",
@@ -15896,7 +15896,7 @@
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Respuesta correcta (B): La venta a terceros."
+      "explanation_md": "Art. 279 CP. El subtipo agravado menciona difusión, revelación o cesión a terceros, no empleando expresamente el término mercantil 'venta' como verbo típico literal."
     }
   ]
 }
