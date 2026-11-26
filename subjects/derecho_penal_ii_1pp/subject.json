@@ -4,7 +4,7 @@
   "title": "Derecho Penal II — Primer parcial",
   "degree": "UNED — Grados en Derecho y Criminología",
   "type": "test",
-  "content_version": "2026.10.2",
+  "content_version": "2026.11.1",
   "exam": {
     "questions": 25,
     "reserve_questions": 2,
@@ -648,40 +648,41 @@
       "id": "dp2-22f1-q15",
       "topic": "libertad_sexual",
       "importance": 4,
-      "question_md": "¿Qué delito comete quien tiene acceso carnal sin consentimiento por vía vaginal con persona cuya voluntad ha anulado mediante el uso de drogas?:",
+      "question_md": "Conforme al Código Penal vigente, ¿qué delito comete quien anula mediante drogas la voluntad de la víctima y mantiene con ella acceso carnal por vía vaginal?",
       "answers": [
         {
           "id": "a",
-          "text_md": "Agresión sexual."
+          "text_md": "Agresión sexual básica del art. 178.1 CP."
         },
         {
           "id": "b",
-          "text_md": "Agresión sexual agravada."
+          "text_md": "Violación del art. 179.1 CP, sin cualificación adicional."
         },
         {
           "id": "c",
-          "text_md": "Violación."
+          "text_md": "Violación del art. 179.2 CP, con aplicación de la circunstancia del art. 180.1.7.ª CP."
         },
         {
           "id": "d",
           "text_md": "Abuso sexual."
         }
       ],
-      "correct_answer": "d",
+      "correct_answer": "c",
       "tags": [
         "examen",
-        "22f1"
+        "22f1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A22F1.pdf — Convocatoria febrero 2022 — Nacional 1 / 1.º parcial",
         "page": 2,
-        "answer_reference": "Clave reconciliada con el manual aportado y material de repaso del paquete de fuentes"
+        "answer_reference": "Clave reconciliada con el manual aportado y material de repaso del paquete de fuentes | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): arts. 178.2-3, 179.2 y 180.1.7.ª CP"
       },
       "exam_history": [
         "2022-02"
       ],
-      "explanation_md": "Art. 179 y 180.1.6ª CP. Acceso carnal por vía vaginal = Violación (agresiones sexuales)."
+      "explanation_md": "El acceso carnal vaginal es violación; si el responsable anula la voluntad con drogas, se aplica el art. 179.2 y la circunstancia específica del art. 180.1.7.ª CP."
     },
     {
       "id": "dp2-22f1-q16",
@@ -865,18 +866,19 @@
       "correct_answer": "a",
       "tags": [
         "examen",
-        "22f1"
+        "22f1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A22F1.pdf — Convocatoria febrero 2022 — Nacional 1 / 1.º parcial",
         "page": 3,
-        "answer_reference": "Clave reconciliada con el manual aportado y material de repaso del paquete de fuentes"
+        "answer_reference": "Clave reconciliada con el manual aportado y material de repaso del paquete de fuentes | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 250.1.8.º CP, redacción LO 1/2026"
       },
       "exam_history": [
         "2022-02"
       ],
-      "explanation_md": "El art. 250 CP no incluye el abuso genérico de firma ajena entre sus subtipos agravados de estafa; sí contempla otras circunstancias como la estafa procesal."
+      "explanation_md": "Una sola condena previa por otro delito patrimonial no basta para el subtipo agravado: el art. 250.1.8.º vigente exige al menos tres condenas previas por delitos menos graves o graves de la misma naturaleza."
     },
     {
       "id": "dp2-22f1-q21",
@@ -1545,40 +1547,41 @@
       "id": "dp2-22s1-q11",
       "topic": "libertad_sexual",
       "importance": 4,
-      "question_md": "El Código penal español diferencia las agresiones sexuales de los abusos sexuales por:",
+      "question_md": "Tras las reformas de 2022 y 2023, ¿cuál de las siguientes afirmaciones describe correctamente la regulación de los delitos contra la libertad sexual?",
       "answers": [
         {
           "id": "a",
-          "text_md": "Que la víctima sea menor de 16 años"
+          "text_md": "Se mantiene la distinción entre abuso sexual y agresión sexual según exista o no violencia o intimidación."
         },
         {
           "id": "b",
-          "text_md": "Que la conducta consista en acceso carnal por vía vaginal, anal o bucal, o introducción de miembros corporales u objetos por alguna de las dos primeras vías"
+          "text_md": "Todo acto que atente contra la libertad sexual sin consentimiento es agresión sexual; si existe acceso carnal o penetración en los términos del art. 179 CP, se califica como violación."
         },
         {
           "id": "c",
-          "text_md": "Que la víctima haya prestado o no su consentimiento"
+          "text_md": "Solo existe agresión sexual cuando se emplea violencia o intimidación."
         },
         {
           "id": "d",
-          "text_md": "La utilización de violencia o intimidación"
+          "text_md": "Los actos sexuales sin consentimiento pero sin violencia o intimidación siguen calificándose como abuso sexual."
         }
       ],
-      "correct_answer": "d",
+      "correct_answer": "b",
       "tags": [
         "examen",
-        "22s1"
+        "22s1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A22S1.pdf — Convocatoria extraordinaria septiembre 2022 — 1.º PP, modelo A",
         "page": 3,
-        "answer_reference": "Clave reconstruida a partir del examen y material de apoyo aportado"
+        "answer_reference": "Clave reconstruida a partir del examen y material de apoyo aportado | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): arts. 178 y 179 CP; LO 10/2022 y LO 4/2023"
       },
       "exam_history": [
         "2022-09"
       ],
-      "explanation_md": "Según la regulación aplicable al examen, la violencia o intimidación era el elemento que diferenciaba la agresión sexual del abuso sexual."
+      "explanation_md": "La LO 10/2022 unificó abuso y agresión sexual: hoy todo acto sexual sin consentimiento entra en la agresión sexual, y el acceso carnal típico se califica como violación."
     },
     {
       "id": "dp2-22s1-q12",
@@ -1748,7 +1751,7 @@
         },
         {
           "id": "b",
-          "text_md": "Un delito de hurto"
+          "text_md": "Un delito de hurto, con aplicación de la regla agravatoria del art. 234.3 CP."
         },
         {
           "id": "c",
@@ -1759,21 +1762,22 @@
           "text_md": "Un delito de robo con fuerza en las cosas en concurso con un delito de daños"
         }
       ],
-      "correct_answer": "a",
+      "correct_answer": "b",
       "tags": [
         "examen",
-        "22s1"
+        "22s1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A22S1.pdf — Convocatoria extraordinaria septiembre 2022 — 1.º PP, modelo A",
         "page": 4,
-        "answer_reference": "Clave reconstruida a partir del examen y material de apoyo aportado"
+        "answer_reference": "Clave reconstruida a partir del examen y material de apoyo aportado | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 234.3 CP"
       },
       "exam_history": [
         "2022-09"
       ],
-      "explanation_md": "La clave importada marca robo con fuerza, aunque el manual distingue los dispositivos incorporados a la cosa sustraída; esta pregunta presenta una discrepancia de fuente."
+      "explanation_md": "Neutralizar el dispositivo de alarma instalado en la propia cosa sustraída agrava el hurto conforme al art. 234.3 CP; no constituye por sí mismo fuerza típica del robo."
     },
     {
       "id": "dp2-22s1-q17",
@@ -3754,18 +3758,19 @@
       "correct_answer": "a",
       "tags": [
         "examen",
-        "23s1"
+        "23s1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A23S1.pdf — Convocatoria extraordinaria septiembre 2023 — Nacional original 1.º PP, Modelo A",
         "page": "3–4",
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 173.1, párrafo tercero, CP"
       },
       "exam_history": [
         "2023-09"
       ],
-      "explanation_md": "Art. 173.1 párr. 2º CP. Requiere expresamente actuar 'prevaliéndose de su relación de superioridad'."
+      "explanation_md": "El art. 173.1, párrafo tercero, exige expresamente que el autor actúe prevaliéndose de su relación de superioridad en el ámbito laboral o funcionarial."
     },
     {
       "id": "dp2-23s1-q14",
@@ -4707,40 +4712,41 @@
       "id": "dp2-24f1-q11",
       "topic": "libertad_sexual",
       "importance": 4,
-      "question_md": "¿Cuál de las siguientes opciones NO constituye una modalidad agravada de las agresiones sexuales básicas del art. 178 CP?:",
+      "question_md": "¿Cuál de las siguientes NO constituye, por sí sola, una circunstancia agravante específica de las enumeradas en el art. 180.1 CP?",
       "answers": [
         {
           "id": "a",
-          "text_md": "Si la agresión sexual se hubiera cometido empleando violencia."
+          "text_md": "Que los hechos se cometan por la actuación conjunta de dos o más personas."
         },
         {
           "id": "b",
-          "text_md": "Si la agresión sexual se hubiera cometido empleando intimidación."
+          "text_md": "Que se emplee violencia o intimidación, sin que concurra una circunstancia adicional del art. 180.1 CP."
         },
         {
           "id": "c",
-          "text_md": "Si la agresión sexual se hubiera cometido sobre una víctima que tenga anulada por cualquier causa su voluntad."
+          "text_md": "Que la víctima se halle en una situación de especial vulnerabilidad por razón de su edad, enfermedad, discapacidad u otra circunstancia."
         },
         {
           "id": "d",
-          "text_md": "Si la agresión sexual se hubiera cometido con abuso de una situación de superioridad."
+          "text_md": "Que la persona responsable haya anulado la voluntad de la víctima suministrándole fármacos, drogas u otra sustancia idónea."
         }
       ],
-      "correct_answer": "a",
+      "correct_answer": "b",
       "tags": [
         "examen",
-        "24f1"
+        "24f1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A24F1.pdf — Convocatoria ordinaria enero-febrero 2024 — Modelo A",
         "page": 3,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): arts. 178.3, 179.2 y 180.1 CP"
       },
       "exam_history": [
         "2024-02"
       ],
-      "explanation_md": "El art. 178 CP contiene el tipo básico de agresión sexual; las circunstancias cualificadas del art. 180 son las que convierten el hecho en modalidad agravada."
+      "explanation_md": "La violencia o intimidación integra la modalidad del art. 178.3 (o 179.2 si hay penetración), pero no es por sí sola una de las circunstancias específicas enumeradas en el art. 180.1 CP."
     },
     {
       "id": "dp2-24f1-q12",
@@ -5701,21 +5707,22 @@
           "text_md": "De modo esporádico a los familiares o allegados de la misma, o lo oculten de modo reiterado a quienes tengan el deber de perseguir el delito."
         }
       ],
-      "correct_answer": "d",
+      "correct_answer": "c",
       "tags": [
         "examen",
-        "24s1"
+        "24s1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A24S1.pdf — Convocatoria extraordinaria septiembre 2024 — 1.º parcial, Modelo A",
         "page": 2,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 173.1, párrafo segundo, CP"
       },
       "exam_history": [
         "2024-09"
       ],
-      "explanation_md": "Art. 173.1 párr. 2º CP. Ocultación reiterada de paradero de cadáver a familiares/allegados o a quienes tengan deber de perseguir el delito."
+      "explanation_md": "El art. 173.1 CP castiga a quien, conociendo el paradero de un cadáver, oculta de modo reiterado esa información a los familiares o allegados de la persona fallecida."
     },
     {
       "id": "dp2-24s1-q10",
@@ -6033,40 +6040,41 @@
       "id": "dp2-24s1-q18",
       "topic": "hurtos_robos",
       "importance": 4,
-      "question_md": "La sanción de la multirreincidencia en el delito de hurto, exige que el culpable hubiera sido condenado ejecutoriamente por una serie de delitos, siempre que sean de la misma naturaleza y que el montante acumulado sea superior a 400 euros, para lo que no se tendrán en cuenta los antecedentes cancelados o que debieran serlo. En este sentido, ¿cuántos delitos deben cometerse?",
+      "question_md": "Según el art. 234.2 CP vigente, si lo sustraído no excede de 400 euros, ¿qué exige la regla especial de multirreincidencia para aplicar la pena prevista en el art. 234.1?",
       "answers": [
         {
           "id": "a",
-          "text_md": "Al menos tres, del Título XIII del CP."
+          "text_md": "Al menos tres condenas ejecutorias por delitos de la misma naturaleza comprendidos en el Título XIII, siendo al menos uno de ellos leve."
         },
         {
           "id": "b",
-          "text_md": "Al menos tres, del Capítulo relativo al hurto, exclusivamente."
+          "text_md": "Al menos tres condenas exclusivamente por hurto y que la suma de las cuantías supere 400 euros."
         },
         {
           "id": "c",
-          "text_md": "Al menos cinco, del Título XIII del CP."
+          "text_md": "Al menos cinco condenas por delitos patrimoniales, cualquiera que sea su naturaleza."
         },
         {
           "id": "d",
-          "text_md": "Al menos cinco, del Capítulo relativo al hurto, exclusivamente."
+          "text_md": "Una sola condena previa por cualquier delito contra el patrimonio."
         }
       ],
-      "correct_answer": "b",
+      "correct_answer": "a",
       "tags": [
         "examen",
-        "24s1"
+        "24s1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A24S1.pdf — Convocatoria extraordinaria septiembre 2024 — 1.º parcial, Modelo A",
         "page": 4,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 234.2 CP, redacción LO 1/2026"
       },
       "exam_history": [
         "2024-09"
       ],
-      "explanation_md": "Art. 235.1.7º CP. Exige condenas previas por al menos tres delitos del mismo capítulo (hurtos)."
+      "explanation_md": "Desde la LO 1/2026, el art. 234.2 exige al menos tres condenas por delitos de la misma naturaleza del Título XIII y que al menos una sea leve; ya no exige sumar más de 400 euros."
     },
     {
       "id": "dp2-24s1-q19",
@@ -6891,7 +6899,7 @@
       "id": "dp2-25f1-q13",
       "topic": "integridad_trata",
       "importance": 4,
-      "question_md": "El delito de trata de seres humanos del art. 177.1 bis CP, dispone el castigo por la comisión delito de trata de seres humanos, cuando:",
+      "question_md": "El delito de trata de seres humanos del art. 177 bis.1 CP, dispone el castigo por la comisión delito de trata de seres humanos, cuando:",
       "answers": [
         {
           "id": "a",
@@ -6913,18 +6921,19 @@
       "correct_answer": "b",
       "tags": [
         "examen",
-        "25f1"
+        "25f1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A25F1.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo A",
         "page": 3,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 177 bis.1 CP"
       },
       "exam_history": [
         "2025-02"
       ],
-      "explanation_md": "Art. 177 bis 1 CP. El tipo sanciona la trata con fines de explotación sexual (incluyendo pornografía) mediante violencia, intimidación o engaño."
+      "explanation_md": "El art. 177 bis.1 CP sanciona, entre otras finalidades, la trata para explotación sexual —incluida la pornografía— cuando concurre alguno de los medios típicos previstos."
     },
     {
       "id": "dp2-25f1-q14",
@@ -7242,7 +7251,7 @@
       "id": "dp2-25f1-q22",
       "topic": "estafas_defraudaciones",
       "importance": 4,
-      "question_md": "Según el manual de la asignatura, los elementos configuradores del delito de estafa del art. 248.1 CP, son:",
+      "question_md": "Según el manual de la asignatura, los elementos configuradores del delito de estafa del art. 248 CP, son:",
       "answers": [
         {
           "id": "a",
@@ -7264,18 +7273,19 @@
       "correct_answer": "d",
       "tags": [
         "examen",
-        "25f1"
+        "25f1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A25F1.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo A",
         "page": 5,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 248 CP"
       },
       "exam_history": [
         "2025-02"
       ],
-      "explanation_md": "Manual / Jurisprudencia. Exige la cadena causal completa: engaño bastante → error esencial → acto de disposición patrimonial → nexo causal → perjuicio patrimonial + ánimo de lucro."
+      "explanation_md": "La estafa exige engaño bastante que cause error y determine un acto de disposición patrimonial perjudicial, con nexo causal y ánimo de lucro."
     },
     {
       "id": "dp2-25f1-q23",
@@ -8061,7 +8071,7 @@
       "id": "dp2-25s1-q16",
       "topic": "estafas_defraudaciones",
       "importance": 4,
-      "question_md": "¿Cómo se califica el delito de estafa si la cuantía de lo defraudado no excede de 400 euros?:",
+      "question_md": "Con carácter general, si la cuantía de una estafa no excede de 400 euros y no concurre ninguna circunstancia del art. 250 ni la regla de multirreincidencia del art. 248 CP, ¿cómo se califica?",
       "answers": [
         {
           "id": "a",
@@ -8083,18 +8093,19 @@
       "correct_answer": "b",
       "tags": [
         "examen",
-        "25s1"
+        "25s1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A25S1.pdf — Convocatoria ordinaria septiembre 2025 — modelo A",
         "page": 3,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 248 CP, redacción LO 1/2026"
       },
       "exam_history": [
         "2025-09"
       ],
-      "explanation_md": "Art. 249.2 CP. Las estafas por cuantía inferior o igual a 400 euros constituyen delito leve."
+      "explanation_md": "El art. 248 CP prevé multa para la estafa de hasta 400 euros, salvo los supuestos del art. 250 y la excepción de multirreincidencia introducida en 2026."
     },
     {
       "id": "dp2-25s1-q17",
@@ -8736,28 +8747,29 @@
         },
         {
           "id": "c",
-          "text_md": "Las personas que ocupen una posición de superioridad jerárquica en el ámbito laboral o funcionarial."
+          "text_md": "Quien, en el ámbito laboral o funcionarial, se prevalezca de una relación de superioridad respecto de la víctima."
         },
         {
           "id": "d",
           "text_md": "Los representantes sindicales que realicen su actividad en el ámbito laboral o funcionarial."
         }
       ],
-      "correct_answer": "a",
+      "correct_answer": "c",
       "tags": [
         "examen",
-        "26f1"
+        "26f1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A26F1.pdf — Convocatoria ordinaria febrero 2026 — primera semana, modelo A",
         "page": 2,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 173.1, párrafo tercero, CP"
       },
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Art. 173.1 párr. 2º CP. Aunque requiere prevalimiento de superioridad, el sujeto activo es común (cualquier persona en el ámbito laboral o funcionarial que hostigue prevaliéndose de su posición)."
+      "explanation_md": "El acoso laboral del art. 173.1 CP exige que el autor actúe prevaliéndose de una relación de superioridad y realice de forma reiterada actos hostiles o humillantes graves."
     },
     {
       "id": "dp2-26f1-q07",
@@ -9136,18 +9148,19 @@
       "correct_answer": "d",
       "tags": [
         "examen",
-        "26f1"
+        "26f1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A26F1.pdf — Convocatoria ordinaria febrero 2026 — primera semana, modelo A",
         "page": 4,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 248 CP, redacción LO 1/2026"
       },
       "exam_history": [
         "2026-02"
       ],
-      "explanation_md": "Art. 249 / 250 CP. La violencia o intimidación es elemento típico del robo o la extorsión, pero no de la estafa."
+      "explanation_md": "El art. 248 CP menciona importe defraudado, quebranto económico, relaciones entre las partes, medios empleados y otras circunstancias; no incluye violencia o intimidación."
     },
     {
       "id": "dp2-26f1-q17",
@@ -12431,7 +12444,7 @@
       "id": "dp2-23f2-q20",
       "topic": "integridad_trata",
       "importance": 4,
-      "question_md": "¿En qué supuestos es irrelevante el consentimiento de la víctima en el delito de trata de seres humanos?",
+      "question_md": "Conforme al art. 177 bis.3 CP, ¿cuándo es irrelevante el consentimiento de una víctima adulta de trata de seres humanos?",
       "answers": [
         {
           "id": "a",
@@ -12447,24 +12460,25 @@
         },
         {
           "id": "d",
-          "text_md": "Solo cuando se haya recurrido a violencia, intimidación, engaño o abuso de una situación de superioridad o de necesidad o de vulnerabilidad de la víctima."
+          "text_md": "Cuando se haya recurrido a alguno de los medios indicados en el apartado 1 del art. 177 bis CP."
         }
       ],
-      "correct_answer": "c",
+      "correct_answer": "d",
       "tags": [
         "examen",
-        "23f2"
+        "23f2",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660B23F2.pdf — Convocatoria febrero 2023 — segunda semana, modelo B",
         "page": 5,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 177 bis.2-3 CP"
       },
       "exam_history": [
         "2023-02"
       ],
-      "explanation_md": "Art. 177 bis 5 CP. El consentimiento prestado por la víctima de trata de seres humanos es irrelevante en todo caso."
+      "explanation_md": "En víctimas adultas, el art. 177 bis.3 hace irrelevante el consentimiento cuando se emplea alguno de los medios típicos del apartado 1; para menores, el apartado 2 no exige esos medios."
     },
     {
       "id": "dp2-23f2-q21",
@@ -14108,40 +14122,41 @@
       "id": "dp2-25f2-q09",
       "topic": "libertad",
       "importance": 4,
-      "question_md": "El delito de acoso del art. 172.ter 1 CP requiere siempre que:",
+      "question_md": "El tipo básico de acoso o stalking del art. 172 ter.1 CP requiere:",
       "answers": [
         {
           "id": "a",
-          "text_md": "El sujeto activo someta a vigilancia, persecución de cercanía física al sujeto pasivo, pero con la exclusiva intención de mantener relación sexual con el mismo."
+          "text_md": "Una única conducta de vigilancia o contacto, aunque no altere la vida cotidiana de la víctima."
         },
         {
           "id": "b",
-          "text_md": "El sujeto activo sea persona del sexo masculino, y el sujeto pasivo de sexo femenino y además el sujeto activo atente contra la libertad del sujeto pasivo, alterando el normal desarrollo de su vida cotidiana."
+          "text_md": "Que el autor vigile o persiga físicamente a la víctima en todos los casos."
         },
         {
           "id": "c",
-          "text_md": "Sin estar legítimamente autorizado, el sujeto activo intente establecer contacto con el sujeto pasivo de forma insistente y reiterada, vigilándola, persiguiéndola o buscando su cercanía física, alterando el normal desarrollo de su vida cotidiana."
+          "text_md": "Que, sin autorización legítima, se realice de forma insistente y reiterada alguna de las conductas previstas en el precepto y con ello se altere el normal desarrollo de la vida cotidiana de la víctima."
         },
         {
           "id": "d",
-          "text_md": "El sujeto activo someta a vigilancia al sujeto pasivo, siendo intrascendente que la conducta sea ocasional o reiterada en el tiempo."
+          "text_md": "Que exista necesariamente una finalidad sexual."
         }
       ],
       "correct_answer": "c",
       "tags": [
         "examen",
-        "25f2"
+        "25f2",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
         "page": 3,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 172 ter.1 CP"
       },
       "exam_history": [
         "2025-02"
       ],
-      "explanation_md": "Art. 172 ter 1 CP. Definición exacta de los requisitos típicos del acoso (stalking)."
+      "explanation_md": "Las conductas del art. 172 ter.1 son alternativas; lo imprescindible es su realización insistente y reiterada, sin autorización, y que provoquen la alteración del normal desarrollo de la vida cotidiana."
     },
     {
       "id": "dp2-25f2-q10",
@@ -14478,21 +14493,22 @@
           "text_md": "No extingue la responsabilidad penal en ningún caso."
         }
       ],
-      "correct_answer": "d",
+      "correct_answer": "a",
       "tags": [
         "examen",
-        "25f2"
+        "25f2",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660B25F2.pdf — Convocatoria enero/febrero 2025 — 1.º parcial, modelo B",
         "page": 4,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 267 CP"
       },
       "exam_history": [
         "2025-02"
       ],
-      "explanation_md": "Art. 267 / 130.5 CP. El perdón del ofendido no está contemplado como causa de extinción de la responsabilidad penal en el delito de daños dolosos (se rige por reglas generales de delitos públicos/semipúblicos)."
+      "explanation_md": "El art. 267 CP dispone expresamente que, en los daños causados por imprudencia grave allí tipificados, el perdón de la persona ofendida extingue la acción penal."
     },
     {
       "id": "dp2-25f2-q19",
