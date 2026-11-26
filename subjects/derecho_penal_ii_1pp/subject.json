@@ -4,7 +4,7 @@
   "title": "Derecho Penal II — Primer parcial",
   "degree": "UNED — Grados en Derecho y Criminología",
   "type": "test",
-  "content_version": "2026.11.1",
+  "content_version": "2026.11.2",
   "exam": {
     "questions": 25,
     "reserve_questions": 2,
@@ -660,7 +660,7 @@
         },
         {
           "id": "c",
-          "text_md": "Violación del art. 179.2 CP, con aplicación de la circunstancia del art. 180.1.7.ª CP."
+          "text_md": "Violación agravada por sumisión química, conforme a los arts. 179.2 y 180.1.7.ª CP."
         },
         {
           "id": "d",
@@ -677,12 +677,12 @@
         "type": "exam",
         "reference": "E660230660A22F1.pdf — Convocatoria febrero 2022 — Nacional 1 / 1.º parcial",
         "page": 2,
-        "answer_reference": "Clave reconciliada con el manual aportado y material de repaso del paquete de fuentes | Adaptada a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): arts. 178.2-3, 179.2 y 180.1.7.ª CP"
+        "answer_reference": "Clave reconciliada con el manual aportado y material de repaso del paquete de fuentes | Adaptada/revisada conforme a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): arts. 179.2, 180.1.7.ª y 8.4 CP"
       },
       "exam_history": [
         "2022-02"
       ],
-      "explanation_md": "El acceso carnal vaginal es violación; si el responsable anula la voluntad con drogas, se aplica el art. 179.2 y la circunstancia específica del art. 180.1.7.ª CP."
+      "explanation_md": "El acceso carnal vaginal con la voluntad anulada es violación; si el propio responsable suministra la droga, concurre además la circunstancia de sumisión química, resolviéndose el solapamiento conforme al art. 8.4 CP."
     },
     {
       "id": "dp2-22f1-q16",
@@ -2213,11 +2213,11 @@
       "id": "dp2-23f1-q01",
       "topic": "libertad_sexual",
       "importance": 4,
-      "question_md": "El art. 187.2 CP agrava la pena del que determine a una persona mayor de edad a ejercer la prostitución mediante violencia, intimidación o engaño, o abusando de una situación de superioridad o de necesidad o vulnerabilidad de la víctima, siempre que ponga en peligro su vida o salud. ¿Este tipo delictivo puede realizarse?:",
+      "question_md": "Cuando el delito del art. 187.1 CP se agrava porque el culpable ha puesto en peligro la vida o la salud de la víctima, ¿cómo puede producirse ese peligro conforme al art. 187.2 CP?",
       "answers": [
         {
           "id": "a",
-          "text_md": "Únicamente mediante forma dolosa."
+          "text_md": "Únicamente de forma dolosa."
         },
         {
           "id": "b",
@@ -2225,28 +2225,29 @@
         },
         {
           "id": "c",
-          "text_md": "Tanto de forma dolosa como por imprudencia grave y menos grave."
+          "text_md": "Tanto de forma dolosa como por imprudencia grave o menos grave."
         },
         {
           "id": "d",
-          "text_md": "Únicamente de forma imprudente, ya sea esta grave o menos grave."
+          "text_md": "Únicamente por imprudencia grave."
         }
       ],
-      "correct_answer": "a",
+      "correct_answer": "b",
       "tags": [
         "examen",
-        "23f1"
+        "23f1",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660A23F1.pdf — Convocatoria febrero 2023 — primera semana, modelo A",
         "page": 1,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada/revisada conforme a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 187.2.c CP"
       },
       "exam_history": [
         "2023-02"
       ],
-      "explanation_md": "Art. 187.2 CP. La puesta en peligro de la vida o salud actúa como subtipo agravado del proxenetismo doloso, requiriendo dolo."
+      "explanation_md": "El art. 187.2.c CP agrava la pena cuando se pone en peligro la vida o salud de la víctima de forma dolosa o por imprudencia grave."
     },
     {
       "id": "dp2-23f1-q02",
@@ -11204,7 +11205,7 @@
         },
         {
           "id": "b",
-          "text_md": "Abuso sexual."
+          "text_md": "Agresión sexual."
         },
         {
           "id": "c",
@@ -11218,18 +11219,19 @@
       "correct_answer": "c",
       "tags": [
         "examen",
-        "22f2"
+        "22f2",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660B22F2.pdf — Convocatoria febrero 2022 — Nacional 2",
         "page": 2,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada/revisada conforme a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 184.1 CP"
       },
       "exam_history": [
         "2022-02"
       ],
-      "explanation_md": "Art. 184.1 CP. Definición exacta del delito de acoso sexual."
+      "explanation_md": "La conducta descrita encaja específicamente en el acoso sexual del art. 184.1 CP: solicitud de favores sexuales en una relación laboral, docente, de servicios o análoga que genera una situación gravemente hostil, intimidatoria o humillante."
     },
     {
       "id": "dp2-22f2-q16",
@@ -13127,21 +13129,22 @@
           "text_md": "Un delito de torturas agravado por ser el jefe de una organización o grupo criminal."
         }
       ],
-      "correct_answer": "a",
+      "correct_answer": "c",
       "tags": [
         "examen",
-        "24f2"
+        "24f2",
+        "actualizada_normativa_2026"
       ],
       "source": {
         "type": "exam",
         "reference": "E660230660B24F2.pdf — Convocatoria ordinaria febrero 2024 — modelo B",
         "page": 3,
-        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial"
+        "answer_reference": "App de exámenes aportada: JagPino & C.Enmascarado, DPII 1erParcial | Adaptada/revisada conforme a normativa vigente (Código Penal consolidado BOE, actualización 09/04/2026): art. 174 CP"
       },
       "exam_history": [
         "2024-02"
       ],
-      "explanation_md": "La clave del examen encuadra los hechos como torturas por la finalidad de obtener una confesión y los graves sufrimientos infligidos a la víctima."
+      "explanation_md": "La tortura del art. 174 CP es un delito especial propio de autoridad o funcionario público. Un particular puede responder por otros delitos contra la integridad moral, lesiones o coacciones, pero no por torturas."
     },
     {
       "id": "dp2-24f2-q11",
